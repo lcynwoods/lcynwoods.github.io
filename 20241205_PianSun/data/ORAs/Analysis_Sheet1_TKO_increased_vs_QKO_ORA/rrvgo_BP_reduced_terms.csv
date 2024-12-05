@@ -1,0 +1,95 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0043410","GO:0043410",1,"GO:0043410",1.82754273363683,541,"positive regulation of MAPK cascade","positive regulation of MAPK cascade",0.814808510638298,0.275428571428571,0
+"GO:0070372","GO:0070372",1,"GO:0043410",1.19684235031283,343,"regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.848670212765957,0.318714285714286,0.865
+"GO:0006689","GO:0006689",2,"GO:0006689",1.19684235031283,7,"ganglioside catabolic process","ganglioside catabolic process",0.925787234042553,0.2885,0
+"GO:0035720","GO:0035720",4,"GO:0035720",1.1677432428816,20,"intraciliary anterograde transport","intraciliary anterograde transport",0.930393617021277,0.583,0
+"GO:0055010","GO:0055010",3,"GO:0055010",1.1677432428816,56,"ventricular cardiac muscle tissue morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.840553191489362,0.344,0
+"GO:0046514","GO:0046514",2,"GO:0006689",1.1677432428816,20,"ceramide catabolic process","ganglioside catabolic process",0.9245,0.3285,0.94
+"GO:0070374","GO:0070374",1,"GO:0043410",1.1677432428816,239,"positive regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.827606382978723,0.302,0.905
+"GO:0003222","GO:0003222",5,"GO:0003222",0.890663807758723,17,"ventricular trabecula myocardium morphogenesis","ventricular trabecula myocardium morphogenesis",0.845914893617021,0.5255,0
+"GO:0062043","GO:0062043",6,"GO:0062043",0.890663807758723,9,"positive regulation of cardiac epithelial to mesenchymal transition","positive regulation of cardiac epithelial to mesenchymal transition",0.784255319148936,0.307166666666667,0
+"GO:0046479","GO:0046479",2,"GO:0006689",0.890663807758723,14,"glycosphingolipid catabolic process","ganglioside catabolic process",0.924659574468085,0.3055,0.963
+"GO:0001961","GO:0001961",8,"GO:0001961",0.872355262116538,59,"positive regulation of cytokine-mediated signaling pathway","positive regulation of cytokine-mediated signaling pathway",0.828297872340426,0.583333333333333,0
+"GO:2000181","GO:2000181",7,"GO:2000181",0.872355262116538,111,"negative regulation of blood vessel morphogenesis","negative regulation of blood vessel morphogenesis",0.818127659574468,0.4055,0
+"GO:0042127","GO:0042127",9,"GO:0042127",0.86569122103391,2415,"regulation of cell population proliferation","regulation of cell population proliferation",0.899989361702128,0.515,0
+"GO:0031349","GO:0031349",10,"GO:0031349",0.86569122103391,520,"positive regulation of defense response","positive regulation of defense response",0.827042553191489,0.399,0
+"GO:0060271","GO:0060271",9,"GO:0042127",0.86569122103391,387,"cilium assembly","regulation of cell population proliferation",0.926446808510638,0.3565,0.634
+"GO:0032330","GO:0032330",11,"GO:0032330",0.833379572475406,55,"regulation of chondrocyte differentiation","regulation of chondrocyte differentiation",0.837351063829787,1,0
+"GO:0060317","GO:0060317",6,"GO:0062043",0.833379572475406,32,"cardiac epithelial to mesenchymal transition","positive regulation of cardiac epithelial to mesenchymal transition",0.826606382978723,0.294333333333333,0.92
+"GO:0071221","GO:0071221",13,"GO:0071221",0.802435519898206,6,"cellular response to bacterial lipopeptide","cellular response to bacterial lipopeptide",0.90963829787234,1,0
+"GO:0032103","GO:0032103",15,"GO:0032103",0.802435519898206,668,"positive regulation of response to external stimulus","positive regulation of response to external stimulus",0.820234042553192,0.542666666666667,0
+"GO:0010738","GO:0010738",1,"GO:0043410",0.802435519898206,24,"regulation of protein kinase A signaling","positive regulation of MAPK cascade",0.881712765957447,0.529142857142857,0.562
+"GO:0001822","GO:0001822",14,"GO:0001822",0.802435519898206,336,"kidney development","kidney development",0.880606382978723,0.505,0
+"GO:0034143","GO:0034143",15,"GO:0032103",0.802435519898206,26,"regulation of toll-like receptor 4 signaling pathway","positive regulation of response to external stimulus",0.826393617021277,0.495666666666667,0.72
+"GO:0048844","GO:0048844",7,"GO:2000181",0.802435519898206,83,"artery morphogenesis","negative regulation of blood vessel morphogenesis",0.873457446808511,0.48775,0.684
+"GO:0007157","GO:0007157",12,"GO:0007157",0.802435519898206,50,"heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.966223404255319,0.467,0
+"GO:0016525","GO:0016525",7,"GO:2000181",0.802435519898206,109,"negative regulation of angiogenesis","negative regulation of blood vessel morphogenesis",0.818308510638298,0.406,0.998
+"GO:0050729","GO:0050729",10,"GO:0031349",0.802435519898206,167,"positive regulation of inflammatory response","positive regulation of defense response",0.82886170212766,0.34775,0.862
+"GO:0043408","GO:0043408",1,"GO:0043410",0.802435519898206,751,"regulation of MAPK cascade","positive regulation of MAPK cascade",0.837212765957447,0.292428571428571,0.956
+"GO:0042476","GO:0042476",20,"GO:0042476",0.796649671596883,132,"odontogenesis","odontogenesis",0.883702127659574,1,0
+"GO:0042116","GO:0042116",18,"GO:0042116",0.796649671596883,113,"macrophage activation","macrophage activation",0.915808510638298,1,0
+"GO:0051180","GO:0051180",17,"GO:0051180",0.796649671596883,45,"vitamin transport","vitamin transport",0.984797872340425,1,0
+"GO:0120162","GO:0120162",16,"GO:0120162",0.796649671596883,101,"positive regulation of cold-induced thermogenesis","positive regulation of cold-induced thermogenesis",0.859808510638298,0.5145,0
+"GO:0003208","GO:0003208",3,"GO:0055010",0.796649671596883,82,"cardiac ventricle morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.84436170212766,0.3465,0.962
+"GO:0030593","GO:0030593",19,"GO:0030593",0.796649671596883,110,"neutrophil chemotaxis","neutrophil chemotaxis",0.859659574468085,0.3095,0
+"GO:0120161","GO:0120161",16,"GO:0120162",0.790743762647141,150,"regulation of cold-induced thermogenesis","positive regulation of cold-induced thermogenesis",0.884117021276596,0.5145,0.971
+"GO:0009893","GO:0009893",22,"GO:0009893",0.773349580390187,3904,"positive regulation of metabolic process","positive regulation of metabolic process",0.873808510638298,0.6405,0
+"GO:0061384","GO:0061384",5,"GO:0003222",0.773349580390187,37,"heart trabecula morphogenesis","ventricular trabecula myocardium morphogenesis",0.909925531914894,0.5255,0.949
+"GO:0022604","GO:0022604",21,"GO:0022604",0.773349580390187,277,"regulation of cell morphogenesis","regulation of cell morphogenesis",0.851095744680851,0.476,0
+"GO:0048247","GO:0048247",19,"GO:0030593",0.773349580390187,54,"lymphocyte chemotaxis","neutrophil chemotaxis",0.86818085106383,0.387666666666667,0.793
+"GO:0001573","GO:0001573",2,"GO:0006689",0.773349580390187,28,"ganglioside metabolic process","ganglioside catabolic process",0.939936170212766,0.34,0.943
+"GO:0150104","GO:0150104",23,"GO:0150104",0.771386396546098,21,"transport across blood-brain barrier","transport across blood-brain barrier",0.94781914893617,1,0
+"GO:0098742","GO:0098742",12,"GO:0007157",0.771386396546098,211,"cell-cell adhesion via plasma-membrane adhesion molecules","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.962851063829787,0.42275,0.874
+"GO:1990266","GO:1990266",19,"GO:0030593",0.771386396546098,138,"neutrophil migration","neutrophil chemotaxis",0.927287234042553,0.337,0.979
+"GO:0045787","GO:0045787",30,"GO:0045787",0.725374611891793,365,"positive regulation of cell cycle","positive regulation of cell cycle",0.913212765957447,1,0
+"GO:0015886","GO:0015886",29,"GO:0015886",0.725374611891793,9,"heme transport","heme transport",0.986117021276596,1,0
+"GO:0035272","GO:0035272",28,"GO:0035272",0.725374611891793,54,"exocrine system development","exocrine system development",0.916329787234043,1,0
+"GO:0001736","GO:0001736",27,"GO:0001736",0.725374611891793,64,"establishment of planar polarity","establishment of planar polarity",0.887659574468085,1,0
+"GO:0042423","GO:0042423",26,"GO:0042423",0.725374611891793,27,"catecholamine biosynthetic process","catecholamine biosynthetic process",0.958478723404255,1,0
+"GO:0007193","GO:0007193",25,"GO:0007193",0.725374611891793,78,"adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway","adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway",0.905521276595745,1,0
+"GO:0071870","GO:0071870",24,"GO:0071870",0.725374611891793,69,"cellular response to catecholamine stimulus","cellular response to catecholamine stimulus",0.899521276595745,0.581333333333333,0
+"GO:0072001","GO:0072001",14,"GO:0001822",0.725374611891793,352,"renal system development","kidney development",0.895829787234043,0.505,0.99
+"GO:0072359","GO:0072359",7,"GO:2000181",0.725374611891793,1238,"circulatory system development","negative regulation of blood vessel morphogenesis",0.855021276595745,0.48175,0.696
+"GO:1904645","GO:1904645",24,"GO:0071870",0.725374611891793,44,"response to amyloid-beta","cellular response to catecholamine stimulus",0.924042553191489,0.471333333333333,0.599
+"GO:1904646","GO:1904646",24,"GO:0071870",0.725374611891793,38,"cellular response to amyloid-beta","cellular response to catecholamine stimulus",0.901904255319149,0.452,0.657
+"GO:0030199","GO:0030199",31,"GO:0030199",0.725374611891793,61,"collagen fibril organization","collagen fibril organization",0.95218085106383,0.419666666666667,0
+"GO:0003223","GO:0003223",3,"GO:0055010",0.725374611891793,9,"ventricular compact myocardium morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.857595744680851,0.391,0.891
+"GO:0071621","GO:0071621",19,"GO:0030593",0.725374611891793,135,"granulocyte chemotaxis","neutrophil chemotaxis",0.856446808510638,0.302,0.971
+"GO:0010718","GO:0010718",6,"GO:0062043",0.725374611891793,54,"positive regulation of epithelial to mesenchymal transition","positive regulation of cardiac epithelial to mesenchymal transition",0.796457446808511,0.272166666666667,0.891
+"GO:0030198","GO:0030198",31,"GO:0030199",0.72410268578157,322,"extracellular matrix organization","collagen fibril organization",0.946691489361702,0.377333333333333,0.871
+"GO:0006954","GO:0006954",10,"GO:0031349",0.713957812079905,846,"inflammatory response","positive regulation of defense response",0.906170212765957,0.3915,0.696
+"GO:0016052","GO:0016052",32,"GO:0016052",0.70731826282914,167,"carbohydrate catabolic process","carbohydrate catabolic process",0.946936170212766,0.581,0
+"GO:0048667","GO:0048667",21,"GO:0022604",0.70619917273952,677,"cell morphogenesis involved in neuron differentiation","regulation of cell morphogenesis",0.848606382978723,0.412666666666667,0.795
+"GO:0070934","GO:0070934",33,"GO:0070934",0.677034566881774,10,"CRD-mediated mRNA stabilization","CRD-mediated mRNA stabilization",0.880723404255319,0.72,0
+"GO:0007409","GO:0007409",21,"GO:0022604",0.677034566881774,501,"axonogenesis","regulation of cell morphogenesis",0.800989361702128,0.418666666666667,0.777
+"GO:0030334","GO:0030334",19,"GO:0030593",0.648094553622699,1021,"regulation of cell migration","neutrophil chemotaxis",0.904382978723404,0.375333333333333,0.714
+"GO:0007169","GO:0007169",34,"GO:0007169",0.631725948828926,616,"transmembrane receptor protein tyrosine kinase signaling pathway","transmembrane receptor protein tyrosine kinase signaling pathway",0.881074468085106,1,0
+"GO:1904352","GO:1904352",39,"GO:1904352",0.630586713399954,4,"positive regulation of protein catabolic process in the vacuole","positive regulation of protein catabolic process in the vacuole",0.904021276595745,1,0
+"GO:0097503","GO:0097503",38,"GO:0097503",0.630586713399954,8,"sialylation","sialylation",0.978446808510638,1,0
+"GO:2000035","GO:2000035",37,"GO:2000035",0.630586713399954,15,"regulation of stem cell division","regulation of stem cell division",0.958276595744681,1,0
+"GO:0010517","GO:0010517",35,"GO:0010517",0.630586713399954,64,"regulation of phospholipase activity","regulation of phospholipase activity",0.969010638297872,1,0
+"GO:0009134","GO:0009134",33,"GO:0070934",0.630586713399954,15,"nucleoside diphosphate catabolic process","CRD-mediated mRNA stabilization",0.942765957446808,0.72,0.56
+"GO:0055006","GO:0055006",36,"GO:0055006",0.630586713399954,120,"cardiac cell development","cardiac cell development",0.856297872340426,0.72,0
+"GO:0060255","GO:0060255",22,"GO:0009893",0.630586713399954,6314,"regulation of macromolecule metabolic process","positive regulation of metabolic process",0.905914893617021,0.6405,0.719
+"GO:0009313","GO:0009313",32,"GO:0016052",0.630586713399954,17,"oligosaccharide catabolic process","carbohydrate catabolic process",0.953414893617021,0.581,0.838
+"GO:0044331","GO:0044331",12,"GO:0007157",0.630586713399954,44,"cell-cell adhesion mediated by cadherin","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.968957446808511,0.529,0.566
+"GO:0034137","GO:0034137",15,"GO:0032103",0.630586713399954,7,"positive regulation of toll-like receptor 2 signaling pathway","positive regulation of response to external stimulus",0.836106382978723,0.518333333333333,0.652
+"GO:0071346","GO:0071346",8,"GO:0001961",0.630586713399954,122,"cellular response to type II interferon","positive regulation of cytokine-mediated signaling pathway",0.864925531914894,0.463333333333333,0.629
+"GO:0022407","GO:0022407",12,"GO:0007157",0.630586713399954,526,"regulation of cell-cell adhesion","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules",0.921563829787234,0.45675,0.692
+"GO:0120031","GO:0120031",9,"GO:0042127",0.630586713399954,590,"plasma membrane bounded cell projection assembly","regulation of cell population proliferation",0.931946808510638,0.41175,0.659
+"GO:0044782","GO:0044782",9,"GO:0042127",0.630586713399954,418,"cilium organization","regulation of cell population proliferation",0.928074468085106,0.41075,0.647
+"GO:0050727","GO:0050727",10,"GO:0031349",0.630586713399954,411,"regulation of inflammatory response","positive regulation of defense response",0.841042553191489,0.33225,0.846
+"GO:0014033","GO:0014033",6,"GO:0062043",0.630586713399954,100,"neural crest cell differentiation","positive regulation of cardiac epithelial to mesenchymal transition",0.872042553191489,0.318333333333333,0.722
+"GO:0048762","GO:0048762",6,"GO:0062043",0.630586713399954,254,"mesenchymal cell differentiation","positive regulation of cardiac epithelial to mesenchymal transition",0.862723404255319,0.279166666666667,0.77
+"GO:1902533","GO:1902533",1,"GO:0043410",0.613508703783069,1071,"positive regulation of intracellular signal transduction","positive regulation of MAPK cascade",0.809787234042553,0.329571428571429,0.914
+"GO:0032735","GO:0032735",41,"GO:0032735",0.60922504644507,44,"positive regulation of interleukin-12 production","positive regulation of interleukin-12 production",0.858085106382979,1,0
+"GO:0006898","GO:0006898",40,"GO:0006898",0.60922504644507,272,"receptor-mediated endocytosis","receptor-mediated endocytosis",0.970617021276596,1,0
+"GO:0003177","GO:0003177",36,"GO:0055006",0.60922504644507,23,"pulmonary valve development","cardiac cell development",0.882702127659574,0.72,0.56
+"GO:0035721","GO:0035721",4,"GO:0035720",0.60922504644507,16,"intraciliary retrograde transport","intraciliary anterograde transport",0.928436170212766,0.583,0.834
+"GO:0034341","GO:0034341",8,"GO:0001961",0.60922504644507,150,"response to type II interferon","positive regulation of cytokine-mediated signaling pathway",0.879297872340426,0.466,0.621
+"GO:0003148","GO:0003148",3,"GO:0055010",0.60922504644507,27,"outflow tract septum morphogenesis","ventricular cardiac muscle tissue morphogenesis",0.860212765957447,0.435,0.771
+"GO:2000147","GO:2000147",19,"GO:0030593",0.60922504644507,630,"positive regulation of cell motility","neutrophil chemotaxis",0.872542553191489,0.397166666666667,0.686
+"GO:0043062","GO:0043062",31,"GO:0030199",0.60922504644507,324,"extracellular structure organization","collagen fibril organization",0.946691489361702,0.377666666666667,0.87
+"GO:0032874","GO:0032874",1,"GO:0043410",0.60922504644507,139,"positive regulation of stress-activated MAPK cascade","positive regulation of MAPK cascade",0.824074468085106,0.348714285714286,0.87
+"GO:0010717","GO:0010717",6,"GO:0062043",0.60922504644507,101,"regulation of epithelial to mesenchymal transition","positive regulation of cardiac epithelial to mesenchymal transition",0.830042553191489,0.261833333333333,0.854
+"GO:0090288","GO:0090288",42,"GO:0090288",0.604477039231997,107,"negative regulation of cellular response to growth factor stimulus","negative regulation of cellular response to growth factor stimulus",0.882755319148936,1,0

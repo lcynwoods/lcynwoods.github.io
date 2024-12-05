@@ -1,0 +1,17 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0086042","GO:0086042",1,"GO:0086042",3.94833434822184,7,"cardiac muscle cell-cardiac muscle cell adhesion","cardiac muscle cell-cardiac muscle cell adhesion",0.83325,0.483,0
+"GO:0086069","GO:0086069",2,"GO:0086069",2.92579155833965,14,"bundle of His cell to Purkinje myocyte communication","bundle of His cell to Purkinje myocyte communication",0.729625,0.415,0
+"GO:0086073","GO:0086073",1,"GO:0086042",2.92579155833965,6,"bundle of His cell-Purkinje myocyte adhesion involved in cell communication","cardiac muscle cell-cardiac muscle cell adhesion",0.5630625,0.4138,0.986
+"GO:0098911","GO:0098911",3,"GO:0098911",2.10844252844726,12,"regulation of ventricular cardiac muscle cell action potential","regulation of ventricular cardiac muscle cell action potential",0.699375,0.534,0
+"GO:0098901","GO:0098901",3,"GO:0098911",2.10844252844726,27,"regulation of cardiac muscle cell action potential","regulation of ventricular cardiac muscle cell action potential",0.8948125,0.534,0.932
+"GO:0034113","GO:0034113",1,"GO:0086042",2.10844252844726,57,"heterotypic cell-cell adhesion","cardiac muscle cell-cardiac muscle cell adhesion",0.8301875,0.4754,0.508
+"GO:0003229","GO:0003229",4,"GO:0003229",1.27022212127588,68,"ventricular cardiac muscle tissue development","ventricular cardiac muscle tissue development",0.9449375,1,0
+"GO:0007156","GO:0007156",1,"GO:0086042",1.27022212127588,109,"homophilic cell adhesion via plasma membrane adhesion molecules","cardiac muscle cell-cardiac muscle cell adhesion",0.8335,0.4868,0.528
+"GO:0098742","GO:0098742",1,"GO:0086042",1.27022212127588,211,"cell-cell adhesion via plasma-membrane adhesion molecules","cardiac muscle cell-cardiac muscle cell adhesion",0.826,0.4642,0.563
+"GO:0086091","GO:0086091",2,"GO:0086069",1.27022212127588,36,"regulation of heart rate by cardiac conduction","bundle of His cell to Purkinje myocyte communication",0.7209375,0.39125,0.796
+"GO:0018212","GO:0018212",5,"GO:0018212",1.22421732449783,324,"peptidyl-tyrosine modification","peptidyl-tyrosine modification",0.93775,0.502,0
+"GO:0045216","GO:0045216",6,"GO:0045216",1.21869501760291,231,"cell-cell junction organization","cell-cell junction organization",0.9885625,1,0
+"GO:0086004","GO:0086004",2,"GO:0086069",1.21869501760291,40,"regulation of cardiac muscle cell contraction","bundle of His cell to Purkinje myocyte communication",0.7376875,0.45075,0.685
+"GO:0061337","GO:0061337",2,"GO:0086069",1.13512360077408,67,"cardiac conduction","bundle of His cell to Purkinje myocyte communication",0.72275,0.36,0.859
+"GO:0018108","GO:0018108",5,"GO:0018212",1.0475948181253,322,"peptidyl-tyrosine phosphorylation","peptidyl-tyrosine modification",0.926,0.502,0.996
+"GO:0002831","GO:0002831",7,"GO:0002831",0.892303418240771,573,"regulation of response to biotic stimulus","regulation of response to biotic stimulus",0.9603125,1,0

@@ -1,0 +1,3 @@
+,parent,parentTerm,term,fdr,Odds Ratio,Combined Score,Genes,description
+0,GO:0006285,"base-excision repair, AP site formation",GO:0006285,0.04218721,26.59004,249.4211,MBD4;NEIL3;OGG1;UNG,"Base-Excision Repair, AP Site Formation (GO:0006285)"
+1,GO:0051963,regulation of synapse assembly,GO:0051963,0.04218721,15.15559,144.2728,SETD5;LRFN4;CLSTN1;IL1RAP;EPHB3,Regulation Of Synapse Assembly (GO:0051963)

@@ -1,0 +1,8 @@
+,parent,parentTerm,term,fdr,Odds Ratio,Combined Score,Genes,description
+0,GO:0086042,cardiac muscle cell-cardiac muscle cell adhesion,GO:0086042,0.000112633,185.1915,3030.174,CXADR;JUP;PKP2;DSG2;DSC2,Cardiac Muscle Cell-Cardiac Muscle Cell Adhesion (GO:0086042)
+1,GO:0086069,bundle of His cell to Purkinje myocyte communication,GO:0086069,0.001186338,147.5254,1904.447,JUP;PKP2;DSG2;DSC2,Bundle Of His Cell To Purkinje Myocyte Communication (GO:0086069)
+2,GO:0098911,regulation of ventricular cardiac muscle cell action potential,GO:0098911,0.007790359,36.86864,381.0049,JUP;PKP2;DSG2;DSC2,Regulation Of Ventricular Cardiac Muscle Cell Action Potential (GO:0098911)
+3,GO:0003229,ventricular cardiac muscle tissue development,GO:0003229,0.05367572,36.7173,291.2158,PKP2;DSG2;FGFR2,Ventricular Cardiac Muscle Tissue Development (GO:0003229)
+4,GO:0018212,peptidyl-tyrosine modification,GO:0018212,0.05967366,9.239362,71.06896,EPHA4;FLT4;PTPN6;EGFR;FGFR2,Peptidyl-Tyrosine Modification (GO:0018212)
+5,GO:0045216,cell-cell junction organization,GO:0045216,0.06043729,6.738151,50.64755,PARD6B;CXADR;CDH2;PKP2;PKP1;DSG2,Cell-Cell Junction Organization (GO:0045216)
+6,GO:0002831,regulation of response to biotic stimulus,GO:0002831,0.1281435,9.819209,64.34551,TKFC;GATA6;CD55;FOXP1,Regulation Of Response To Biotic Stimulus (GO:0002831)

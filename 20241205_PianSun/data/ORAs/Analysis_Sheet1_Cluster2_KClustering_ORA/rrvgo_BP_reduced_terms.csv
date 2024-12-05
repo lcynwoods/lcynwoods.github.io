@@ -1,0 +1,17 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0051965","GO:0051965",1,"GO:0051965",1.655917738474,82,"positive regulation of synapse assembly","positive regulation of synapse assembly",0.7996875,0.424,0
+"GO:0006690","GO:0006690",2,"GO:0006690",1.41933556516134,147,"icosanoid metabolic process","icosanoid metabolic process",0.7235,0.441428571428571,0
+"GO:0033559","GO:0033559",2,"GO:0006690",1.32315564778133,140,"unsaturated fatty acid metabolic process","icosanoid metabolic process",0.7163125,0.424428571428571,0.652
+"GO:0006796","GO:0006796",3,"GO:0006796",1.17167555471696,2705,"phosphate-containing compound metabolic process","phosphate-containing compound metabolic process",0.8791875,1,0
+"GO:0001676","GO:0001676",2,"GO:0006690",1.13413297768226,128,"long-chain fatty acid metabolic process","icosanoid metabolic process",0.7168125,0.425142857142857,0.649
+"GO:0051963","GO:0051963",1,"GO:0051965",1.13413297768226,144,"regulation of synapse assembly","positive regulation of synapse assembly",0.801875,0.4055,0.939
+"GO:0050667","GO:0050667",2,"GO:0006690",1.1118402267575,13,"homocysteine metabolic process","icosanoid metabolic process",0.742625,0.471714285714286,0.543
+"GO:0000097","GO:0000097",2,"GO:0006690",1.1118402267575,16,"sulfur amino acid biosynthetic process","icosanoid metabolic process",0.73275,0.460714285714286,0.566
+"GO:0019369","GO:0019369",2,"GO:0006690",1.1118402267575,81,"arachidonic acid metabolic process","icosanoid metabolic process",0.6951875,0.371571428571429,0.932
+"GO:0032411","GO:0032411",5,"GO:0032411",0.86943884941155,136,"positive regulation of transporter activity","positive regulation of transporter activity",0.9600625,1,0
+"GO:0042136","GO:0042136",4,"GO:0042136",0.86943884941155,12,"neurotransmitter biosynthetic process","neurotransmitter biosynthetic process",0.909875,1,0
+"GO:0009067","GO:0009067",2,"GO:0006690",0.86943884941155,21,"aspartate family amino acid biosynthetic process","icosanoid metabolic process",0.7449375,0.488714285714286,0.568
+"GO:1904889","GO:1904889",1,"GO:0051965",0.86943884941155,20,"regulation of excitatory synapse assembly","positive regulation of synapse assembly",0.8186875,0.4495,0.824
+"GO:0050848","GO:0050848",7,"GO:0050848",0.62112826796273,93,"regulation of calcium-mediated signaling","regulation of calcium-mediated signaling",0.954,1,0
+"GO:0043117","GO:0043117",6,"GO:0043117",0.62112826796273,21,"positive regulation of vascular permeability","positive regulation of vascular permeability",0.917625,1,0
+"GO:0090084","GO:0090084",1,"GO:0051965",0.62112826796273,10,"negative regulation of inclusion body assembly","positive regulation of synapse assembly",0.875125,0.5955,0.541

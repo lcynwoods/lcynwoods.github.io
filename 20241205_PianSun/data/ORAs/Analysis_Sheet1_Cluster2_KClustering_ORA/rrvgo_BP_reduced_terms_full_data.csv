@@ -1,0 +1,8 @@
+,parent,parentTerm,term,fdr,Odds Ratio,Combined Score,Genes,description
+0,GO:0051965,positive regulation of synapse assembly,GO:0051965,0.02208423,33.42799,393.438,PTPRD;SEMA4A;CLSTN1;IL1RAP;VSTM5;EPHB3,Positive Regulation Of Synapse Assembly (GO:0051965)
+1,GO:0006690,icosanoid metabolic process,GO:0006690,0.03807715,9.9231,104.5083,DAGLA;GPX1;GPX4;CYP1B1;PLA2G4A;NLRC4;PTGR1;DAGLB,Icosanoid Metabolic Process (GO:0006690)
+2,GO:0006796,phosphate-containing compound metabolic process,GO:0006796,0.06734796,2.785705,25.81907,DUSP4;PFKFB1;DUSP5;PFKFB4;PANK3;TGFB1;GPX4;EPHX2;LRRK2;PDXP;ACYP2;INPP4A;PTPRD;INPP4B;PPP3CB;INPP5J;PLPP3;IP6K1;PSPH;PLPP1;PFKP;PLCD1,Phosphate-Containing Compound Metabolic Process (GO:0006796)
+3,GO:0032411,positive regulation of transporter activity,GO:0032411,0.1350707,inf,inf,RXRA;KMT2A;STK39,Positive Regulation Of Transporter Activity (GO:0032411)
+4,GO:0042136,neurotransmitter biosynthetic process,GO:0042136,0.1350707,inf,inf,DAGLA;SLC44A4;DAGLB,Neurotransmitter Biosynthetic Process (GO:0042136)
+5,GO:0050848,regulation of calcium-mediated signaling,GO:0050848,0.2392609,14.81481,97.99169,LRRK2;ITPR1;HTT;CDH13,Regulation Of Calcium-Mediated Signaling (GO:0050848)
+6,GO:0043117,positive regulation of vascular permeability,GO:0043117,0.2392609,14.81481,97.99169,OCLN;TGFB1;TRPV4;TJP3,Positive Regulation Of Vascular Permeability (GO:0043117)

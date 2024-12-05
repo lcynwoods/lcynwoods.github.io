@@ -1,0 +1,56 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0016052","GO:0016052",1,"GO:0016052",2.19788717851434,167,"carbohydrate catabolic process","carbohydrate catabolic process",0.923927272727273,0.6785,0
+"GO:0048247","GO:0048247",2,"GO:0048247",2.01976480887784,54,"lymphocyte chemotaxis","lymphocyte chemotaxis",0.905581818181818,0.440666666666667,0
+"GO:0006096","GO:0006096",3,"GO:0006096",1.63182472545062,104,"glycolytic process","glycolytic process",0.876854545454545,0.459,0
+"GO:0046348","GO:0046348",4,"GO:0046348",1.51956846138922,19,"amino sugar catabolic process","amino sugar catabolic process",0.866654545454545,0.286333333333333,0
+"GO:0006044","GO:0006044",4,"GO:0046348",0.978525401144477,16,"N-acetylglucosamine metabolic process","amino sugar catabolic process",0.888454545454545,0.311833333333333,0.868
+"GO:2000310","GO:2000310",6,"GO:2000310",0.965274509649862,28,"regulation of NMDA receptor activity","regulation of NMDA receptor activity",0.816454545454545,1,0
+"GO:0043410","GO:0043410",5,"GO:0043410",0.965274509649862,541,"positive regulation of MAPK cascade","positive regulation of MAPK cascade",0.832545454545454,0.3214,0
+"GO:0070374","GO:0070374",5,"GO:0043410",0.930414034682848,239,"positive regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.841381818181818,0.3298,0.905
+"GO:0006090","GO:0006090",3,"GO:0006096",0.810951504509406,137,"pyruvate metabolic process","glycolytic process",0.899218181818182,0.453333333333333,0.975
+"GO:0030007","GO:0030007",7,"GO:0030007",0.778225955459352,15,"intracellular potassium ion homeostasis","intracellular potassium ion homeostasis",0.960745454545455,0.46025,0
+"GO:0019262","GO:0019262",4,"GO:0046348",0.778225955459352,7,"N-acetylneuraminate catabolic process","amino sugar catabolic process",0.845163636363636,0.292166666666667,0.927
+"GO:0048667","GO:0048667",15,"GO:0048667",0.7455181475772,677,"cell morphogenesis involved in neuron differentiation","cell morphogenesis involved in neuron differentiation",0.944854545454546,1,0
+"GO:0051968","GO:0051968",14,"GO:0051968",0.7455181475772,42,"positive regulation of synaptic transmission, glutamatergic","positive regulation of synaptic transmission, glutamatergic",0.902018181818182,1,0
+"GO:2000698","GO:2000698",13,"GO:2000698",0.7455181475772,7,"positive regulation of epithelial cell differentiation involved in kidney development","positive regulation of epithelial cell differentiation involved in kidney development",0.911945454545455,1,0
+"GO:0086100","GO:0086100",12,"GO:0086100",0.7455181475772,11,"endothelin receptor signaling pathway","endothelin receptor signaling pathway",0.909418181818182,1,0
+"GO:0007218","GO:0007218",10,"GO:0007218",0.7455181475772,92,"neuropeptide signaling pathway","neuropeptide signaling pathway",0.8976,1,0
+"GO:0010919","GO:0010919",1,"GO:0016052",0.7455181475772,18,"regulation of inositol phosphate biosynthetic process","carbohydrate catabolic process",0.876745454545454,0.6785,0.643
+"GO:0046395","GO:0046395",3,"GO:0006096",0.7455181475772,241,"carboxylic acid catabolic process","glycolytic process",0.883945454545455,0.562333333333333,0.648
+"GO:0098659","GO:0098659",8,"GO:0098659",0.7455181475772,125,"inorganic cation import across plasma membrane","inorganic cation import across plasma membrane",0.920890909090909,0.534,0
+"GO:0043069","GO:0043069",11,"GO:0043069",0.7455181475772,1042,"negative regulation of programmed cell death","negative regulation of programmed cell death",0.904036363636364,0.5065,0
+"GO:0002548","GO:0002548",2,"GO:0048247",0.7455181475772,65,"monocyte chemotaxis","lymphocyte chemotaxis",0.908890909090909,0.498,0.803
+"GO:0035754","GO:0035754",2,"GO:0048247",0.7455181475772,7,"B cell chemotaxis","lymphocyte chemotaxis",0.915727272727273,0.474,0.875
+"GO:0043271","GO:0043271",9,"GO:0043271",0.7455181475772,157,"negative regulation of monoatomic ion transport","negative regulation of monoatomic ion transport",0.863963636363636,0.46625,0
+"GO:0006883","GO:0006883",7,"GO:0030007",0.7455181475772,27,"intracellular sodium ion homeostasis","intracellular potassium ion homeostasis",0.960436363636364,0.456,0.597
+"GO:0055078","GO:0055078",7,"GO:0030007",0.7455181475772,42,"sodium ion homeostasis","intracellular potassium ion homeostasis",0.959981818181818,0.44975,0.603
+"GO:0045785","GO:0045785",17,"GO:0045785",0.721974566699044,540,"positive regulation of cell adhesion","positive regulation of cell adhesion",0.924545454545455,1,0
+"GO:0043087","GO:0043087",16,"GO:0043087",0.721974566699044,345,"regulation of GTPase activity","regulation of GTPase activity",0.9424,0.652,0
+"GO:0009226","GO:0009226",19,"GO:0009226",0.721974566699044,17,"nucleotide-sugar biosynthetic process","nucleotide-sugar biosynthetic process",0.8792,0.552,0
+"GO:0042472","GO:0042472",18,"GO:0042472",0.721974566699044,122,"inner ear morphogenesis","inner ear morphogenesis",0.950727272727273,0.490333333333333,0
+"GO:0042471","GO:0042471",18,"GO:0042472",0.721974566699044,146,"ear morphogenesis","inner ear morphogenesis",0.950272727272727,0.488,0.985
+"GO:0070372","GO:0070372",5,"GO:0043410",0.721974566699044,343,"regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.848836363636364,0.3282,0.865
+"GO:0006048","GO:0006048",4,"GO:0046348",0.721974566699044,7,"UDP-N-acetylglucosamine biosynthetic process","amino sugar catabolic process",0.848527272727273,0.3065,0.82
+"GO:2000318","GO:2000318",25,"GO:2000318",0.604226086090852,15,"positive regulation of T-helper 17 type immune response","positive regulation of T-helper 17 type immune response",0.900509090909091,1,0
+"GO:0071248","GO:0071248",23,"GO:0071248",0.604226086090852,187,"cellular response to metal ion","cellular response to metal ion",0.920272727272727,1,0
+"GO:1990869","GO:1990869",22,"GO:1990869",0.604226086090852,80,"cellular response to chemokine","cellular response to chemokine",0.9234,1,0
+"GO:1905562","GO:1905562",20,"GO:1905562",0.604226086090852,29,"regulation of vascular endothelial cell proliferation","regulation of vascular endothelial cell proliferation",0.9528,1,0
+"GO:0007605","GO:0007605",26,"GO:0007605",0.604226086090852,282,"sensory perception of sound","sensory perception of sound",0.973872727272727,0.7315,0
+"GO:1903522","GO:1903522",26,"GO:0007605",0.604226086090852,268,"regulation of blood circulation","sensory perception of sound",0.927363636363636,0.7315,0.537
+"GO:0010518","GO:0010518",16,"GO:0043087",0.604226086090852,52,"positive regulation of phospholipase activity","regulation of GTPase activity",0.948290909090909,0.652,0.696
+"GO:0060441","GO:0060441",18,"GO:0042472",0.604226086090852,38,"epithelial tube branching involved in lung morphogenesis","inner ear morphogenesis",0.957636363636364,0.635,0.544
+"GO:2001135","GO:2001135",24,"GO:2001135",0.604226086090852,22,"regulation of endocytic recycling","regulation of endocytic recycling",0.897672727272727,0.6335,0
+"GO:0032387","GO:0032387",24,"GO:2001135",0.604226086090852,68,"negative regulation of intracellular transport","regulation of endocytic recycling",0.872418181818182,0.6335,0.733
+"GO:0006047","GO:0006047",19,"GO:0009226",0.604226086090852,12,"UDP-N-acetylglucosamine metabolic process","nucleotide-sugar biosynthetic process",0.849327272727273,0.552,0.896
+"GO:1990573","GO:1990573",8,"GO:0098659",0.604226086090852,47,"potassium ion import across plasma membrane","inorganic cation import across plasma membrane",0.907563636363636,0.534,0.932
+"GO:0051016","GO:0051016",21,"GO:0051016",0.604226086090852,27,"barbed-end actin filament capping","barbed-end actin filament capping",0.920781818181818,0.516,0
+"GO:0051693","GO:0051693",21,"GO:0051016",0.604226086090852,40,"actin filament capping","barbed-end actin filament capping",0.918581818181818,0.516,0.968
+"GO:0006814","GO:0006814",9,"GO:0043271",0.604226086090852,262,"sodium ion transport","negative regulation of monoatomic ion transport",0.929545454545455,0.5085,0.602
+"GO:0043066","GO:0043066",11,"GO:0043069",0.604226086090852,1012,"negative regulation of apoptotic process","negative regulation of programmed cell death",0.904327272727273,0.5065,0.987
+"GO:0051056","GO:0051056",5,"GO:0043410",0.604226086090852,230,"regulation of small GTPase mediated signal transduction","positive regulation of MAPK cascade",0.865436363636364,0.4802,0.667
+"GO:0055075","GO:0055075",7,"GO:0030007",0.604226086090852,34,"potassium ion homeostasis","intracellular potassium ion homeostasis",0.960036363636364,0.4505,0.959
+"GO:0043266","GO:0043266",9,"GO:0043271",0.604226086090852,116,"regulation of potassium ion transport","negative regulation of monoatomic ion transport",0.8796,0.44,0.754
+"GO:1903169","GO:1903169",9,"GO:0043271",0.604226086090852,203,"regulation of calcium ion transmembrane transport","negative regulation of monoatomic ion transport",0.857418181818182,0.42775,0.779
+"GO:0043408","GO:0043408",5,"GO:0043410",0.604226086090852,751,"regulation of MAPK cascade","positive regulation of MAPK cascade",0.840163636363636,0.3184,0.956
+"GO:0046349","GO:0046349",4,"GO:0046348",0.604226086090852,8,"amino sugar biosynthetic process","amino sugar catabolic process",0.886145454545455,0.299166666666667,0.832
+"GO:0006054","GO:0006054",4,"GO:0046348",0.604226086090852,11,"N-acetylneuraminate metabolic process","amino sugar catabolic process",0.853872727272727,0.298333333333333,0.835

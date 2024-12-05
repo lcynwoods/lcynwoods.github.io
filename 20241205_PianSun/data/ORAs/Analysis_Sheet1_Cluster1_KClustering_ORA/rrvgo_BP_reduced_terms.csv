@@ -1,0 +1,80 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0086042","GO:0086042",1,"GO:0086042",2.43067315125857,7,"cardiac muscle cell-cardiac muscle cell adhesion","cardiac muscle cell-cardiac muscle cell adhesion",0.94473417721519,0.507,0
+"GO:0043410","GO:0043410",2,"GO:0043410",2.32304132307218,541,"positive regulation of MAPK cascade","positive regulation of MAPK cascade",0.839227848101266,0.272,0
+"GO:0086073","GO:0086073",1,"GO:0086042",2.03946962403763,6,"bundle of His cell-Purkinje myocyte adhesion involved in cell communication","cardiac muscle cell-cardiac muscle cell adhesion",0.78820253164557,0.507,0.986
+"GO:0086069","GO:0086069",3,"GO:0086069",2.03946962403763,14,"bundle of His cell to Purkinje myocyte communication","bundle of His cell to Purkinje myocyte communication",0.825075949367089,0.4055,0
+"GO:0098742","GO:0098742",4,"GO:0098742",1.97731228439532,211,"cell-cell adhesion via plasma-membrane adhesion molecules","cell-cell adhesion via plasma-membrane adhesion molecules",0.937164556962025,0.4412,0
+"GO:0034113","GO:0034113",4,"GO:0098742",1.96408820240197,57,"heterotypic cell-cell adhesion","cell-cell adhesion via plasma-membrane adhesion molecules",0.941139240506329,0.5316,0.644
+"GO:0046514","GO:0046514",5,"GO:0046514",1.94983493030834,20,"ceramide catabolic process","ceramide catabolic process",0.928227848101266,0.3285,0
+"GO:0048667","GO:0048667",6,"GO:0048667",1.94983493030834,677,"cell morphogenesis involved in neuron differentiation","cell morphogenesis involved in neuron differentiation",0.826037974683544,0.32375,0
+"GO:0043408","GO:0043408",2,"GO:0043410",1.94983493030834,751,"regulation of MAPK cascade","positive regulation of MAPK cascade",0.852215189873418,0.291,0.956
+"GO:0001822","GO:0001822",7,"GO:0001822",1.73523505084152,336,"kidney development","kidney development",0.859253164556962,0.505,0
+"GO:0007409","GO:0007409",6,"GO:0048667",1.71917245979427,501,"axonogenesis","cell morphogenesis involved in neuron differentiation",0.768405063291139,0.27425,0.967
+"GO:0090136","GO:0090136",4,"GO:0098742",1.70386571914124,16,"epithelial cell-cell adhesion","cell-cell adhesion via plasma-membrane adhesion molecules",0.949569620253165,0.5614,0.59
+"GO:0086091","GO:0086091",3,"GO:0086069",1.54483662181899,36,"regulation of heart rate by cardiac conduction","bundle of His cell to Purkinje myocyte communication",0.839493670886076,0.377666666666667,0.796
+"GO:0070372","GO:0070372",2,"GO:0043410",1.50437033821393,343,"regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.862,0.3056,0.865
+"GO:0072359","GO:0072359",8,"GO:0072359",1.44031033710941,1238,"circulatory system development","circulatory system development",0.828556962025316,0.410666666666667,0
+"GO:0072001","GO:0072001",7,"GO:0001822",1.41897654981179,352,"renal system development","kidney development",0.867645569620253,0.505,0.99
+"GO:1902533","GO:1902533",2,"GO:0043410",1.41897654981179,1071,"positive regulation of intracellular signal transduction","positive regulation of MAPK cascade",0.835506329113924,0.3382,0.914
+"GO:0098901","GO:0098901",10,"GO:0098901",1.23772448950731,27,"regulation of cardiac muscle cell action potential","regulation of cardiac muscle cell action potential",0.954556962025316,0.534,0
+"GO:0045216","GO:0045216",9,"GO:0045216",1.23772448950731,231,"cell-cell junction organization","cell-cell junction organization",0.936240506329114,0.5185,0
+"GO:0055010","GO:0055010",8,"GO:0072359",1.23772448950731,56,"ventricular cardiac muscle tissue morphogenesis","circulatory system development",0.847139240506329,0.390333333333333,0.648
+"GO:0016052","GO:0016052",11,"GO:0016052",1.21761625046436,167,"carbohydrate catabolic process","carbohydrate catabolic process",0.953481012658228,0.522,0
+"GO:0098911","GO:0098911",10,"GO:0098901",1.21380855411999,12,"regulation of ventricular cardiac muscle cell action potential","regulation of cardiac muscle cell action potential",0.834594936708861,0.534,0.932
+"GO:0031349","GO:0031349",12,"GO:0031349",1.21380855411999,520,"positive regulation of defense response","positive regulation of defense response",0.868670886075949,0.42725,0
+"GO:0086003","GO:0086003",3,"GO:0086069",1.21380855411999,72,"cardiac muscle cell contraction","bundle of His cell to Purkinje myocyte communication",0.86526582278481,0.3735,0.689
+"GO:0001573","GO:0001573",5,"GO:0046514",1.21380855411999,28,"ganglioside metabolic process","ceramide catabolic process",0.936911392405063,0.34,0.814
+"GO:0046479","GO:0046479",5,"GO:0046514",1.21380855411999,14,"glycosphingolipid catabolic process","ceramide catabolic process",0.928037974683544,0.3055,0.932
+"GO:0070374","GO:0070374",2,"GO:0043410",1.21380855411999,239,"positive regulation of ERK1 and ERK2 cascade","positive regulation of MAPK cascade",0.849670886075949,0.2872,0.905
+"GO:0032103","GO:0032103",12,"GO:0031349",1.20979276256727,668,"positive regulation of response to external stimulus","positive regulation of defense response",0.870113924050633,0.44,0.684
+"GO:0061337","GO:0061337",3,"GO:0086069",1.18902846594988,67,"cardiac conduction","bundle of His cell to Purkinje myocyte communication",0.829898734177215,0.337833333333333,0.859
+"GO:0007169","GO:0007169",13,"GO:0007169",1.09174199952483,616,"transmembrane receptor protein tyrosine kinase signaling pathway","transmembrane receptor protein tyrosine kinase signaling pathway",0.887253164556962,0.604,0
+"GO:0008544","GO:0008544",14,"GO:0008544",1.00847936870845,397,"epidermis development","epidermis development",0.923354430379747,1,0
+"GO:0006096","GO:0006096",11,"GO:0016052",1.00847936870845,104,"glycolytic process","carbohydrate catabolic process",0.941987341772152,0.522,0.956
+"GO:0045785","GO:0045785",4,"GO:0098742",1.00847936870845,540,"positive regulation of cell adhesion","cell-cell adhesion via plasma-membrane adhesion molecules",0.879898734177215,0.5162,0.686
+"GO:0007157","GO:0007157",4,"GO:0098742",1.00847936870845,50,"heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules","cell-cell adhesion via plasma-membrane adhesion molecules",0.94293670886076,0.4856,0.874
+"GO:0003223","GO:0003223",8,"GO:0072359",1.00847936870845,9,"ventricular compact myocardium morphogenesis","circulatory system development",0.864101265822785,0.448666666666667,0.557
+"GO:0006689","GO:0006689",5,"GO:0046514",1.00847936870845,7,"ganglioside catabolic process","ceramide catabolic process",0.92879746835443,0.2885,0.94
+"GO:0032675","GO:0032675",15,"GO:0032675",0.988262552177667,173,"regulation of interleukin-6 production","regulation of interleukin-6 production",0.838569620253165,0.53175,0
+"GO:0070293","GO:0070293",18,"GO:0070293",0.954808111853184,34,"renal absorption","renal absorption",0.910594936708861,1,0
+"GO:0048566","GO:0048566",17,"GO:0048566",0.954808111853184,33,"embryonic digestive tract development","embryonic digestive tract development",0.873101265822785,0.5495,0
+"GO:1904645","GO:1904645",16,"GO:1904645",0.954808111853184,44,"response to amyloid-beta","response to amyloid-beta",0.944506329113924,0.495666666666667,0
+"GO:0055007","GO:0055007",8,"GO:0072359",0.954808111853184,159,"cardiac muscle cell differentiation","circulatory system development",0.827392405063291,0.3395,0.725
+"GO:0050729","GO:0050729",12,"GO:0031349",0.950122505776301,167,"positive regulation of inflammatory response","positive regulation of defense response",0.874518987341772,0.4085,0.862
+"GO:0045765","GO:0045765",19,"GO:0045765",0.948259551426581,307,"regulation of angiogenesis","regulation of angiogenesis",0.776898734177215,0.45075,0
+"GO:0048844","GO:0048844",19,"GO:0045765",0.937167287798074,83,"artery morphogenesis","regulation of angiogenesis",0.847253164556962,0.51525,0.736
+"GO:0034143","GO:0034143",12,"GO:0031349",0.937167287798074,26,"regulation of toll-like receptor 4 signaling pathway","positive regulation of defense response",0.863379746835443,0.46675,0.745
+"GO:0007507","GO:0007507",8,"GO:0072359",0.937167287798074,673,"heart development","circulatory system development",0.825772151898734,0.364166666666667,0.911
+"GO:0048812","GO:0048812",6,"GO:0048667",0.937167287798074,731,"neuron projection morphogenesis","cell morphogenesis involved in neuron differentiation",0.763962025316456,0.317,0.916
+"GO:0060271","GO:0060271",20,"GO:0060271",0.897045864542818,387,"cilium assembly","cilium assembly",0.897354430379747,0.423666666666667,0
+"GO:0050730","GO:0050730",22,"GO:0050730",0.854302439343294,266,"regulation of peptidyl-tyrosine phosphorylation","regulation of peptidyl-tyrosine phosphorylation",0.917341772151899,1,0
+"GO:0030198","GO:0030198",21,"GO:0030198",0.854302439343294,322,"extracellular matrix organization","extracellular matrix organization",0.934696202531646,0.5015,0
+"GO:0042476","GO:0042476",24,"GO:0042476",0.818161840770181,132,"odontogenesis","odontogenesis",0.902873417721519,1,0
+"GO:0048565","GO:0048565",17,"GO:0048566",0.818161840770181,129,"digestive tract development","embryonic digestive tract development",0.866962025316456,0.5495,0.901
+"GO:0042116","GO:0042116",23,"GO:0042116",0.818161840770181,113,"macrophage activation","macrophage activation",0.90173417721519,0.5315,0
+"GO:0044782","GO:0044782",20,"GO:0060271",0.818161840770181,418,"cilium organization","cilium assembly",0.901822784810127,0.420666666666667,0.978
+"GO:0086004","GO:0086004",3,"GO:0086069",0.818161840770181,40,"regulation of cardiac muscle cell contraction","bundle of His cell to Purkinje myocyte communication",0.832721518987342,0.382333333333333,0.685
+"GO:0045197","GO:0045197",25,"GO:0045197",0.783388415607156,48,"establishment or maintenance of epithelial cell apical/basal polarity","establishment or maintenance of epithelial cell apical/basal polarity",0.986911392405063,1,0
+"GO:0030323","GO:0030323",19,"GO:0045765",0.783388415607156,246,"respiratory tube development","regulation of angiogenesis",0.859556962025317,0.544,0.678
+"GO:0001774","GO:0001774",23,"GO:0042116",0.783388415607156,49,"microglial cell activation","macrophage activation",0.865481012658228,0.5315,0.937
+"GO:0032680","GO:0032680",15,"GO:0032675",0.783388415607156,216,"regulation of tumor necrosis factor production","regulation of interleukin-6 production",0.836392405063291,0.52775,0.653
+"GO:0032651","GO:0032651",15,"GO:0032675",0.783388415607156,95,"regulation of interleukin-1 beta production","regulation of interleukin-6 production",0.839392405063291,0.446,0.62
+"GO:0150104","GO:0150104",3,"GO:0086069",0.768214743294958,21,"transport across blood-brain barrier","bundle of His cell to Purkinje myocyte communication",0.89473417721519,0.5185,0.538
+"GO:0120031","GO:0120031",26,"GO:0120031",0.729960151381354,590,"plasma membrane bounded cell projection assembly","plasma membrane bounded cell projection assembly",0.900721518987342,0.6705,0
+"GO:0050806","GO:0050806",27,"GO:0050806",0.723719304511158,348,"positive regulation of synaptic transmission","positive regulation of synaptic transmission",0.892645569620253,1,0
+"GO:0042127","GO:0042127",26,"GO:0120031",0.723719304511158,2415,"regulation of cell population proliferation","plasma membrane bounded cell projection assembly",0.88426582278481,0.6705,0.659
+"GO:0061043","GO:0061043",19,"GO:0045765",0.710669516195605,11,"regulation of vascular wound healing","regulation of angiogenesis",0.771405063291139,0.524,0.783
+"GO:0055006","GO:0055006",8,"GO:0072359",0.710669516195605,120,"cardiac cell development","circulatory system development",0.834012658227848,0.416666666666667,0.695
+"GO:0061564","GO:0061564",6,"GO:0048667",0.710669516195605,563,"axon development","cell morphogenesis involved in neuron differentiation",0.779329113924051,0.3335,0.822
+"GO:0035721","GO:0035721",20,"GO:0060271",0.637807340077885,16,"intraciliary retrograde transport","cilium assembly",0.919151898734177,0.496333333333333,0.751
+"GO:0043062","GO:0043062",21,"GO:0030198",0.635678500326519,324,"extracellular structure organization","extracellular matrix organization",0.934683544303798,0.5015,0.997
+"GO:0032731","GO:0032731",15,"GO:0032675",0.635678500326519,58,"positive regulation of interleukin-1 beta production","regulation of interleukin-6 production",0.823379746835443,0.456,0.6
+"GO:0046688","GO:0046688",30,"GO:0046688",0.626810027123837,29,"response to copper ion","response to copper ion",0.955506329113924,1,0
+"GO:0030225","GO:0030225",29,"GO:0030225",0.626810027123837,60,"macrophage differentiation","macrophage differentiation",0.915405063291139,1,0
+"GO:0048247","GO:0048247",28,"GO:0048247",0.626810027123837,54,"lymphocyte chemotaxis","lymphocyte chemotaxis",0.918367088607595,1,0
+"GO:0071331","GO:0071331",16,"GO:1904645",0.626810027123837,160,"cellular response to hexose stimulus","response to amyloid-beta",0.926886075949367,0.635333333333333,0.526
+"GO:0048008","GO:0048008",13,"GO:0007169",0.626810027123837,66,"platelet-derived growth factor receptor signaling pathway","transmembrane receptor protein tyrosine kinase signaling pathway",0.905987341772152,0.604,0.792
+"GO:1904646","GO:1904646",16,"GO:1904645",0.626810027123837,38,"cellular response to amyloid-beta","response to amyloid-beta",0.927088607594937,0.481666666666667,0.987
+"GO:0060255","GO:0060255",31,"GO:0060255",0.622054073103412,6314,"regulation of macromolecule metabolic process","regulation of macromolecule metabolic process",0.912582278481013,1,0
+"GO:0045787","GO:0045787",32,"GO:0045787",0.616408658530613,365,"positive regulation of cell cycle","positive regulation of cell cycle",0.924620253164557,1,0
+"GO:0007043","GO:0007043",9,"GO:0045216",0.616408658530613,168,"cell-cell junction assembly","cell-cell junction organization",0.932544303797468,0.5185,0.963
