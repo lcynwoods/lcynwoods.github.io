@@ -1,0 +1,358 @@
+<!--
+  ~ Copyright 2013-2023, Seqera Labs
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<pre class="mermaid" style="text-align: center;">
+flowchart TB
+    subgraph " "
+    v1["input_file"]
+    v2["is_sdrf"]
+    v3["validate_ontologies"]
+    v55["Channel.from"]
+    v61["Channel.fromPath"]
+    v146["quant_method"]
+    v239["Channel.fromPath"]
+    v296["Channel.of"]
+    v300["Channel.fromPath"]
+    v306["ch_workflow_summary"]
+    v311["ch_methods_description"]
+    v326["quantms_log"]
+    end
+    subgraph NFCORE_QUANTMS
+    subgraph QUANTMS
+    subgraph INPUT_CHECK
+    v4([SAMPLESHEET_CHECK])
+    end
+    subgraph CREATE_INPUT_CHANNEL
+    v8([SDRFPARSING])
+    v11(( ))
+    end
+    subgraph FILE_PREPARATION
+    v26([DECOMPRESS])
+    v31([MZMLINDEXING])
+    v35([THERMORAWFILEPARSER])
+    v41([MZMLSTATISTICS])
+    v45(( ))
+    end
+    subgraph TMT
+    subgraph ID
+    subgraph DATABASESEARCHENGINES
+    v69([SEARCHENGINECOMET])
+    end
+    subgraph PSMRESCORING
+    v86([EXTRACTPSMFEATURES])
+    v90([PERCOLATOR])
+    v72(( ))
+    end
+    subgraph PSMFDRCONTROL
+    v101([IDSCORESWITCHER])
+    v104([IDFILTER])
+    end
+    end
+    subgraph FEATUREMAPPER
+    v112([ISOBARICANALYZER])
+    v116([IDMAPPER])
+    v115(( ))
+    v121(( ))
+    end
+    v122([FILEMERGE])
+    subgraph PROTEININFERENCE
+    v127([PROTEININFERENCER])
+    v130([IDFILTER])
+    v133(( ))
+    end
+    subgraph PROTEINQUANT
+    v138([IDCONFLICTRESOLVER])
+    v141([PROTEINQUANTIFIER])
+    v147([MSSTATSCONVERTER])
+    end
+    end
+    subgraph LFQ
+    subgraph ID
+    subgraph DATABASESEARCHENGINES
+    v169([SEARCHENGINECOMET])
+    end
+    subgraph PSMRESCORING
+    v186([EXTRACTPSMFEATURES])
+    v190([PERCOLATOR])
+    v172(( ))
+    end
+    subgraph PSMFDRCONTROL
+    v201([IDSCORESWITCHER])
+    v204([IDFILTER])
+    end
+    end
+    v216([PROTEOMICSLFQ])
+    end
+    subgraph DIA
+    v242([DIANNCFG])
+    v246([SILICOLIBRARYGENERATION])
+    v252([DIANN_PRELIMINARY_ANALYSIS])
+    v257([ASSEMBLE_EMPIRICAL_LIBRARY])
+    v263([INDIVIDUAL_FINAL_ANALYSIS])
+    v270([DIANNSUMMARY])
+    v279([DIANNCONVERT])
+    v256(( ))
+    v269(( ))
+    end
+    v327([SUMMARYPIPELINE])
+    v6(( ))
+    v332(( ))
+    end
+    end
+    subgraph " "
+    v5[" "]
+    v9[" "]
+    v27[" "]
+    v32[" "]
+    v36[" "]
+    v42[" "]
+    v46["spectrum_data"]
+    v60["ch_db_for_decoy_creation_or_null"]
+    v70[" "]
+    v75["ch_mzmls_sorted_search"]
+    v87[" "]
+    v91[" "]
+    v102[" "]
+    v105[" "]
+    v113[" "]
+    v117[" "]
+    v123[" "]
+    v128[" "]
+    v131[" "]
+    v134[" "]
+    v139[" "]
+    v142[" "]
+    v143[" "]
+    v144[" "]
+    v148[" "]
+    v170[" "]
+    v175["ch_mzmls_sorted_search"]
+    v187[" "]
+    v191[" "]
+    v202[" "]
+    v205[" "]
+    v213[" "]
+    v217[" "]
+    v218[" "]
+    v219[" "]
+    v220[" "]
+    v221[" "]
+    v222[" "]
+    v223[" "]
+    v224[" "]
+    v225[" "]
+    v243[" "]
+    v247[" "]
+    v248[" "]
+    v253[" "]
+    v264[" "]
+    v271[" "]
+    v272[" "]
+    v273[" "]
+    v274[" "]
+    v275[" "]
+    v276[" "]
+    v280[" "]
+    v281[" "]
+    v282["out_triqler"]
+    v292[" "]
+    v328[" "]
+    v329[" "]
+    v330[" "]
+    v331[" "]
+    v333["multiqc_report"]
+    end
+    v1 --> v4
+    v2 --> v4
+    v3 --> v4
+    v4 --> v5
+    v4 --> v8
+    v4 --> v6
+    v8 --> v141
+    v8 --> v9
+    v8 --> v147
+    v8 --> v216
+    v8 --> v279
+    v8 --> v6
+    v8 --> v11
+    v11 --> v26
+    v26 --> v27
+    v26 --> v6
+    v26 --> v11
+    v11 --> v31
+    v31 --> v32
+    v31 --> v6
+    v31 --> v11
+    v11 --> v35
+    v35 --> v36
+    v35 --> v6
+    v35 --> v11
+    v11 --> v41
+    v41 --> v42
+    v41 --> v6
+    v41 --> v45
+    v45 --> v46
+    v55 --> v11
+    v11 --> v60
+    v61 --> v216
+    v61 --> v11
+    v11 --> v69
+    v69 --> v70
+    v69 --> v6
+    v69 --> v72
+    v11 --> v75
+    v72 --> v86
+    v86 --> v87
+    v86 --> v6
+    v86 --> v72
+    v72 --> v90
+    v90 --> v101
+    v90 --> v91
+    v90 --> v6
+    v101 --> v104
+    v101 --> v102
+    v101 --> v6
+    v104 --> v105
+    v104 --> v6
+    v104 --> v115
+    v11 --> v112
+    v112 --> v113
+    v112 --> v6
+    v112 --> v115
+    v115 --> v116
+    v116 --> v117
+    v116 --> v6
+    v116 --> v121
+    v121 --> v122
+    v122 --> v127
+    v122 --> v123
+    v122 --> v6
+    v127 --> v130
+    v127 --> v128
+    v127 --> v6
+    v130 --> v131
+    v130 --> v6
+    v130 --> v133
+    v133 --> v134
+    v133 --> v138
+    v138 --> v141
+    v138 --> v139
+    v138 --> v147
+    v138 --> v6
+    v141 --> v144
+    v141 --> v143
+    v141 --> v142
+    v141 --> v6
+    v146 --> v147
+    v147 --> v148
+    v147 --> v6
+    v11 --> v169
+    v169 --> v170
+    v169 --> v6
+    v169 --> v172
+    v11 --> v175
+    v172 --> v186
+    v186 --> v187
+    v186 --> v6
+    v186 --> v172
+    v172 --> v190
+    v190 --> v201
+    v190 --> v191
+    v190 --> v6
+    v201 --> v204
+    v201 --> v202
+    v201 --> v6
+    v204 --> v205
+    v204 --> v6
+    v204 --> v11
+    v11 --> v213
+    v11 --> v216
+    v216 --> v225
+    v216 --> v224
+    v216 --> v223
+    v216 --> v222
+    v216 --> v221
+    v216 --> v220
+    v216 --> v219
+    v216 --> v218
+    v216 --> v217
+    v216 --> v6
+    v239 --> v246
+    v239 --> v270
+    v239 --> v279
+    v239 --> v11
+    v11 --> v242
+    v242 --> v246
+    v242 --> v243
+    v242 --> v6
+    v246 --> v248
+    v246 --> v247
+    v246 --> v257
+    v246 --> v11
+    v11 --> v252
+    v252 --> v253
+    v252 --> v6
+    v252 --> v256
+    v11 --> v257
+    v256 --> v257
+    v257 --> v270
+    v257 --> v6
+    v257 --> v11
+    v11 --> v263
+    v263 --> v264
+    v263 --> v6
+    v263 --> v269
+    v11 --> v270
+    v269 --> v270
+    v270 --> v279
+    v270 --> v276
+    v270 --> v275
+    v270 --> v274
+    v270 --> v273
+    v270 --> v272
+    v270 --> v271
+    v270 --> v6
+    v6 --> v279
+    v11 --> v279
+    v279 --> v282
+    v279 --> v281
+    v279 --> v280
+    v279 --> v6
+    v6 --> v292
+    v296 --> v6
+    v300 --> v6
+    v306 --> v6
+    v311 --> v6
+    v326 --> v327
+    v6 --> v327
+    v327 --> v331
+    v327 --> v330
+    v327 --> v329
+    v327 --> v328
+    v327 --> v332
+    v332 --> v333
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
+</body>
+</html>
