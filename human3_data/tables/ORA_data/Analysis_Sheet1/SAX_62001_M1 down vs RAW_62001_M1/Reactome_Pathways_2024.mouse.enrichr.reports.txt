@@ -1,0 +1,323 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_Pathways_2024	Regulation of Complement Cascade	7.930960e-15	2.553769e-12	0	0	1.641681e+01	5.330209e+02	C1QA;CR2;CPB2;IGKV2D-30;CFH;CFI;CFP;C2;IGLV5-37;IGHG1;IGLV3-27;C6;C7;CFHR2;CFHR1;CFB;IGKV2-30;C1QC
+Reactome_Pathways_2024	Complement Cascade	4.317995e-14	6.951972e-12	0	0	1.466617e+01	4.513278e+02	C1QA;CR2;CPB2;IGKV2D-30;CFH;CFI;CFP;C2;IGLV5-37;IGHG1;IGLV3-27;C6;C7;CFHR2;CFHR1;CFB;IGKV2-30;C1QC
+Reactome_Pathways_2024	Innate Immune System	3.314505e-09	3.557569e-07	0	0	3.987755e+00	7.786075e+01	C1QA;ORM1;CPB2;IGKV2D-30;CFH;CRISP3;CFI;HP;HBB;A1BG;CFP;LILRA3;C2;CST3;IGHG1;IGLV3-27;C6;C7;LTA4H;AGA;B2M;CR2;SIGLEC14;PPBP;IGLV5-37;CEACAM1;LRG1;CFHR2;CEACAM6;CFHR1;IGHE;CFB;IGKV2-30;C1QC
+Reactome_Pathways_2024	Hemostasis	8.286948e-08	6.670993e-06	0	0	4.264033e+00	6.952932e+01	ITIH4;ORM1;IGKV2D-30;F12;RARRES2;F11;HBB;PLG;HBD;PPBP;A1BG;MERTK;VEGFA;IGLV5-37;CLEC3B;CEACAM1;IGLV3-27;CEACAM6;APOH;CEACAM5;INPP5D;A2M;KLKB1;IGKV2-30
+Reactome_Pathways_2024	Initial Triggering of Complement	3.693138e-07	2.378381e-05	0	0	9.850543e+00	1.459025e+02	IGLV5-37;C1QA;IGHG1;IGLV3-27;IGKV2D-30;CFP;CFB;IGKV2-30;C1QC;C2
+Reactome_Pathways_2024	Immune System	3.333481e-06	1.788968e-04	0	0	2.737006e+00	3.451773e+01	C1QA;ORM1;CPB2;IGKV2D-30;CFH;CRISP3;CFI;HP;HBB;A1BG;CFP;LILRA3;C2;CST3;CA1;IGHG1;IGLV3-27;C6;C7;INPP5D;MRC1;LTA4H;AGA;B2M;CR2;SIGLEC14;PPBP;VEGFA;IGLV5-37;CEACAM1;LRG1;CFHR2;CEACAM6;CFHR1;IGHE;CFB;IGKV2-30;C1QC
+Reactome_Pathways_2024	Scavenging of Heme From Plasma	8.510402e-06	3.914785e-04	0	0	9.118940e+00	1.064565e+02	IGLV5-37;HPX;CD163;IGLV3-27;IGKV2D-30;HP;HBB;IGKV2-30
+Reactome_Pathways_2024	Platelet Degranulation	1.152174e-05	4.637500e-04	0	0	6.469884e+00	7.357083e+01	ITIH4;ORM1;CLEC3B;APOH;RARRES2;PLG;PPBP;A1BG;A2M;VEGFA
+Reactome_Pathways_2024	Binding and Uptake of Ligands by Scavenger Receptors	1.333543e-05	4.771121e-04	0	0	7.241379e+00	8.128511e+01	IGLV5-37;HPX;CD163;IGLV3-27;IGKV2D-30;COL4A2;HP;HBB;IGKV2-30
+Reactome_Pathways_2024	Response to Elevated Platelet Cytosolic Ca2+	1.544680e-05	4.973871e-04	0	0	6.237014e+00	6.909432e+01	ITIH4;ORM1;CLEC3B;APOH;RARRES2;PLG;PPBP;A1BG;A2M;VEGFA
+Reactome_Pathways_2024	Classical Antibody-Mediated Complement Activation	6.345852e-05	1.779314e-03	0	0	8.027895e+00	7.759060e+01	IGLV5-37;C1QA;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30;C1QC
+Reactome_Pathways_2024	Reversible Hydration of Carbon Dioxide	6.630982e-05	1.779314e-03	0	0	6.660606e+01	6.408284e+02	CA1;CA3;CA2
+Reactome_Pathways_2024	Erythrocytes Take up Oxygen and Release Carbon Dioxide	1.147584e-04	2.639443e-03	0	0	4.994697e+01	4.531529e+02	CA1;CA2;HBB
+Reactome_Pathways_2024	Activation of C3 and C5	1.147584e-04	2.639443e-03	0	0	4.994697e+01	4.531529e+02	CFP;CFB;C2
+Reactome_Pathways_2024	Creation of C4 and C2 Activators	1.311236e-04	2.814787e-03	0	0	7.074768e+00	6.324397e+01	IGLV5-37;C1QA;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30;C1QC
+Reactome_Pathways_2024	Post-translational Modification Synthesis of GPI-anchored Proteins	1.921791e-04	3.867604e-03	0	0	1.091786e+01	9.342502e+01	CEACAM5;CNTN3;CNTN4;RECK;ART3
+Reactome_Pathways_2024	Erythrocytes Take up Carbon Dioxide and Release Oxygen	2.693650e-04	4.681700e-03	0	0	3.328788e+01	2.736078e+02	CA1;CA2;HBB
+Reactome_Pathways_2024	O2 CO2 Exchange in Erythrocytes	2.693650e-04	4.681700e-03	0	0	3.328788e+01	2.736078e+02	CA1;CA2;HBB
+Reactome_Pathways_2024	Neutrophil Degranulation	2.762494e-04	4.681700e-03	0	0	3.052341e+00	2.501151e+01	ORM1;SIGLEC14;CRISP3;HP;HBB;PPBP;A1BG;CFP;LILRA3;CST3;CEACAM1;LRG1;CEACAM6;LTA4H;AGA;B2M
+Reactome_Pathways_2024	Intrinsic Pathway of Fibrin Clot Formation	3.590998e-04	5.781507e-03	0	0	1.413104e+01	1.120862e+02	F12;F11;A2M;KLKB1
+Reactome_Pathways_2024	Cell Surface Interactions at the Vascular Wall	5.248351e-04	8.047471e-03	0	0	4.306118e+00	3.252164e+01	IGLV5-37;CEACAM1;IGLV3-27;IGKV2D-30;CEACAM6;CEACAM5;INPP5D;MERTK;IGKV2-30
+Reactome_Pathways_2024	TFAP2 (AP-2) Family Regulates Transcription of Growth Factors and Their Receptors	6.819171e-04	9.980787e-03	0	0	1.319200e+02	9.617763e+02	EGFR;VEGFA
+Reactome_Pathways_2024	Modulation by Mtb of Host Immune System	1.350279e-03	1.758313e-02	0	0	6.595000e+01	4.357609e+02	MRC1;B2M
+Reactome_Pathways_2024	Alternative Complement Activation	1.350279e-03	1.758313e-02	0	0	6.595000e+01	4.357609e+02	CFP;CFB
+Reactome_Pathways_2024	Defects of Contact Activation System (CAS) and Kallikrein Kinin System (KKS)	1.365150e-03	1.758313e-02	0	0	1.662879e+01	1.096916e+02	F12;F11;KLKB1
+Reactome_Pathways_2024	Platelet Activation, Signaling and Aggregation	1.685176e-03	2.087025e-02	0	0	3.338733e+00	2.132077e+01	ITIH4;ORM1;CLEC3B;APOH;RARRES2;PLG;PPBP;A1BG;A2M;VEGFA
+Reactome_Pathways_2024	Fibronectin Matrix Formation	2.228120e-03	2.616163e-02	0	0	4.396000e+01	2.684460e+02	CEACAM1;CEACAM6
+Reactome_Pathways_2024	Formation of Fibrin Clot (Clotting Cascade)	2.274924e-03	2.616163e-02	0	0	8.118738e+00	4.940909e+01	F12;F11;A2M;KLKB1
+Reactome_Pathways_2024	Diseases of Hemostasis	2.368397e-03	2.629737e-02	0	0	1.329697e+01	8.038739e+01	F12;F11;KLKB1
+Reactome_Pathways_2024	Role of LAT2 NTAL LAB on Calcium Mobilization	4.360525e-03	4.518067e-02	0	0	5.100750e+00	2.772340e+01	IGLV5-37;IGLV3-27;IGKV2D-30;IGHE;IGKV2-30
+Reactome_Pathways_2024	Digestion	4.586748e-03	4.518067e-02	0	0	2.636800e+01	1.419807e+02	GUCA2A;PNLIP
+Reactome_Pathways_2024	Digestion and Absorption	4.586748e-03	4.518067e-02	0	0	2.636800e+01	1.419807e+02	GUCA2A;PNLIP
+Reactome_Pathways_2024	FCGR Activation	4.630317e-03	4.518067e-02	0	0	5.023850e+00	2.700385e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Terminal Pathway of Complement	6.055142e-03	5.593566e-02	0	0	2.197000e+01	1.121974e+02	C6;C7
+Reactome_Pathways_2024	Role of Phospholipids in Phagocytosis	6.159971e-03	5.593566e-02	0	0	4.671392e+00	2.377590e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Anti-inflammatory Response Favouring Leishmania Parasite Infection	6.427390e-03	5.593566e-02	0	0	3.902043e+00	1.969434e+01	IGLV5-37;IGHG1;CD163;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Leishmania Parasite Growth and Survival	6.427390e-03	5.593566e-02	0	0	3.902043e+00	1.969434e+01	IGLV5-37;IGHG1;CD163;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	FCERI Mediated MAPK Activation	6.861117e-03	5.813894e-02	0	0	4.543745e+00	2.263641e+01	IGLV5-37;IGLV3-27;IGKV2D-30;IGHE;IGKV2-30
+Reactome_Pathways_2024	FCERI Mediated Ca+2 Mobilization	7.231868e-03	5.970927e-02	0	0	4.482474e+00	2.209527e+01	IGLV5-37;IGLV3-27;IGKV2D-30;IGHE;IGKV2-30
+Reactome_Pathways_2024	FCGR3A-mediated IL10 Synthesis	8.855334e-03	7.128544e-02	0	0	4.252904e+00	2.010235e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Transcriptional Regulation by the AP-2 (TFAP2) Family of Transcription Factors	9.540153e-03	7.492511e-02	0	0	1.647250e+01	7.663412e+01	EGFR;VEGFA
+Reactome_Pathways_2024	Immunoregulatory Interactions Between a Lymphoid and a non-Lymphoid Cell	1.009207e-02	7.737253e-02	0	0	3.522826e+00	1.619093e+01	IGLV5-37;IGLV3-27;IGKV2D-30;B2M;LILRA3;IGKV2-30
+Reactome_Pathways_2024	Extracellular Matrix Organization	1.157001e-02	8.664055e-02	0	0	2.808949e+00	1.252606e+01	DDR1;CEACAM1;COL4A2;CEACAM6;PLG;ITGB6;A2M;KLKB1
+Reactome_Pathways_2024	Formation of the Cornified Envelope	1.234266e-02	9.032585e-02	0	0	6.863114e+00	3.016128e+01	CELA2A;SPINK5;PRSS8
+Reactome_Pathways_2024	Keratinization	1.342927e-02	9.602437e-02	0	0	6.633333e+00	2.859178e+01	CELA2A;SPINK5;PRSS8
+Reactome_Pathways_2024	Chaperone Mediated Autophagy	1.371777e-02	9.602437e-02	0	0	1.317400e+01	5.650412e+01	HBB;RNASE1
+Reactome_Pathways_2024	Triglyceride Catabolism	2.118663e-02	1.451510e-01	0	0	1.012923e+01	3.904195e+01	FABP1;FABP4
+Reactome_Pathways_2024	FCERI Mediated NF-kB Activation	2.670311e-02	1.584308e-01	0	0	3.156487e+00	1.143587e+01	IGLV5-37;IGLV3-27;IGKV2D-30;IGHE;IGKV2-30
+Reactome_Pathways_2024	Activation of Matrix Metalloproteinases	2.690663e-02	1.584308e-01	0	0	8.776000e+00	3.172860e+01	PLG;KLKB1
+Reactome_Pathways_2024	Transcriptional Regulation of White Adipocyte Differentiation	2.997392e-02	1.584308e-01	0	0	8.226250e+00	2.885298e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Triglyceride Metabolism	2.997392e-02	1.584308e-01	0	0	8.226250e+00	2.885298e+01	FABP1;FABP4
+Reactome_Pathways_2024	Biosynthesis of E-series 18(S)-resolvins	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	LTA4H
+Reactome_Pathways_2024	Biosynthesis of EPA-derived SPMs	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	LTA4H
+Reactome_Pathways_2024	Glucocorticoid Biosynthesis	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	SERPINA6
+Reactome_Pathways_2024	PTK6 Promotes HIF1A Stabilization	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	EGFR
+Reactome_Pathways_2024	Signaling by Overexpressed Wild-Type EGFR in Cancer	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	EGFR
+Reactome_Pathways_2024	Inhibition of Signaling by Overexpressed EGFR	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	EGFR
+Reactome_Pathways_2024	EGFR Interacts With Phospholipase C-gamma	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	EGFR
+Reactome_Pathways_2024	ERBB2 Activates PTK6 Signaling	3.022253e-02	1.584308e-01	0	0	6.530693e+01	2.285199e+02	EGFR
+Reactome_Pathways_2024	FCGR3A-mediated Phagocytosis	3.050530e-02	1.584308e-01	0	0	3.039831e+00	1.060857e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Parasite Infection	3.050530e-02	1.584308e-01	0	0	3.039831e+00	1.060857e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Leishmania Phagocytosis	3.050530e-02	1.584308e-01	0	0	3.039831e+00	1.060857e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Regulation of Actin Dynamics for Phagocytic Cup Formation	3.150651e-02	1.610333e-01	0	0	3.011981e+00	1.041411e+01	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Degradation of the Extracellular Matrix	3.320448e-02	1.670600e-01	0	0	3.502148e+00	1.192506e+01	COL4A2;PLG;A2M;KLKB1
+Reactome_Pathways_2024	CD22 Mediated BCR Regulation	3.427404e-02	1.697883e-01	0	0	4.513085e+00	1.522429e+01	IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Interleukin-4 and Interleukin-13 Signaling	3.811019e-02	1.859315e-01	0	0	4.315547e+00	1.410007e+01	IGHG1;IGHE;VEGFA
+Reactome_Pathways_2024	Infection With Mycobacterium Tuberculosis	4.351538e-02	2.026300e-01	0	0	6.577000e+00	2.061653e+01	MRC1;B2M
+Reactome_Pathways_2024	Parasitic Infection Pathways	4.462449e-02	2.026300e-01	0	0	2.451601e+00	7.623185e+00	IGLV5-37;IGHG1;CD163;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Leishmania Infection	4.462449e-02	2.026300e-01	0	0	2.451601e+00	7.623185e+00	IGLV5-37;IGHG1;CD163;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	tRNA-derived Small RNA (tsRNA or tRNA-related Fragment, tRF) Biogenesis	4.499287e-02	2.026300e-01	0	0	3.264851e+01	1.012512e+02	ANG
+Reactome_Pathways_2024	Regulation of Gene Expression by Hypoxia-inducible Factor	4.499287e-02	2.026300e-01	0	0	3.264851e+01	1.012512e+02	VEGFA
+Reactome_Pathways_2024	Epigenetic Regulation of Adipogenesis Genes by MLL3 and MLL4 Complexes	4.719642e-02	2.026300e-01	0	0	6.262857e+00	1.912324e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Epigenetic Regulation of Gene Expression by MLL3 and MLL4 Complexes	4.719642e-02	2.026300e-01	0	0	6.262857e+00	1.912324e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Late Endosomal Microautophagy	4.719642e-02	2.026300e-01	0	0	6.262857e+00	1.912324e+01	HBB;RNASE1
+Reactome_Pathways_2024	MLL4 and MLL3 Complexes Regulate Expression of PPARG Targets in Adipogenesis and Hepatic Steatosis	4.719642e-02	2.026300e-01	0	0	6.262857e+00	1.912324e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Fcgamma Receptor (FCGR) Dependent Phagocytosis	5.172444e-02	2.191483e-01	0	0	2.605106e+00	7.715869e+00	IGLV5-37;IGHG1;IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	DAP12 Interactions	5.888122e-02	2.366916e-01	0	0	5.477500e+00	1.551356e+01	SIGLEC14;B2M
+Reactome_Pathways_2024	Neurofascin Interactions	5.954044e-02	2.366916e-01	0	0	2.176238e+01	6.139383e+01	CNTN1
+Reactome_Pathways_2024	Prednisone ADME	5.954044e-02	2.366916e-01	0	0	2.176238e+01	6.139383e+01	SERPINA6
+Reactome_Pathways_2024	Digestion of Dietary Lipid	5.954044e-02	2.366916e-01	0	0	2.176238e+01	6.139383e+01	PNLIP
+Reactome_Pathways_2024	Tyrosine Catabolism	5.954044e-02	2.366916e-01	0	0	2.176238e+01	6.139383e+01	HPD
+Reactome_Pathways_2024	Adipogenesis	6.716582e-02	2.552204e-01	0	0	5.054615e+00	1.365045e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Potential Therapeutics for SARS	6.756578e-02	2.552204e-01	0	0	2.735115e+00	7.370187e+00	IGLV3-27;IGKV2D-30;IGKV2-30;VEGFA
+Reactome_Pathways_2024	Fc Epsilon Receptor (FCERI) Signaling	7.134383e-02	2.552204e-01	0	0	2.360167e+00	6.231417e+00	IGLV5-37;IGLV3-27;IGKV2D-30;IGHE;IGKV2-30
+Reactome_Pathways_2024	AMPK Inhibits chREBP Transcriptional Activation Activity	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	ADIPOQ
+Reactome_Pathways_2024	Neurotransmitter Clearance	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	BCHE
+Reactome_Pathways_2024	Biosynthesis of DHA-derived SPMs	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	LTA4H
+Reactome_Pathways_2024	HDL Assembly	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	A2M
+Reactome_Pathways_2024	VEGF Binds to VEGFR Leading to Receptor Dimerization	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	VEGFA
+Reactome_Pathways_2024	VEGF Ligand-Receptor Interactions	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	VEGFA
+Reactome_Pathways_2024	ERBB2 Regulates Cell Motility	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	EGFR
+Reactome_Pathways_2024	Vitamin D (Calciferol) Metabolism	7.386855e-02	2.552204e-01	0	0	1.631931e+01	4.251943e+01	GC
+Reactome_Pathways_2024	Epigenetic Regulation by WDR5-containing Histone Modifying Complexes	7.581063e-02	2.552204e-01	0	0	4.692143e+00	1.210346e+01	FABP4;ADIPOQ
+Reactome_Pathways_2024	Amyloid Fiber Formation	7.581063e-02	2.552204e-01	0	0	4.692143e+00	1.210346e+01	CST3;B2M
+Reactome_Pathways_2024	Cytoprotection by HMOX1	7.581063e-02	2.552204e-01	0	0	4.692143e+00	1.210346e+01	FABP1;HBB
+Reactome_Pathways_2024	Antigen Activates B Cell Receptor (BCR) Leading to Generation of Second Messengers	7.609057e-02	2.552204e-01	0	0	3.194037e+00	8.227300e+00	IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Nectin Necl Trans Heterodimerization	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	NECTIN1
+Reactome_Pathways_2024	GRB2 Events in EGFR Signaling	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	EGFR
+Reactome_Pathways_2024	GRB2 Events in ERBB2 Signaling	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	EGFR
+Reactome_Pathways_2024	PI3K Events in ERBB2 Signaling	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	EGFR
+Reactome_Pathways_2024	Biosynthesis of Specialized Proresolving Mediators (SPMs)	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	LTA4H
+Reactome_Pathways_2024	CD163 Mediating an Anti-Inflammatory Response	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	CD163
+Reactome_Pathways_2024	Glycosphingolipid Biosynthesis	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	B4GALT5
+Reactome_Pathways_2024	Phenylalanine and Tyrosine Metabolism	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	HPD
+Reactome_Pathways_2024	Defective F9 Activation	8.798047e-02	2.698068e-01	0	0	1.305347e+01	3.172828e+01	F11
+Reactome_Pathways_2024	Adherens Junctions Interactions	9.881268e-02	2.982289e-01	0	0	3.978182e+00	9.207619e+00	ANG;NECTIN1
+Reactome_Pathways_2024	SHC1 Events in EGFR Signaling	1.018794e-01	2.982289e-01	0	0	1.087624e+01	2.484095e+01	EGFR
+Reactome_Pathways_2024	Aspirin ADME	1.018794e-01	2.982289e-01	0	0	1.087624e+01	2.484095e+01	BCHE
+Reactome_Pathways_2024	Heme Degradation	1.018794e-01	2.982289e-01	0	0	1.087624e+01	2.484095e+01	FABP1
+Reactome_Pathways_2024	EGFR Transactivation by Gastrin	1.018794e-01	2.982289e-01	0	0	1.087624e+01	2.484095e+01	EGFR
+Reactome_Pathways_2024	Anchoring Fibril Formation	1.155687e-01	3.293195e-01	0	0	9.321075e+00	2.011386e+01	COL4A2
+Reactome_Pathways_2024	Synthesis of Leukotrienes (LT) and Eoxins (EX)	1.155687e-01	3.293195e-01	0	0	9.321075e+00	2.011386e+01	LTA4H
+Reactome_Pathways_2024	Defective Factor IX Causes Hemophilia B	1.155687e-01	3.293195e-01	0	0	9.321075e+00	2.011386e+01	F11
+Reactome_Pathways_2024	Nef Mediated Downregulation of MHC Class I Complex Cell Surface Expression	1.290512e-01	3.582284e-01	0	0	8.154703e+00	1.669713e+01	B2M
+Reactome_Pathways_2024	HuR (ELAVL1) Binds and Stabilizes mRNA	1.290512e-01	3.582284e-01	0	0	8.154703e+00	1.669713e+01	ENPP2
+Reactome_Pathways_2024	Chemokine Receptors Bind Chemokines	1.290512e-01	3.582284e-01	0	0	8.154703e+00	1.669713e+01	PPBP
+Reactome_Pathways_2024	Cell-cell Junction Organization	1.389164e-01	3.608688e-01	0	0	3.198049e+00	6.312574e+00	ANG;NECTIN1
+Reactome_Pathways_2024	Drug ADME	1.389164e-01	3.608688e-01	0	0	3.198049e+00	6.312574e+00	BCHE;SERPINA6
+Reactome_Pathways_2024	Endosomal Vacuolar Pathway	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	B2M
+Reactome_Pathways_2024	N-Glycan Antennae Elongation	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	B4GALT5
+Reactome_Pathways_2024	NOTCH2 Activation and Transmission of Signal to the Nucleus	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	CNTN1
+Reactome_Pathways_2024	SHC1 Events in ERBB2 Signaling	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	EGFR
+Reactome_Pathways_2024	GAB1 Signalosome	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	EGFR
+Reactome_Pathways_2024	Signaling by ERBB2 TMD JMD Mutants	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	EGFR
+Reactome_Pathways_2024	Defective EXT1 Causes Exostoses 1, TRPS2 and CHDS	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	EXT1
+Reactome_Pathways_2024	Defective EXT2 Causes Exostoses 2	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	EXT1
+Reactome_Pathways_2024	Dissolution of Fibrin Clot	1.423302e-01	3.608688e-01	0	0	7.247525e+00	1.412981e+01	PLG
+Reactome_Pathways_2024	Signaling by PDGF	1.494336e-01	3.759190e-01	0	0	3.048372e+00	5.794659e+00	COL4A2;PLG
+Reactome_Pathways_2024	Non-integrin membrane-ECM Interactions	1.547517e-01	3.762528e-01	0	0	2.978636e+00	5.557936e+00	DDR1;COL4A2
+Reactome_Pathways_2024	Estrogen-dependent Nuclear Events Downstream of ESR-membrane Signaling	1.554088e-01	3.762528e-01	0	0	6.521782e+00	1.214158e+01	EGFR
+Reactome_Pathways_2024	PECAM1 Interactions	1.554088e-01	3.762528e-01	0	0	6.521782e+00	1.214158e+01	INPP5D
+Reactome_Pathways_2024	Signaling by NOTCH2	1.554088e-01	3.762528e-01	0	0	6.521782e+00	1.214158e+01	CNTN1
+Reactome_Pathways_2024	Metabolism of Steroid Hormones	1.554088e-01	3.762528e-01	0	0	6.521782e+00	1.214158e+01	SERPINA6
+Reactome_Pathways_2024	Gastrin-CREB Signalling Pathway via PKC and MAPK	1.682898e-01	3.852221e-01	0	0	5.927993e+00	1.056409e+01	EGFR
+Reactome_Pathways_2024	Crosslinking of Collagen Fibrils	1.682898e-01	3.852221e-01	0	0	5.927993e+00	1.056409e+01	COL4A2
+Reactome_Pathways_2024	Metabolism of Lipids	1.758527e-01	3.852221e-01	0	0	1.523624e+00	2.648223e+00	FABP1;BCHE;FABP4;INPP5D;LTA4H;GC;SERPINA6;B4GALT5
+Reactome_Pathways_2024	Peptide Hormone Metabolism	1.763660e-01	3.852221e-01	0	0	2.728750e+00	4.734910e+00	BCHE;CPB2
+Reactome_Pathways_2024	NOTCH3 Activation and Transmission of Signal to the Nucleus	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Signaling by EGFR in Cancer	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Signaling by EGFRvIII in Cancer	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Signaling by ERBB2 ECD Mutants	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Signaling by ERBB2 KD Mutants	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Signaling by Ligand-Responsive EGFR Variants in Cancer	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Synthesis of IP3 and IP4 in the Cytosol	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	INPP5D
+Reactome_Pathways_2024	Synthesis, Secretion, and Deacylation of Ghrelin	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	BCHE
+Reactome_Pathways_2024	Constitutive Signaling by EGFRvIII	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Interleukin Receptor SHC Signaling	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	INPP5D
+Reactome_Pathways_2024	Metabolism of Angiotensinogen to Angiotensins	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	CPB2
+Reactome_Pathways_2024	Downregulation of ERBB2 Signaling	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	EGFR
+Reactome_Pathways_2024	Vitamin B5 (Pantothenate) Metabolism	1.809762e-01	3.852221e-01	0	0	5.433168e+00	9.287402e+00	ENPP2
+Reactome_Pathways_2024	Bacterial Infection Pathways	1.818440e-01	3.852221e-01	0	0	2.672653e+00	4.555821e+00	MRC1;B2M
+Reactome_Pathways_2024	Regulation of IGF Transport and Uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	1.833862e-01	3.859500e-01	0	0	2.096389e+00	3.555814e+00	CST3;IGFBP2;PLG
+Reactome_Pathways_2024	O-linked Glycosylation	1.928743e-01	3.968005e-01	0	0	2.567059e+00	4.224651e+00	CFP;B4GALT5
+Reactome_Pathways_2024	Ephrin Signaling	1.934710e-01	3.968005e-01	0	0	5.014471e+00	8.236907e+00	EPHB4
+Reactome_Pathways_2024	Signaling by ERBB2 in Cancer	1.934710e-01	3.968005e-01	0	0	5.014471e+00	8.236907e+00	EGFR
+Reactome_Pathways_2024	VEGFR2 Mediated Cell Proliferation	1.934710e-01	3.968005e-01	0	0	5.014471e+00	8.236907e+00	VEGFA
+Reactome_Pathways_2024	O-glycosylation of TSR Domain-Containing Proteins	2.057771e-01	4.090137e-01	0	0	4.655587e+00	7.360306e+00	CFP
+Reactome_Pathways_2024	Synthesis of PC	2.057771e-01	4.090137e-01	0	0	4.655587e+00	7.360306e+00	BCHE
+Reactome_Pathways_2024	Defective B3GALTL Causes PpS	2.057771e-01	4.090137e-01	0	0	4.655587e+00	7.360306e+00	CFP
+Reactome_Pathways_2024	Metabolism of Porphyrins	2.057771e-01	4.090137e-01	0	0	4.655587e+00	7.360306e+00	FABP1
+Reactome_Pathways_2024	Miscellaneous Transport and Binding Events	2.057771e-01	4.090137e-01	0	0	4.655587e+00	7.360306e+00	AZGP1
+Reactome_Pathways_2024	NCAM1 Interactions	2.178971e-01	4.201370e-01	0	0	4.344554e+00	6.619937e+00	COL4A2
+Reactome_Pathways_2024	Activated NOTCH1 Transmits Signal to the Nucleus	2.178971e-01	4.201370e-01	0	0	4.344554e+00	6.619937e+00	CNTN1
+Reactome_Pathways_2024	HS-GAG Biosynthesis	2.178971e-01	4.201370e-01	0	0	4.344554e+00	6.619937e+00	EXT1
+Reactome_Pathways_2024	Plasma Lipoprotein Assembly	2.178971e-01	4.201370e-01	0	0	4.344554e+00	6.619937e+00	A2M
+Reactome_Pathways_2024	Heme Signaling	2.178971e-01	4.201370e-01	0	0	4.344554e+00	6.619937e+00	HBB
+Reactome_Pathways_2024	ECM Proteoglycans	2.264229e-01	4.277836e-01	0	0	2.294737e+00	3.408489e+00	COL4A2;ITGB6
+Reactome_Pathways_2024	Respiratory Syncytial Virus (RSV) Attachment and Entry	2.298341e-01	4.277836e-01	0	0	4.072401e+00	5.988049e+00	EGFR
+Reactome_Pathways_2024	N-glycan Antennae Elongation in the Medial trans-Golgi	2.298341e-01	4.277836e-01	0	0	4.072401e+00	5.988049e+00	B4GALT5
+Reactome_Pathways_2024	Nef-mediates Down Modulation of Cell Surface Receptors by Recruiting Them to Clathrin Adapters	2.298341e-01	4.277836e-01	0	0	4.072401e+00	5.988049e+00	B2M
+Reactome_Pathways_2024	Scavenging by Class A Receptors	2.298341e-01	4.277836e-01	0	0	4.072401e+00	5.988049e+00	COL4A2
+Reactome_Pathways_2024	Signaling by NOTCH3	2.298341e-01	4.277836e-01	0	0	4.072401e+00	5.988049e+00	EGFR
+Reactome_Pathways_2024	Cell Junction Organization	2.320622e-01	4.294484e-01	0	0	2.254828e+00	3.293739e+00	ANG;NECTIN1
+Reactome_Pathways_2024	EGFR Downregulation	2.415905e-01	4.445266e-01	0	0	3.832266e+00	5.443775e+00	EGFR
+Reactome_Pathways_2024	Epigenetic Regulation of Gene Expression	2.490289e-01	4.504906e-01	0	0	2.142951e+00	2.979101e+00	FABP4;ADIPOQ
+Reactome_Pathways_2024	Integrin Cell Surface Interactions	2.490289e-01	4.504906e-01	0	0	2.142951e+00	2.979101e+00	COL4A2;ITGB6
+Reactome_Pathways_2024	Metabolism of Steroids	2.490289e-01	4.504906e-01	0	0	2.142951e+00	2.979101e+00	GC;SERPINA6
+Reactome_Pathways_2024	Developmental Biology	2.569213e-01	4.621714e-01	0	0	1.311235e+00	1.781950e+00	CELA2A;CEACAM1;FABP4;COL4A2;ADIPOQ;SPINK5;CNTN1;PRSS8;EGFR;EPHB4
+Reactome_Pathways_2024	Signal Transduction by L1	2.645730e-01	4.706768e-01	0	0	3.427827e+00	4.557770e+00	EGFR
+Reactome_Pathways_2024	Collagen Chain Trimerization	2.645730e-01	4.706768e-01	0	0	3.427827e+00	4.557770e+00	COL4A2
+Reactome_Pathways_2024	Laminin Interactions	2.758042e-01	4.853279e-01	0	0	3.255941e+00	4.193860e+00	COL4A2
+Reactome_Pathways_2024	Signaling by the B Cell Receptor (BCR)	2.758230e-01	4.853279e-01	0	0	1.678322e+00	2.161671e+00	IGLV3-27;IGKV2D-30;IGKV2-30
+Reactome_Pathways_2024	Keratan Sulfate Biosynthesis	2.868656e-01	5.020148e-01	0	0	3.100424e+00	3.871629e+00	B4GALT5
+Reactome_Pathways_2024	Signaling by CSF1 (M-CSF) in Myeloid Cells	2.977596e-01	5.072942e-01	0	0	2.959046e+00	3.584791e+00	INPP5D
+Reactome_Pathways_2024	Signaling by Non-Receptor Tyrosine Kinases	2.977596e-01	5.072942e-01	0	0	2.959046e+00	3.584791e+00	EGFR
+Reactome_Pathways_2024	Signaling by PTK6	2.977596e-01	5.072942e-01	0	0	2.959046e+00	3.584791e+00	EGFR
+Reactome_Pathways_2024	Interleukin-2 Family Signaling	2.977596e-01	5.072942e-01	0	0	2.959046e+00	3.584791e+00	INPP5D
+Reactome_Pathways_2024	DAP12 Signaling	2.977596e-01	5.072942e-01	0	0	2.959046e+00	3.584791e+00	B2M
+Reactome_Pathways_2024	Inositol Phosphate Metabolism	3.084889e-01	5.194075e-01	0	0	2.829961e+00	3.328231e+00	INPP5D
+Reactome_Pathways_2024	The Role of Nef in HIV-1 Replication and Disease Pathogenesis	3.084889e-01	5.194075e-01	0	0	2.829961e+00	3.328231e+00	B2M
+Reactome_Pathways_2024	Factors Involved in Megakaryocyte Development and Platelet Production	3.113219e-01	5.194075e-01	0	0	1.812500e+00	2.115057e+00	HBB;HBD
+Reactome_Pathways_2024	Antigen processing-Cross Presentation	3.113219e-01	5.194075e-01	0	0	1.812500e+00	2.115057e+00	MRC1;B2M
+Reactome_Pathways_2024	Retinoid Metabolism and Transport	3.190558e-01	5.287490e-01	0	0	2.711634e+00	3.097741e+00	PNLIP
+Reactome_Pathways_2024	Signaling by Interleukins	3.202051e-01	5.287490e-01	0	0	1.359456e+00	1.548139e+00	CA1;IGHG1;INPP5D;IGHE;VEGFA
+Reactome_Pathways_2024	L1CAM Interactions	3.225749e-01	5.299445e-01	0	0	1.762973e+00	1.994663e+00	CNTN1;EGFR
+Reactome_Pathways_2024	Vesicle-mediated Transport	3.264369e-01	5.335670e-01	0	0	1.219203e+00	1.364920e+00	IGLV5-37;HPX;CD163;IGLV3-27;IGKV2D-30;COL4A2;HP;HBB;EGFR;IGKV2-30
+Reactome_Pathways_2024	EPH-ephrin Mediated Repulsion of Cells	3.294628e-01	5.357930e-01	0	0	2.602772e+00	2.889837e+00	EPHB4
+Reactome_Pathways_2024	Glycosphingolipid Metabolism	3.397122e-01	5.467850e-01	0	0	2.502285e+00	2.701608e+00	B4GALT5
+Reactome_Pathways_2024	Keratan Sulfate Keratin Metabolism	3.397122e-01	5.467850e-01	0	0	2.502285e+00	2.701608e+00	B4GALT5
+Reactome_Pathways_2024	Molecules Associated With Elastic Fibres	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	ITGB6
+Reactome_Pathways_2024	Antigen Presentation Folding, Assembly and Peptide Loading of Class I MHC	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	B2M
+Reactome_Pathways_2024	Arachidonate Metabolism	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	LTA4H
+Reactome_Pathways_2024	Signaling by ERBB4	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	EGFR
+Reactome_Pathways_2024	Interleukin-3, Interleukin-5 and GM-CSF Signaling	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	INPP5D
+Reactome_Pathways_2024	Metabolism of Fat-Soluble Vitamins	3.498065e-01	5.467850e-01	0	0	2.409241e+00	2.530606e+00	PNLIP
+Reactome_Pathways_2024	Signaling by ERBB2	3.597480e-01	5.516136e-01	0	0	2.322843e+00	2.374762e+00	EGFR
+Reactome_Pathways_2024	Gene and Protein Expression by JAK-STAT Signaling After Interleukin-12 Stimulation	3.597480e-01	5.516136e-01	0	0	2.322843e+00	2.374762e+00	CA1
+Reactome_Pathways_2024	PPARA Activates Gene Expression	3.597480e-01	5.516136e-01	0	0	2.322843e+00	2.374762e+00	FABP1
+Reactome_Pathways_2024	Regulation of Lipid Metabolism by PPARalpha	3.597480e-01	5.516136e-01	0	0	2.322843e+00	2.374762e+00	FABP1
+Reactome_Pathways_2024	Transport of Small Molecules	3.690823e-01	5.612809e-01	0	0	1.238170e+00	1.234129e+00	CA1;AZGP1;CA2;MB;HBB;A2M
+Reactome_Pathways_2024	Signaling by NOTCH1	3.695390e-01	5.612809e-01	0	0	2.242404e+00	2.232311e+00	CNTN1
+Reactome_Pathways_2024	Cell-Cell Communication	3.780330e-01	5.652615e-01	0	0	1.550714e+00	1.508494e+00	ANG;NECTIN1
+Reactome_Pathways_2024	Peptide Ligand-Binding Receptors	3.791816e-01	5.652615e-01	0	0	2.167327e+00	2.101743e+00	PPBP
+Reactome_Pathways_2024	TGF-beta Receptor Signaling Activates SMADs	3.791816e-01	5.652615e-01	0	0	2.167327e+00	2.101743e+00	ITGB6
+Reactome_Pathways_2024	EPHB-mediated Forward Signaling	3.791816e-01	5.652615e-01	0	0	2.167327e+00	2.101743e+00	EPHB4
+Reactome_Pathways_2024	Glycosaminoglycan Metabolism	3.834849e-01	5.688836e-01	0	0	1.532235e+00	1.468579e+00	EXT1;B4GALT5
+Reactome_Pathways_2024	NCAM Signaling for Neurite Out-Growth	3.886782e-01	5.688836e-01	0	0	2.097094e+00	1.981761e+00	COL4A2
+Reactome_Pathways_2024	Signaling by EGFR	3.886782e-01	5.688836e-01	0	0	2.097094e+00	1.981761e+00	EGFR
+Reactome_Pathways_2024	Phase I - Functionalization of Compounds	3.886782e-01	5.688836e-01	0	0	2.097094e+00	1.981761e+00	AOC3
+Reactome_Pathways_2024	O-linked Glycosylation of Mucins	3.980310e-01	5.773242e-01	0	0	2.031250e+00	1.871239e+00	B4GALT5
+Reactome_Pathways_2024	Cross-presentation of Soluble Exogenous Antigens (Endosomes)	3.980310e-01	5.773242e-01	0	0	2.031250e+00	1.871239e+00	MRC1
+Reactome_Pathways_2024	Elastic Fibre Formation	4.072420e-01	5.776737e-01	0	0	1.969397e+00	1.769203e+00	ITGB6
+Reactome_Pathways_2024	Heparan Sulfate Heparin (HS-GAG) Metabolism	4.072420e-01	5.776737e-01	0	0	1.969397e+00	1.769203e+00	EXT1
+Reactome_Pathways_2024	Constitutive Signaling by Aberrant PI3K in Cancer	4.072420e-01	5.776737e-01	0	0	1.969397e+00	1.769203e+00	EGFR
+Reactome_Pathways_2024	Interleukin-12 Signaling	4.072420e-01	5.776737e-01	0	0	1.969397e+00	1.769203e+00	CA1
+Reactome_Pathways_2024	Diseases Associated With O-glycosylation of Proteins	4.072420e-01	5.776737e-01	0	0	1.969397e+00	1.769203e+00	CFP
+Reactome_Pathways_2024	Diseases Associated With Glycosaminoglycan Metabolism	4.163134e-01	5.853840e-01	0	0	1.911182e+00	1.674801e+00	EXT1
+Reactome_Pathways_2024	Visual Phototransduction	4.163134e-01	5.853840e-01	0	0	1.911182e+00	1.674801e+00	PNLIP
+Reactome_Pathways_2024	Signaling by NOTCH	4.210530e-01	5.894741e-01	0	0	1.414130e+00	1.223218e+00	CNTN1;EGFR
+Reactome_Pathways_2024	Diseases of Glycosylation	4.263277e-01	5.942750e-01	0	0	1.398710e+00	1.192466e+00	EXT1;CFP
+Reactome_Pathways_2024	Collagen Biosynthesis and Modifying Enzymes	4.340459e-01	5.998403e-01	0	0	1.804455e+00	1.506007e+00	COL4A2
+Reactome_Pathways_2024	Collagen Degradation	4.340459e-01	5.998403e-01	0	0	1.804455e+00	1.506007e+00	COL4A2
+Reactome_Pathways_2024	Synthesis of PIPs at the Plasma Membrane	4.427111e-01	6.092007e-01	0	0	1.755419e+00	1.430382e+00	INPP5D
+Reactome_Pathways_2024	Gene Silencing by RNA	4.512448e-01	6.156815e-01	0	0	1.708963e+00	1.359899e+00	ANG
+Reactome_Pathways_2024	Cellular Response to Hypoxia	4.512448e-01	6.156815e-01	0	0	1.708963e+00	1.359899e+00	VEGFA
+Reactome_Pathways_2024	Assembly of Collagen Fibrils and Other Multimeric Structures	4.596492e-01	6.245023e-01	0	0	1.664890e+00	1.294105e+00	COL4A2
+Reactome_Pathways_2024	Adaptive Immune System	4.749589e-01	6.414097e-01	0	0	1.077309e+00	8.020859e-01	IGLV5-37;IGLV3-27;IGKV2D-30;INPP5D;MRC1;B2M;LILRA3;IGKV2-30
+Reactome_Pathways_2024	Interleukin-12 Family Signaling	4.760774e-01	6.414097e-01	0	0	1.583192e+00	1.175006e+00	CA1
+Reactome_Pathways_2024	Class A 1 (Rhodopsin-like Receptors)	4.841050e-01	6.495075e-01	0	0	1.545262e+00	1.121015e+00	PPBP
+Reactome_Pathways_2024	MITF-M-dependent Gene Expression	4.920108e-01	6.573755e-01	0	0	1.509095e+00	1.070333e+00	CEACAM1
+Reactome_Pathways_2024	Metabolism of Vitamins and Cofactors	5.070980e-01	6.724424e-01	0	0	1.190459e+00	8.083821e-01	ENPP2;PNLIP
+Reactome_Pathways_2024	Extra-nuclear Estrogen Signaling	5.074643e-01	6.724424e-01	0	0	1.441584e+00	9.778681e-01	EGFR
+Reactome_Pathways_2024	Autophagy	5.119021e-01	6.755430e-01	0	0	1.179455e+00	7.897885e-01	HBB;RNASE1
+Reactome_Pathways_2024	Interferon Gamma Signaling	5.224522e-01	6.866515e-01	0	0	1.379819e+00	8.958085e-01	B2M
+Reactome_Pathways_2024	Sphingolipid Metabolism	5.297759e-01	6.915633e-01	0	0	1.350866e+00	8.582071e-01	B4GALT5
+Reactome_Pathways_2024	SARS-CoV Infections	5.304849e-01	6.915633e-01	0	0	1.041867e+00	6.605059e-01	IGLV3-27;IGKV2D-30;B2M;IGKV2-30;VEGFA
+Reactome_Pathways_2024	Signaling by TGF-beta Receptor Complex	5.369883e-01	6.972187e-01	0	0	1.323096e+00	8.226730e-01	ITGB6
+Reactome_Pathways_2024	HCMV Early Events	5.440912e-01	7.036039e-01	0	0	1.296436e+00	7.890605e-01	EGFR
+Reactome_Pathways_2024	Phospholipid Metabolism	5.492286e-01	7.069711e-01	0	0	1.098136e+00	6.580474e-01	BCHE;INPP5D
+Reactome_Pathways_2024	Plasma Lipoprotein Assembly, Remodeling, and Clearance	5.510862e-01	7.069711e-01	0	0	1.270821e+00	7.572367e-01	A2M
+Reactome_Pathways_2024	Infectious Disease	5.559996e-01	7.104439e-01	0	0	9.944816e-01	5.837485e-01	IGLV5-37;IGHG1;CD163;IGLV3-27;IGKV2D-30;MRC1;B2M;EGFR;IGKV2-30;VEGFA
+Reactome_Pathways_2024	Cellular Response to Chemical Stress	5.582473e-01	7.104966e-01	0	0	1.079500e+00	6.292979e-01	FABP1;HBB
+Reactome_Pathways_2024	PI Metabolism	5.647588e-01	7.131465e-01	0	0	1.222492e+00	6.984787e-01	INPP5D
+Reactome_Pathways_2024	PI3K AKT Signaling in Cancer	5.647588e-01	7.131465e-01	0	0	1.222492e+00	6.984787e-01	EGFR
+Reactome_Pathways_2024	Respiratory Syncytial Virus Infection Pathway	5.714397e-01	7.159673e-01	0	0	1.199670e+00	6.713308e-01	EGFR
+Reactome_Pathways_2024	Collagen Formation	5.714397e-01	7.159673e-01	0	0	1.199670e+00	6.713308e-01	COL4A2
+Reactome_Pathways_2024	Cytokine Signaling in Immune System	5.828152e-01	7.273895e-01	0	0	9.760705e-01	5.269659e-01	CA1;IGHG1;INPP5D;IGHE;B2M;VEGFA
+Reactome_Pathways_2024	EPH-Ephrin Signaling	5.908791e-01	7.346065e-01	0	0	1.136008e+00	5.977038e-01	EPHB4
+Reactome_Pathways_2024	PI5P, PP2A and IER3 Regulate PI3K AKT Signaling	5.971628e-01	7.395632e-01	0	0	1.116251e+00	5.755006e-01	EGFR
+Reactome_Pathways_2024	Regulation of mRNA Stability by Proteins That Bind AU-rich Elements	6.094450e-01	7.518823e-01	0	0	1.078713e+00	5.341857e-01	ENPP2
+Reactome_Pathways_2024	Negative Regulation of the PI3K AKT Network	6.213562e-01	7.620783e-01	0	0	1.043596e+00	4.965961e-01	EGFR
+Reactome_Pathways_2024	GPCR Ligand Binding	6.271762e-01	7.620783e-01	0	0	1.026874e+00	4.790653e-01	PPBP
+Reactome_Pathways_2024	Integration of Energy Metabolism	6.271762e-01	7.620783e-01	0	0	1.026874e+00	4.790653e-01	ADIPOQ
+Reactome_Pathways_2024	MITF-M-regulated Melanocyte Development	6.271762e-01	7.620783e-01	0	0	1.026874e+00	4.790653e-01	CEACAM1
+Reactome_Pathways_2024	ER-Phagosome Pathway	6.329076e-01	7.661513e-01	0	0	1.010675e+00	4.623137e-01	B2M
+Reactome_Pathways_2024	Downstream TCR Signaling	6.385518e-01	7.700886e-01	0	0	9.949733e-01	4.462978e-01	INPP5D
+Reactome_Pathways_2024	Glycerophospholipid Biosynthesis	6.441100e-01	7.738933e-01	0	0	9.797480e-01	4.309772e-01	BCHE
+Reactome_Pathways_2024	Cargo Recognition for Clathrin-Mediated Endocytosis	6.495835e-01	7.775684e-01	0	0	9.649771e-01	4.163141e-01	EGFR
+Reactome_Pathways_2024	Metabolism of Water-Soluble Vitamins and Cofactors	6.602818e-01	7.874472e-01	0	0	9.367198e-01	3.888217e-01	ENPP2
+Reactome_Pathways_2024	Sensory Perception	6.655090e-01	7.878452e-01	0	0	9.231966e-01	3.759285e-01	PNLIP
+Reactome_Pathways_2024	HCMV Infection	6.655090e-01	7.878452e-01	0	0	9.231966e-01	3.759285e-01	EGFR
+Reactome_Pathways_2024	VEGFA-VEGFR2 Pathway	6.706565e-01	7.910308e-01	0	0	9.100544e-01	3.635650e-01	VEGFA
+Reactome_Pathways_2024	Disease	6.744103e-01	7.925552e-01	0	0	9.087780e-01	3.579827e-01	CD163;IGKV2D-30;F12;F11;CFP;EGFR;VEGFA;EXT1;IGLV5-37;IGHG1;IGLV3-27;MRC1;KLKB1;B2M;IGKV2-30
+Reactome_Pathways_2024	Signaling by TGFB Family Members	6.807175e-01	7.970583e-01	0	0	8.848501e-01	3.403204e-01	ITGB6
+Reactome_Pathways_2024	G Alpha (Q) Signalling Events	6.856332e-01	7.997576e-01	0	0	8.727589e-01	3.293901e-01	EGFR
+Reactome_Pathways_2024	Signaling by Receptor Tyrosine Kinases	6.895661e-01	7.997576e-01	0	0	8.537528e-01	3.173337e-01	COL4A2;PLG;EGFR;VEGFA
+Reactome_Pathways_2024	ESR-mediated Signaling	6.904740e-01	7.997576e-01	0	0	8.609901e-01	3.188909e-01	EGFR
+Reactome_Pathways_2024	Diseases of Metabolism	6.954056e-01	8.025828e-01	0	0	8.312258e-01	3.019511e-01	EXT1;CFP
+Reactome_Pathways_2024	Signaling by VEGF	6.999352e-01	8.049254e-01	0	0	8.383696e-01	2.991031e-01	VEGFA
+Reactome_Pathways_2024	SARS-CoV-2 Activates Modulates Innate and Adaptive Immune Responses	7.045578e-01	8.073580e-01	0	0	8.274943e-01	2.897760e-01	B2M
+Reactome_Pathways_2024	Metabolism	7.108680e-01	8.117004e-01	0	0	8.877164e-01	3.029497e-01	AOC3;BCHE;ADIPOQ;SERPINA6;FABP1;EXT1;CA1;FABP4;CA3;CA2;INPP5D;ENPP2;LTA4H;GC;HPD;PNLIP;B4GALT5
+Reactome_Pathways_2024	TCR Signaling	7.180068e-01	8.169547e-01	0	0	7.964796e-01	2.638548e-01	INPP5D
+Reactome_Pathways_2024	Post-translational Protein Phosphorylation	7.266341e-01	8.238598e-01	0	0	7.770488e-01	2.481367e-01	CST3
+Reactome_Pathways_2024	G Alpha (I) Signalling Events	7.509787e-01	8.436129e-01	0	0	7.239960e-01	2.073365e-01	PPBP
+Reactome_Pathways_2024	Biological Oxidations	7.509787e-01	8.436129e-01	0	0	7.239960e-01	2.073365e-01	AOC3
+Reactome_Pathways_2024	Axon Guidance	7.519158e-01	8.436129e-01	0	0	7.801145e-01	2.224347e-01	COL4A2;CNTN1;EGFR;EPHB4
+Reactome_Pathways_2024	Host Interactions of HIV Factors	7.586065e-01	8.481642e-01	0	0	7.078664e-01	1.955637e-01	B2M
+Reactome_Pathways_2024	GPCR Downstream Signalling	7.624245e-01	8.494834e-01	0	0	7.254237e-01	1.967725e-01	PPBP;EGFR
+Reactome_Pathways_2024	Nervous System Development	7.664423e-01	8.510153e-01	0	0	7.629607e-01	2.029443e-01	COL4A2;CNTN1;EGFR;EPHB4
+Reactome_Pathways_2024	Metabolism of Carbohydrates	7.859810e-01	8.660270e-01	0	0	6.893548e-01	1.660123e-01	EXT1;B4GALT5
+Reactome_Pathways_2024	Gene Expression (Transcription)	7.877833e-01	8.660270e-01	0	0	7.542630e-01	1.799160e-01	FABP4;ADIPOQ;ANG;EGFR;VEGFA
+Reactome_Pathways_2024	Clathrin-mediated Endocytosis	7.901660e-01	8.660270e-01	0	0	6.432673e-01	1.514973e-01	EGFR
+Reactome_Pathways_2024	Signaling by GPCR	7.909321e-01	8.660270e-01	0	0	6.818085e-01	1.599135e-01	PPBP;EGFR
+Reactome_Pathways_2024	Transmission Across Chemical Synapses	7.934099e-01	8.660270e-01	0	0	6.368003e-01	1.473654e-01	BCHE
+Reactome_Pathways_2024	Fatty Acid Metabolism	7.966041e-01	8.665760e-01	0	0	6.304601e-01	1.433651e-01	LTA4H
+Reactome_Pathways_2024	Class I MHC Mediated Antigen Processing & Presentation	8.097508e-01	8.743064e-01	0	0	6.531633e-01	1.378362e-01	MRC1;B2M
+Reactome_Pathways_2024	Viral Infection Pathways	8.098296e-01	8.743064e-01	0	0	7.443738e-01	1.570118e-01	IGLV3-27;IGKV2D-30;B2M;EGFR;IGKV2-30;VEGFA
+Reactome_Pathways_2024	Signaling by Nuclear Receptors	8.118560e-01	8.743064e-01	0	0	6.005367e-01	1.251713e-01	EGFR
+Reactome_Pathways_2024	HIV Infection	8.686476e-01	9.323484e-01	0	0	4.925362e-01	6.935785e-02	B2M
+Reactome_Pathways_2024	Neuronal System	8.785379e-01	9.398312e-01	0	0	4.739274e-01	6.137183e-02	BCHE
+Reactome_Pathways_2024	SARS-CoV-2-host Interactions	8.841142e-01	9.426649e-01	0	0	4.634094e-01	5.707767e-02	B2M
+Reactome_Pathways_2024	Transport to the Golgi and Subsequent Modification	8.928502e-01	9.488376e-01	0	0	4.468601e-01	5.064552e-02	B4GALT5
+Reactome_Pathways_2024	PIP3 Activates AKT Signaling	8.977754e-01	9.509332e-01	0	0	4.374746e-01	4.717521e-02	EGFR
+Reactome_Pathways_2024	RAF MAP Kinase Cascade	9.009337e-01	9.511496e-01	0	0	4.314290e-01	4.500825e-02	EGFR
+Reactome_Pathways_2024	Interferon Signaling	9.054907e-01	9.527977e-01	0	0	4.226608e-01	4.196104e-02	B2M
+Reactome_Pathways_2024	MAPK1 MAPK3 Signaling	9.084128e-01	9.527977e-01	0	0	4.170064e-01	4.005614e-02	EGFR
+Reactome_Pathways_2024	Post-translational Protein Modification	9.151214e-01	9.567178e-01	0	0	6.488110e-01	5.754860e-02	CST3;CEACAM5;CNTN3;CNTN4;CFP;RECK;ART3;B4GALT5
+Reactome_Pathways_2024	Intracellular Signaling by Second Messengers	9.253422e-01	9.642724e-01	0	0	3.835739e-01	2.976214e-02	EGFR
+Reactome_Pathways_2024	MAPK Family Signaling Cascades	9.331336e-01	9.692549e-01	0	0	3.676530e-01	2.544413e-02	EGFR
+Reactome_Pathways_2024	Metabolism of Proteins	9.515625e-01	9.852190e-01	0	0	6.450711e-01	3.202773e-02	BCHE;CPB2;IGFBP2;PLG;CFP;ART3;CST3;CEACAM5;CNTN3;CNTN4;RECK;B2M;B4GALT5
+Reactome_Pathways_2024	SARS-CoV-2 Infection	9.570244e-01	9.870903e-01	0	0	3.150584e-01	1.383939e-02	B2M
+Reactome_Pathways_2024	Generic Transcription Pathway	9.626508e-01	9.870903e-01	0	0	3.872222e-01	1.473945e-02	EGFR;VEGFA
+Reactome_Pathways_2024	Cellular Responses to Stress	9.664212e-01	9.870903e-01	0	0	4.313808e-01	1.473404e-02	FABP1;HBB;VEGFA
+Reactome_Pathways_2024	Metabolism of Amino Acids and Derivatives	9.666463e-01	9.870903e-01	0	0	2.910982e-01	9.874803e-03	HPD
+Reactome_Pathways_2024	Asparagine N-linked Glycosylation	9.686973e-01	9.870903e-01	0	0	2.856503e-01	9.084554e-03	B4GALT5
+Reactome_Pathways_2024	RNA Polymerase II Transcription	9.770879e-01	9.924994e-01	0	0	3.465000e-01	8.031395e-03	EGFR;VEGFA
+Reactome_Pathways_2024	Cellular Responses to Stimuli	9.842995e-01	9.946958e-01	0	0	3.743712e-01	5.924460e-03	FABP1;HBB;VEGFA
+Reactome_Pathways_2024	Diseases of Signal Transduction by Growth Factor Receptors and Second Messengers	9.854285e-01	9.946958e-01	0	0	2.329125e-01	3.418861e-03	EGFR
+Reactome_Pathways_2024	Metabolism of RNA	9.976824e-01	9.992969e-01	0	0	1.606390e-01	3.727244e-04	ENPP2
+Reactome_Pathways_2024	Signal Transduction	9.991406e-01	9.992969e-01	0	0	3.611054e-01	3.104768e-04	COL4A2;CNTN1;PLG;PPBP;ITGB6;EGFR;VEGFA
+Reactome_Pathways_2024	Membrane Trafficking	9.992969e-01	9.992969e-01	0	0	1.333377e-01	9.378757e-05	EGFR
