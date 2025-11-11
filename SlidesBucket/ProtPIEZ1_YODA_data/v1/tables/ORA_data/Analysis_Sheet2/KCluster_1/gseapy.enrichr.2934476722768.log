@@ -1,9 +1,0 @@
-2025-03-20 15:04:52,704 enrichr2934476722768::[INFO    ] Run: GO_Biological_Process_2023 
-2025-03-20 15:04:52,704 enrichr2934476722768::[DEBUG   ] Enrichr service using library: GO_Biological_Process_2023
-2025-03-20 15:04:54,561 enrichr2934476722768::[INFO    ] Save enrichment results for GO_Biological_Process_2023 
-2025-03-20 15:04:55,183 enrichr2934476722768::[DEBUG   ] Generate figures
-2025-03-20 15:04:55,184 enrichr2934476722768::[INFO    ] Run: MSigDB_Hallmark_2020 
-2025-03-20 15:04:55,184 enrichr2934476722768::[DEBUG   ] Enrichr service using library: MSigDB_Hallmark_2020
-2025-03-20 15:04:56,312 enrichr2934476722768::[INFO    ] Save enrichment results for MSigDB_Hallmark_2020 
-2025-03-20 15:04:56,931 enrichr2934476722768::[DEBUG   ] Generate figures
-2025-03-20 15:04:56,932 enrichr2934476722768::[INFO    ] Done.
