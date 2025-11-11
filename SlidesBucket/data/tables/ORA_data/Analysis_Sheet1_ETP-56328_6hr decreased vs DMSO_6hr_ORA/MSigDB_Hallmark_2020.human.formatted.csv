@@ -1,9 +1,0 @@
-term,fdr,Odds Ratio,Combined Score,Genes,description
-Allograft Rejection,0.2370126,7.984177,28.09699,INHBB;RPL3L,Allograft Rejection
-Estrogen Response Early,0.3310197,4.414173,10.99955,SH3BP5;INHBB,Estrogen Response Early
-Epithelial Mesenchymal Transition,0.375268,2.746383,3.18764,SGCB,Epithelial Mesenchymal Transition
-TNF-alpha Signaling via NF-kB,0.375268,2.673312,3.044443,NR4A3,TNF-alpha Signaling via NF-kB
-IL-2/STAT5 Signaling,0.375268,2.581664,2.867582,PRKCH,IL-2/STAT5 Signaling
-Interferon Gamma Response,0.375268,2.559715,2.825688,CD274,Interferon Gamma Response
-Apical Junction,0.375268,2.304637,2.352617,CD274,Apical Junction
-p53 Pathway,0.375268,2.18705,2.143561,INHBB,p53 Pathway

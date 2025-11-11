@@ -1,5 +1,0 @@
-Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
-MSigDB_Hallmark_2020	KRAS Signaling Dn	8.953991e-02	2.111233e-01	0	0	1.146493e+01	2.766569e+01	CCNA1
-MSigDB_Hallmark_2020	Spermatogenesis	1.055616e-01	2.111233e-01	0	0	9.606262e+00	2.159930e+01	CCNA1
-MSigDB_Hallmark_2020	Apoptosis	1.773619e-01	2.175115e-01	0	0	5.438748e+00	9.406658e+00	CCNA1
-MSigDB_Hallmark_2020	Estrogen Response Late	2.175115e-01	2.175115e-01	0	0	4.315157e+00	6.582787e+00	CCNA1
