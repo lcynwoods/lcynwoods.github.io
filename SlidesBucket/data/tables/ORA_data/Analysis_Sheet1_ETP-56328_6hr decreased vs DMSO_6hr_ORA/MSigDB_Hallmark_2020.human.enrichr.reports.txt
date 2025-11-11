@@ -1,0 +1,9 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Allograft Rejection	2.962657e-02	2.370126e-01	0	0	7.984177e+00	2.809699e+01	INHBB;RPL3L
+MSigDB_Hallmark_2020	Estrogen Response Early	8.275493e-02	3.310197e-01	0	0	4.414173e+00	1.099955e+01	SH3BP5;INHBB
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	3.132767e-01	3.752680e-01	0	0	2.746383e+00	3.187640e+00	SGCB
+MSigDB_Hallmark_2020	TNF-alpha Signaling via NF-kB	3.201940e-01	3.752680e-01	0	0	2.673312e+00	3.044443e+00	NR4A3
+MSigDB_Hallmark_2020	IL-2/STAT5 Signaling	3.293121e-01	3.752680e-01	0	0	2.581664e+00	2.867582e+00	PRKCH
+MSigDB_Hallmark_2020	Interferon Gamma Response	3.315729e-01	3.752680e-01	0	0	2.559715e+00	2.825688e+00	CD274
+MSigDB_Hallmark_2020	Apical Junction	3.602998e-01	3.752680e-01	0	0	2.304637e+00	2.352617e+00	CD274
+MSigDB_Hallmark_2020	p53 Pathway	3.752680e-01	3.752680e-01	0	0	2.187050e+00	2.143561e+00	INHBB

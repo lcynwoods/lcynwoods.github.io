@@ -1,0 +1,67 @@
+
+Warning message:
+package 'rrvgo' was built under R version 4.3.3 
+Loading required package: AnnotationDbi
+Loading required package: stats4
+Loading required package: BiocGenerics
+
+Attaching package: 'BiocGenerics'
+
+The following objects are masked from 'package:stats':
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from 'package:base':
+
+    anyDuplicated, aperm, append, as.data.frame, basename, cbind,
+    colnames, dirname, do.call, duplicated, eval, evalq, Filter, Find,
+    get, grep, grepl, intersect, is.unsorted, lapply, Map, mapply,
+    match, mget, order, paste, pmax, pmax.int, pmin, pmin.int,
+    Position, rank, rbind, Reduce, rownames, sapply, setdiff, sort,
+    table, tapply, union, unique, unsplit, which.max, which.min
+
+Loading required package: Biobase
+Welcome to Bioconductor
+
+    Vignettes contain introductory material; view with
+    'browseVignettes()'. To cite Bioconductor, see
+    'citation("Biobase")', and for packages 'citation("pkgname")'.
+
+Loading required package: IRanges
+Loading required package: S4Vectors
+
+Attaching package: 'S4Vectors'
+
+The following object is masked from 'package:utils':
+
+    findMatches
+
+The following objects are masked from 'package:base':
+
+    expand.grid, I, unname
+
+
+Attaching package: 'IRanges'
+
+The following object is masked from 'package:grDevices':
+
+    windows
+
+Warning messages:
+1: package 'AnnotationDbi' was built under R version 4.3.2 
+2: package 'S4Vectors' was built under R version 4.3.2 
+Warning message:
+package 'ggplot2' was built under R version 4.3.3 
+Bioconductor version '3.18' is out-of-date; the current release version '3.21'
+  is available with R version '4.5'; see https://bioconductor.org/install
+Warning message:
+package 'BiocManager' was built under R version 4.3.3 
+
+preparing gene to GO mapping data...
+preparing IC data...
+Warning message:
+In calculateSimMatrix(inp_data$term, orgdb = orgdb, ont = ontology,  :
+  Removed 14 terms that were not found in orgdb for BP
+'select()' returned 1:many mapping between keys and columns
+Warning message:
+ggrepel: 299 unlabeled data points (too many overlaps). Consider increasing max.overlaps 

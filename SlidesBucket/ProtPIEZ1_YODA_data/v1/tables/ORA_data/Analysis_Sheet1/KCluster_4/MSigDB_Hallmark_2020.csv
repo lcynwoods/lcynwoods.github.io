@@ -1,0 +1,29 @@
+term,fdr,Odds Ratio,Combined Score,Genes,description
+Estrogen Response Early,0.002458333,7.451613,69.49192,TIAM1;ABCA3;PMAIP1;NAV2;DHRS2;DHRS3;SLC7A2,Estrogen Response Early
+Epithelial Mesenchymal Transition,0.002458333,6.637274,57.39469,ITGA2;WNT5A;TIMP3;PTX3;THBS2;DKK1;PTHLH,Epithelial Mesenchymal Transition
+Inflammatory Response,0.003866441,8.849135,68.92603,ABCA1;NDP;CD55;SLC7A2;KCNJ2,Inflammatory Response
+Estrogen Response Late,0.1375535,4.125858,16.21319,TIAM1;ABCA3;S100A9;DHRS2,Estrogen Response Late
+Pperoxisome,0.1669101,4.717308,16.57222,ABCB1;ABCB4;DHRS3,Pperoxisome
+IL-2/STAT5 Signaling,0.2987985,3.42028,9.400402,TIAM1;ABCB1;DHRS3,IL-2/STAT5 Signaling
+Complement,0.3188056,3.105849,7.856145,APOBEC3G;S100A9;CD55,Complement
+Bile Acid Metabolism,0.3508195,3.887658,8.942571,ABCA1;ABCA3,Bile Acid Metabolism
+Coagulation,0.4007304,3.227026,6.466908,ITGA2;TIMP3,Coagulation
+PI3K/AKT/mTOR  Signaling,0.4007304,3.105063,6.036509,VAV3;TIAM1,PI3K/AKT/mTOR  Signaling
+KRAS Signaling Up,0.4261661,2.726666,4.760793,ABCB1;ITGA2,KRAS Signaling Up
+Notch Signaling,0.4261661,5.139583,8.682587,WNT5A,Notch Signaling
+Wnt-beta Catenin Signaling,0.4261661,4.743269,7.684956,DKK1,Wnt-beta Catenin Signaling
+TNF-alpha Signaling via NF-kB,0.4699762,2.115114,2.917224,ABCA1;PTX3,TNF-alpha Signaling via NF-kB
+Apoptosis,0.4699762,2.115114,2.917224,PMAIP1;TIMP3,Apoptosis
+Apical Junction,0.4828551,1.978127,2.547143,CDH3;ITGA2,Apical Junction
+p53 Pathway,0.5336958,1.750786,1.972996,ZMAT3;FBXW7,p53 Pathway
+Adipogenesis,0.5862388,1.530152,1.468543,ABCA1;ACADL,Adipogenesis
+Cholesterol Homeostasis,0.5862388,2.014549,1.856999,ANTXR2,Cholesterol Homeostasis
+Androgen Response,0.6846517,1.514043,1.083021,AZGP1,Androgen Response
+Protein Secretion,0.7006673,1.361389,0.8759233,ABCA1,Protein Secretion
+Myogenesis,0.7217723,1.154009,0.6205141,NAV2,Myogenesis
+Fatty Acid Metabolism,0.7217723,1.053448,0.5086702,ACADL,Fatty Acid Metabolism
+UV Response Up,0.7217723,1.035381,0.489479,ABCB1,UV Response Up
+Xenobiotic Metabolism,0.7217723,0.9767,0.4291368,ABCC2,Xenobiotic Metabolism
+heme Metabolism,0.7442131,0.8582746,0.3171633,TSPAN5,heme Metabolism
+Glycolysis,0.7540703,0.7750796,0.2469693,SRD5A3,Glycolysis
+Mitotic Spindle,0.7993059,0.6248711,0.1399783,TIAM1,Mitotic Spindle

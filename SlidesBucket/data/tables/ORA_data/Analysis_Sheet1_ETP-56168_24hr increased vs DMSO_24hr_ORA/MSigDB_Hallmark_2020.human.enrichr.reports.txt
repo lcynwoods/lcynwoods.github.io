@@ -1,0 +1,7 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Androgen Response	1.928231e-01	3.381362e-01	0	0	4.875483e+00	8.024957e+00	NCOA4
+MSigDB_Hallmark_2020	Inflammatory Response	1.951339e-01	3.381362e-01	0	0	4.810000e+00	7.859874e+00	TNFSF9
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	2.741968e-01	3.381362e-01	0	0	3.238417e+00	4.190217e+00	SGCB
+MSigDB_Hallmark_2020	TNF-alpha Signaling via NF-kB	2.804358e-01	3.381362e-01	0	0	3.152256e+00	4.007811e+00	TNFSF9
+MSigDB_Hallmark_2020	p53 Pathway	3.304517e-01	3.381362e-01	0	0	2.578880e+00	2.855580e+00	TNFSF9
+MSigDB_Hallmark_2020	heme Metabolism	3.381362e-01	3.381362e-01	0	0	2.505744e+00	2.716995e+00	NCOA4

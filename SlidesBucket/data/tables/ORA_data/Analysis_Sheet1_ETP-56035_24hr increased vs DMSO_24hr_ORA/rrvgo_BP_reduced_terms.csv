@@ -1,0 +1,149 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:2000628","GO:2000628",18,"GO:2000628",1.03805019550842,86,"regulation of miRNA metabolic process","regulation of miRNA metabolic process",0.856324324324324,1,0
+"GO:0016446","GO:0016446",15,"GO:0016446",1.03805019550842,12,"somatic hypermutation of immunoglobulin genes","somatic hypermutation of immunoglobulin genes",0.892466216216216,1,0
+"GO:0071467","GO:0071467",12,"GO:0071467",1.03805019550842,27,"cellular response to pH","cellular response to pH",0.942777027027027,1,0
+"GO:0097503","GO:0097503",8,"GO:0097503",1.03805019550842,8,"sialylation","sialylation",0.915452702702703,1,0
+"GO:0043576","GO:0043576",4,"GO:0043576",1.03805019550842,24,"regulation of respiratory gaseous exchange","regulation of respiratory gaseous exchange",0.94825,1,0
+"GO:0006054","GO:0006054",17,"GO:0006054",1.03805019550842,12,"N-acetylneuraminate metabolic process","N-acetylneuraminate metabolic process",0.867614864864865,0.5485,0
+"GO:0006040","GO:0006040",17,"GO:0006054",1.03805019550842,42,"amino sugar metabolic process","N-acetylneuraminate metabolic process",0.910547297297297,0.5485,0.903
+"GO:1905671","GO:1905671",7,"GO:1905671",1.03805019550842,12,"regulation of lysosome organization","regulation of lysosome organization",0.919256756756757,0.532333333333333,0
+"GO:0045623","GO:0045623",6,"GO:0045623",1.03805019550842,19,"negative regulation of T-helper cell differentiation","negative regulation of T-helper cell differentiation",0.828364864864865,0.521,0
+"GO:0001574","GO:0001574",11,"GO:0001574",1.03805019550842,17,"ganglioside biosynthetic process","ganglioside biosynthetic process",0.865067567567568,0.498,0
+"GO:0033572","GO:0033572",19,"GO:0033572",1.03805019550842,10,"transferrin transport","transferrin transport",0.936162162162162,0.460142857142857,0
+"GO:0070092","GO:0070092",1,"GO:0070092",1.03805019550842,8,"regulation of glucagon secretion","regulation of glucagon secretion",0.858945945945946,0.44325,0
+"GO:0046777","GO:0046777",20,"GO:0046777",1.03805019550842,199,"protein autophosphorylation","protein autophosphorylation",0.857810810810811,0.4421,0
+"GO:0036211","GO:0036211",16,"GO:0036211",1.03805019550842,3023,"protein modification process","protein modification process",0.836108108108108,0.428333333333333,0
+"GO:0002861","GO:0002861",22,"GO:0002861",1.03805019550842,48,"regulation of inflammatory response to antigenic stimulus","regulation of inflammatory response to antigenic stimulus",0.867831081081081,0.416333333333333,0
+"GO:1900078","GO:1900078",21,"GO:1900078",1.03805019550842,26,"positive regulation of cellular response to insulin stimulus","positive regulation of cellular response to insulin stimulus",0.845189189189189,0.407666666666667,0
+"GO:2000317","GO:2000317",5,"GO:2000317",1.03805019550842,13,"negative regulation of T-helper 17 type immune response","negative regulation of T-helper 17 type immune response",0.854202702702703,0.402333333333333,0
+"GO:0050805","GO:0050805",3,"GO:0050805",1.03805019550842,54,"negative regulation of synaptic transmission","negative regulation of synaptic transmission",0.852243243243243,0.4015,0
+"GO:2000319","GO:2000319",5,"GO:2000317",1.03805019550842,22,"regulation of T-helper 17 cell differentiation","negative regulation of T-helper 17 type immune response",0.858114864864865,0.397833333333333,0.917
+"GO:2000320","GO:2000320",5,"GO:2000317",1.03805019550842,12,"negative regulation of T-helper 17 cell differentiation","negative regulation of T-helper 17 type immune response",0.831898648648649,0.396666666666667,0.992
+"GO:0046676","GO:0046676",1,"GO:0070092",1.03805019550842,40,"negative regulation of insulin secretion","regulation of glucagon secretion",0.815858108108108,0.39575,0.711
+"GO:0044843","GO:0044843",2,"GO:0044843",1.03805019550842,279,"cell cycle G1/S phase transition","cell cycle G1/S phase transition",0.927972972972973,0.395666666666667,0
+"GO:0042339","GO:0042339",13,"GO:0042339",1.03805019550842,18,"keratan sulfate metabolic process","keratan sulfate metabolic process",0.879222972972973,0.391333333333333,0
+"GO:0060291","GO:0060291",3,"GO:0050805",1.03805019550842,106,"long-term synaptic potentiation","negative regulation of synaptic transmission",0.84972972972973,0.3865,0.7
+"GO:0002862","GO:0002862",22,"GO:0002861",1.03805019550842,33,"negative regulation of inflammatory response to antigenic stimulus","regulation of inflammatory response to antigenic stimulus",0.839993243243243,0.385666666666667,0.976
+"GO:0061178","GO:0061178",1,"GO:0070092",1.03805019550842,54,"regulation of insulin secretion involved in cellular response to glucose stimulus","regulation of glucagon secretion",0.801128378378378,0.3855,0.727
+"GO:0060292","GO:0060292",3,"GO:0050805",1.03805019550842,32,"long-term synaptic depression","negative regulation of synaptic transmission",0.855175675675676,0.38325,0.963
+"GO:0018146","GO:0018146",13,"GO:0042339",1.03805019550842,16,"keratan sulfate biosynthetic process","keratan sulfate metabolic process",0.867966216216216,0.373,0.99
+"GO:2000050","GO:2000050",14,"GO:2000050",1.03805019550842,26,"regulation of non-canonical Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.84897972972973,0.37,0
+"GO:0046628","GO:0046628",21,"GO:1900078",1.03805019550842,24,"positive regulation of insulin receptor signaling pathway","positive regulation of cellular response to insulin stimulus",0.826114864864865,0.357333333333333,0.996
+"GO:0016310","GO:0016310",20,"GO:0046777",1.03805019550842,1588,"phosphorylation","protein autophosphorylation",0.874777027027027,0.3516,0.738
+"GO:0000082","GO:0000082",2,"GO:0044843",1.03805019550842,252,"G1/S transition of mitotic cell cycle","cell cycle G1/S phase transition",0.925358108108108,0.351555555555556,0.988
+"GO:1904031","GO:1904031",20,"GO:0046777",1.03805019550842,18,"positive regulation of cyclin-dependent protein kinase activity","protein autophosphorylation",0.766641891891892,0.3498,0.518
+"GO:0045737","GO:0045737",20,"GO:0046777",1.03805019550842,15,"positive regulation of cyclin-dependent protein serine/threonine kinase activity","protein autophosphorylation",0.766493243243243,0.3365,0.512
+"GO:0044772","GO:0044772",2,"GO:0044843",1.03805019550842,470,"mitotic cell cycle phase transition","cell cycle G1/S phase transition",0.923621621621622,0.332555555555556,0.892
+"GO:0051260","GO:0051260",9,"GO:0051260",1.03805019550842,194,"protein homooligomerization","protein homooligomerization",0.947033783783784,0.304,0
+"GO:0045721","GO:0045721",10,"GO:0045721",1.03805019550842,19,"negative regulation of gluconeogenesis","negative regulation of gluconeogenesis",0.816114864864865,0.272666666666667,0
+"GO:0070874","GO:0070874",10,"GO:0045721",1.03805019550842,10,"negative regulation of glycogen metabolic process","negative regulation of gluconeogenesis",0.835331081081081,0.271,0.84
+"GO:0045719","GO:0045719",10,"GO:0045721",1.03805019550842,9,"negative regulation of glycogen biosynthetic process","negative regulation of gluconeogenesis",0.829763513513514,0.2555,0.836
+"GO:0032801","GO:0032801",24,"GO:0032801",1.03282849746218,28,"receptor catabolic process","receptor catabolic process",0.902216216216216,1,0
+"GO:0006977","GO:0006977",23,"GO:0006977",1.03282849746218,18,"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.803466216216216,0.4186,0
+"GO:0006812","GO:0006812",19,"GO:0033572",1.03282849746218,1055,"monoatomic cation transport","transferrin transport",0.93722972972973,0.293428571428571,0.601
+"GO:0043123","GO:0043123",25,"GO:0043123",1.02845099357221,196,"positive regulation of canonical NF-kappaB signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.805918918918919,0.422166666666667,0
+"GO:0090382","GO:0090382",26,"GO:0090382",1.0189606969293,30,"phagosome maturation","phagosome maturation",0.961554054054054,1,0
+"GO:0006468","GO:0006468",20,"GO:0046777",1.0189606969293,1319,"protein phosphorylation","protein autophosphorylation",0.825594594594595,0.3339,0.761
+"GO:0060828","GO:0060828",14,"GO:2000050",1.0189606969293,262,"regulation of canonical Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.821918918918919,0.258166666666667,0.782
+"GO:0060173","GO:0060173",30,"GO:0060173",1.00217189979932,182,"limb development","limb development",0.983878378378378,1,0
+"GO:0051247","GO:0051247",27,"GO:0051247",1.00217189979932,1306,"positive regulation of protein metabolic process","positive regulation of protein metabolic process",0.76447972972973,0.4376,0
+"GO:0046599","GO:0046599",2,"GO:0044843",1.00217189979932,23,"regulation of centriole replication","cell cycle G1/S phase transition",0.866722972972973,0.433777777777778,0.54
+"GO:0015908","GO:0015908",29,"GO:0015908",1.00217189979932,116,"fatty acid transport","fatty acid transport",0.945614864864865,0.398,0
+"GO:0006826","GO:0006826",19,"GO:0033572",1.00217189979932,59,"iron ion transport","transferrin transport",0.948155405405405,0.385714285714286,0.873
+"GO:0046326","GO:0046326",28,"GO:0046326",1.00217189979932,37,"positive regulation of glucose import","positive regulation of glucose import",0.862939189189189,0.367,0
+"GO:0005979","GO:0005979",10,"GO:0045721",0.984497319831139,31,"regulation of glycogen biosynthetic process","negative regulation of gluconeogenesis",0.846844594594595,0.277333333333333,0.826
+"GO:0062014","GO:0062014",34,"GO:0062014",0.983532028959514,115,"negative regulation of small molecule metabolic process","negative regulation of small molecule metabolic process",0.836554054054054,1,0
+"GO:0090162","GO:0090162",31,"GO:0090162",0.983532028959514,34,"establishment of epithelial cell polarity","establishment of epithelial cell polarity",0.989689189189189,1,0
+"GO:0044090","GO:0044090",7,"GO:1905671",0.983532028959514,24,"positive regulation of vacuole organization","regulation of lysosome organization",0.886087837837838,0.522333333333333,0.853
+"GO:0090276","GO:0090276",1,"GO:0070092",0.983532028959514,195,"regulation of peptide hormone secretion","regulation of glucagon secretion",0.82325,0.3585,0.789
+"GO:0019941","GO:0019941",32,"GO:0019941",0.983532028959514,650,"modification-dependent protein catabolic process","modification-dependent protein catabolic process",0.850682432432432,0.3546,0
+"GO:2000042","GO:2000042",33,"GO:2000042",0.983532028959514,23,"negative regulation of double-strand break repair via homologous recombination","negative regulation of double-strand break repair via homologous recombination",0.765777027027027,0.28525,0
+"GO:0019752","GO:0019752",35,"GO:0019752",0.977376178419307,949,"carboxylic acid metabolic process","carboxylic acid metabolic process",0.887932432432432,0.447333333333333,0
+"GO:0043122","GO:0043122",25,"GO:0043123",0.977376178419307,265,"regulation of canonical NF-kappaB signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.833236486486487,0.431166666666667,0.972
+"GO:0010828","GO:0010828",28,"GO:0046326",0.977376178419307,44,"positive regulation of glucose transmembrane transport","positive regulation of glucose import",0.86152027027027,0.3705,0.989
+"GO:0031571","GO:0031571",23,"GO:0006977",0.976157630018342,29,"mitotic G1 DNA damage checkpoint signaling","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.798486486486486,0.4328,0.973
+"GO:0045912","GO:0045912",10,"GO:0045721",0.976157630018342,56,"negative regulation of carbohydrate metabolic process","negative regulation of gluconeogenesis",0.831081081081081,0.2765,0.925
+"GO:0006111","GO:0006111",10,"GO:0045721",0.944145200143348,53,"regulation of gluconeogenesis","negative regulation of gluconeogenesis",0.843939189189189,0.302333333333333,0.937
+"GO:0046324","GO:0046324",28,"GO:0046326",0.932673554817689,60,"regulation of glucose import","positive regulation of glucose import",0.888722972972973,0.372,0.967
+"GO:0007613","GO:0007613",36,"GO:0007613",0.90520440725628,123,"memory","memory",0.989067567567568,1,0
+"GO:0015718","GO:0015718",29,"GO:0015908",0.899318666411172,179,"monocarboxylic acid transport","fatty acid transport",0.946283783783784,0.502333333333333,0.955
+"GO:0030330","GO:0030330",23,"GO:0006977",0.899318666411172,73,"DNA damage response, signal transduction by p53 class mediator","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.862831081081081,0.4312,0.906
+"GO:0002221","GO:0002221",5,"GO:2000317",0.899318666411172,236,"pattern recognition receptor signaling pathway","negative regulation of T-helper 17 type immune response",0.79947972972973,0.4295,0.575
+"GO:0010824","GO:0010824",2,"GO:0044843",0.899318666411172,47,"regulation of centrosome duplication","cell cycle G1/S phase transition",0.869925675675676,0.412222222222222,0.565
+"GO:0050806","GO:0050806",3,"GO:0050805",0.899318666411172,174,"positive regulation of synaptic transmission","negative regulation of synaptic transmission",0.846128378378378,0.40375,0.731
+"GO:0071277","GO:0071277",37,"GO:0071277",0.899318666411172,87,"cellular response to calcium ion","cellular response to calcium ion",0.913743243243243,0.368,0
+"GO:0016266","GO:0016266",11,"GO:0001574",0.899318666411172,43,"O-glycan processing","ganglioside biosynthetic process",0.850317567567568,0.3495,0.552
+"GO:2000780","GO:2000780",33,"GO:2000042",0.899318666411172,36,"negative regulation of double-strand break repair","negative regulation of double-strand break repair via homologous recombination",0.761,0.3395,0.974
+"GO:0051289","GO:0051289",9,"GO:0051260",0.899318666411172,59,"protein homotetramerization","protein homooligomerization",0.949878378378378,0.30675,0.916
+"GO:0006879","GO:0006879",38,"GO:0006879",0.889948609691923,73,"intracellular iron ion homeostasis","intracellular iron ion homeostasis",0.990216216216216,0.5935,0
+"GO:0048585","GO:0048585",6,"GO:0045623",0.889948609691923,1754,"negative regulation of response to stimulus","negative regulation of T-helper cell differentiation",0.816108108108108,0.553,0.599
+"GO:0046626","GO:0046626",21,"GO:1900078",0.889948609691923,69,"regulation of insulin receptor signaling pathway","positive regulation of cellular response to insulin stimulus",0.842783783783784,0.429,0.781
+"GO:0006024","GO:0006024",13,"GO:0042339",0.889948609691923,72,"glycosaminoglycan biosynthetic process","keratan sulfate metabolic process",0.858148648648649,0.424333333333333,0.836
+"GO:0045910","GO:0045910",33,"GO:2000042",0.889948609691923,50,"negative regulation of DNA recombination","negative regulation of double-strand break repair via homologous recombination",0.818763513513514,0.33725,0.954
+"GO:0070588","GO:0070588",19,"GO:0033572",0.889948609691923,352,"calcium ion transmembrane transport","transferrin transport",0.915952702702703,0.321285714285714,0.566
+"GO:1904029","GO:1904029",20,"GO:0046777",0.889948609691923,85,"regulation of cyclin-dependent protein kinase activity","protein autophosphorylation",0.763851351351351,0.3085,0.583
+"GO:0000288","GO:0000288",32,"GO:0019941",0.889948609691923,69,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay","modification-dependent protein catabolic process",0.72125,0.2843,0.657
+"GO:0006284","GO:0006284",23,"GO:0006977",0.87610460525162,44,"base-excision repair","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.843810810810811,0.5548,0.51
+"GO:0061157","GO:0061157",32,"GO:0019941",0.87610460525162,163,"mRNA destabilization","modification-dependent protein catabolic process",0.706121621621622,0.2583,0.7
+"GO:0006811","GO:0006811",19,"GO:0033572",0.869606399498042,1269,"monoatomic ion transport","transferrin transport",0.937628378378378,0.317142857142857,0.572
+"GO:0044272","GO:0044272",39,"GO:0044272",0.855507677850611,161,"sulfur compound biosynthetic process","sulfur compound biosynthetic process",0.903878378378378,1,0
+"GO:0006303","GO:0006303",23,"GO:0006977",0.855507677850611,65,"double-strand break repair via nonhomologous end joining","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.838560810810811,0.5494,0.518
+"GO:0050777","GO:0050777",6,"GO:0045623",0.855507677850611,205,"negative regulation of immune response","negative regulation of T-helper cell differentiation",0.829506756756757,0.473333333333333,0.838
+"GO:0001676","GO:0001676",35,"GO:0019752",0.855507677850611,110,"long-chain fatty acid metabolic process","carboxylic acid metabolic process",0.899695945945946,0.450333333333333,0.772
+"GO:0006816","GO:0006816",19,"GO:0033572",0.855507677850611,445,"calcium ion transport","transferrin transport",0.931148648648649,0.313714285714286,0.579
+"GO:0009101","GO:0009101",11,"GO:0001574",0.855507677850611,299,"glycoprotein biosynthetic process","ganglioside biosynthetic process",0.835439189189189,0.300666666666667,0.647
+"GO:0051262","GO:0051262",9,"GO:0051260",0.850066583252539,90,"protein tetramerization","protein homooligomerization",0.948736486486486,0.30375,0.897
+"GO:0043069","GO:0043069",40,"GO:0043069",0.821219248564104,950,"negative regulation of programmed cell death","negative regulation of programmed cell death",0.879851351351351,0.507,0
+"GO:0045787","GO:0045787",2,"GO:0044843",0.821219248564104,334,"positive regulation of cell cycle","cell cycle G1/S phase transition",0.848891891891892,0.444333333333333,0.597
+"GO:0050852","GO:0050852",5,"GO:2000317",0.81675892037967,144,"T cell receptor signaling pathway","negative regulation of T-helper 17 type immune response",0.818695945945946,0.428666666666667,0.543
+"GO:0051592","GO:0051592",37,"GO:0071277",0.808282454123743,144,"response to calcium ion","cellular response to calcium ion",0.933175675675676,0.389,0.961
+"GO:0006487","GO:0006487",11,"GO:0001574",0.808282454123743,70,"protein N-linked glycosylation","ganglioside biosynthetic process",0.841155405405405,0.332166666666667,0.583
+"GO:1902075","GO:1902075",37,"GO:0071277",0.80425223890743,199,"cellular response to salt","cellular response to calcium ion",0.917006756756757,0.397666666666667,0.935
+"GO:0006869","GO:0006869",29,"GO:0015908",0.793532767271085,453,"lipid transport","fatty acid transport",0.942101351351351,0.537,0.851
+"GO:0050728","GO:0050728",22,"GO:0002861",0.793532767271085,202,"negative regulation of inflammatory response","regulation of inflammatory response to antigenic stimulus",0.836635135135135,0.452666666666667,0.775
+"GO:0097485","GO:0097485",41,"GO:0097485",0.793532767271085,233,"neuron projection guidance","neuron projection guidance",0.937716216216216,0.379,0
+"GO:0009896","GO:0009896",32,"GO:0019941",0.793532767271085,601,"positive regulation of catabolic process","modification-dependent protein catabolic process",0.810452702702703,0.2914,0.633
+"GO:0000079","GO:0000079",20,"GO:0046777",0.793532767271085,82,"regulation of cyclin-dependent protein serine/threonine kinase activity","protein autophosphorylation",0.763459459459459,0.2906,0.581
+"GO:1902850","GO:1902850",2,"GO:0044843",0.79005894250832,163,"microtubule cytoskeleton organization involved in mitosis","cell cycle G1/S phase transition",0.905743243243243,0.361666666666667,0.623
+"GO:0071902","GO:0071902",20,"GO:0046777",0.776246362392776,140,"positive regulation of protein serine/threonine kinase activity","protein autophosphorylation",0.770472972972973,0.3154,0.604
+"GO:0090263","GO:0090263",14,"GO:2000050",0.776246362392776,110,"positive regulation of canonical Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.806939189189189,0.276833333333333,0.73
+"GO:0050851","GO:0050851",5,"GO:2000317",0.773203224890237,205,"antigen receptor-mediated signaling pathway","negative regulation of T-helper 17 type immune response",0.812466216216216,0.415,0.559
+"GO:0071248","GO:0071248",42,"GO:0071248",0.771040449463513,200,"cellular response to metal ion","cellular response to metal ion",0.916304054054054,1,0
+"GO:1902115","GO:1902115",7,"GO:1905671",0.771040449463513,218,"regulation of organelle assembly","regulation of lysosome organization",0.896898648648649,0.623333333333333,0.55
+"GO:0043066","GO:0043066",40,"GO:0043069",0.771040449463513,918,"negative regulation of apoptotic process","negative regulation of programmed cell death",0.880277027027027,0.507,0.986
+"GO:0016567","GO:0016567",16,"GO:0036211",0.771040449463513,751,"protein ubiquitination","protein modification process",0.858337837837838,0.489333333333333,0.773
+"GO:0043412","GO:0043412",16,"GO:0036211",0.771040449463513,3253,"macromolecule modification","protein modification process",0.859986486486486,0.433,0.942
+"GO:1902533","GO:1902533",25,"GO:0043123",0.771040449463513,1016,"positive regulation of intracellular signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.77697972972973,0.412833333333333,0.817
+"GO:0006511","GO:0006511",32,"GO:0019941",0.771040449463513,640,"ubiquitin-dependent protein catabolic process","modification-dependent protein catabolic process",0.850810810810811,0.3551,0.992
+"GO:0010569","GO:0010569",33,"GO:2000042",0.771040449463513,73,"regulation of double-strand break repair via homologous recombination","negative regulation of double-strand break repair via homologous recombination",0.774493243243243,0.3355,0.931
+"GO:0006493","GO:0006493",11,"GO:0001574",0.771040449463513,97,"protein O-linked glycosylation","ganglioside biosynthetic process",0.835141891891892,0.298166666666667,0.6
+"GO:0045732","GO:0045732",32,"GO:0019941",0.771040449463513,210,"positive regulation of protein catabolic process","modification-dependent protein catabolic process",0.778554054054054,0.2748,0.779
+"GO:0007411","GO:0007411",41,"GO:0097485",0.768910838682318,233,"axon guidance","neuron projection guidance",0.937358108108108,0.356666666666667,0.995
+"GO:0090090","GO:0090090",14,"GO:2000050",0.766361558225561,140,"negative regulation of canonical Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.798013513513514,0.266666666666667,0.751
+"GO:0034250","GO:0034250",27,"GO:0051247",0.763879094920499,169,"positive regulation of amide metabolic process","positive regulation of protein metabolic process",0.826114864864865,0.4652,0.585
+"GO:0007264","GO:0007264",25,"GO:0043123",0.759106447782514,491,"small GTPase mediated signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.861662162162162,0.391833333333333,0.543
+"GO:0030177","GO:0030177",14,"GO:2000050",0.759106447782514,146,"positive regulation of Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.801993243243243,0.279666666666667,0.75
+"GO:0051259","GO:0051259",9,"GO:0051260",0.756811339289472,255,"protein complex oligomerization","protein homooligomerization",0.946128378378378,0.305,0.971
+"GO:0010558","GO:0010558",43,"GO:0010558",0.74342920796792,2751,"negative regulation of macromolecule biosynthetic process","negative regulation of macromolecule biosynthetic process",0.761952702702703,0.481666666666667,0
+"GO:0071900","GO:0071900",20,"GO:0046777",0.741409644683543,285,"regulation of protein serine/threonine kinase activity","protein autophosphorylation",0.785993243243243,0.2986,0.64
+"GO:0051252","GO:0051252",43,"GO:0010558",0.735645514157897,3833,"regulation of RNA metabolic process","negative regulation of macromolecule biosynthetic process",0.790243243243243,0.603666666666667,0.594
+"GO:0006631","GO:0006631",35,"GO:0019752",0.735645514157897,401,"fatty acid metabolic process","carboxylic acid metabolic process",0.888189189189189,0.412333333333333,0.886
+"GO:0000956","GO:0000956",32,"GO:0019941",0.735645514157897,128,"nuclear-transcribed mRNA catabolic process","modification-dependent protein catabolic process",0.787722972972973,0.3742,0.705
+"GO:0007052","GO:0007052",2,"GO:0044843",0.732033418876942,130,"mitotic spindle organization","cell cycle G1/S phase transition",0.907398648648649,0.371888888888889,0.61
+"GO:0030178","GO:0030178",14,"GO:2000050",0.732033418876942,173,"negative regulation of Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.794087837837838,0.273,0.767
+"GO:0010508","GO:0010508",32,"GO:0019941",0.73029236738482,150,"positive regulation of autophagy","modification-dependent protein catabolic process",0.811972972972973,0.3343,0.556
+"GO:0051056","GO:0051056",25,"GO:0043123",0.728592672762067,295,"regulation of small GTPase mediated signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.830371621621622,0.366,0.61
+"GO:0010557","GO:0010557",27,"GO:0051247",0.717344359160391,2610,"positive regulation of macromolecule biosynthetic process","positive regulation of protein metabolic process",0.768689189189189,0.42,0.742
+"GO:0098662","GO:0098662",28,"GO:0046326",0.714382164010391,845,"inorganic cation transmembrane transport","positive regulation of glucose import",0.930986486486487,0.5595,0.576
+"GO:0098655","GO:0098655",19,"GO:0033572",0.714382164010391,865,"monoatomic cation transmembrane transport","transferrin transport",0.918695945945946,0.301428571428571,0.588
+"GO:0042176","GO:0042176",32,"GO:0019941",0.708420936181156,364,"regulation of protein catabolic process","modification-dependent protein catabolic process",0.798,0.3007,0.822
+"GO:0031327","GO:0031327",43,"GO:0010558",0.701397970333999,2801,"negative regulation of cellular biosynthetic process","negative regulation of macromolecule biosynthetic process",0.76825,0.481333333333333,0.961
+"GO:0045727","GO:0045727",27,"GO:0051247",0.701397970333999,141,"positive regulation of translation","positive regulation of protein metabolic process",0.773222972972973,0.3906,0.772
+"GO:0030003","GO:0030003",38,"GO:0006879",0.700169007809437,526,"intracellular monoatomic cation homeostasis","intracellular iron ion homeostasis",0.989466216216216,0.5935,0.813
+"GO:0006486","GO:0006486",11,"GO:0001574",0.694747540559238,193,"protein glycosylation","ganglioside biosynthetic process",0.826513513513514,0.2855,0.63
+"GO:0007409","GO:0007409",41,"GO:0097485",0.693622586602523,448,"axonogenesis","neuron projection guidance",0.935547297297297,0.399,0.868
+"GO:0007265","GO:0007265",25,"GO:0043123",0.69252321694878,341,"Ras protein signal transduction","positive regulation of canonical NF-kappaB signal transduction",0.865864864864865,0.407333333333333,0.525
+"GO:0007346","GO:0007346",2,"GO:0044843",0.679477142318184,520,"regulation of mitotic cell cycle","cell cycle G1/S phase transition",0.873054054054054,0.353666666666667,0.624
+"GO:0031331","GO:0031331",32,"GO:0019941",0.648756185677962,396,"positive regulation of cellular catabolic process","modification-dependent protein catabolic process",0.796148648648649,0.2831,0.61
+"GO:0031328","GO:0031328",27,"GO:0051247",0.630894771854872,2699,"positive regulation of cellular biosynthetic process","positive regulation of protein metabolic process",0.774621621621622,0.4266,0.713
+"GO:0018105","GO:0018105",20,"GO:0046777",0.604740372823888,295,"peptidyl-serine phosphorylation","protein autophosphorylation",0.852912162162162,0.4246,0.642

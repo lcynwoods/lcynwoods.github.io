@@ -1,0 +1,7 @@
+term,fdr,Odds Ratio,Combined Score,Genes,description
+Androgen Response,0.3381362,4.875483,8.024957,NCOA4,Androgen Response
+Inflammatory Response,0.3381362,4.81,7.859874,TNFSF9,Inflammatory Response
+Epithelial Mesenchymal Transition,0.3381362,3.238417,4.190217,SGCB,Epithelial Mesenchymal Transition
+TNF-alpha Signaling via NF-kB,0.3381362,3.152256,4.007811,TNFSF9,TNF-alpha Signaling via NF-kB
+p53 Pathway,0.3381362,2.57888,2.85558,TNFSF9,p53 Pathway
+heme Metabolism,0.3381362,2.505744,2.716995,NCOA4,heme Metabolism

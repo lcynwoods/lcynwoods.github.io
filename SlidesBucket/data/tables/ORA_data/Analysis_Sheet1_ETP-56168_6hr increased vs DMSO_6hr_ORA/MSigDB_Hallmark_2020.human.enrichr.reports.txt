@@ -1,0 +1,6 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Angiogenesis	4.228277e-02	2.114138e-01	0	0	2.547368e+01	8.058283e+01	FSTL1
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	1.982192e-01	3.203834e-01	0	0	4.776671e+00	7.730479e+00	FSTL1
+MSigDB_Hallmark_2020	Xenobiotic Metabolism	2.170883e-01	3.203834e-01	0	0	4.305520e+00	6.576471e+00	AKR1C3
+MSigDB_Hallmark_2020	Oxidative Phosphorylation	3.162943e-01	3.203834e-01	0	0	2.753927e+00	3.169996e+00	MTRF1
+MSigDB_Hallmark_2020	Mitotic Spindle	3.203834e-01	3.203834e-01	0	0	2.710526e+00	3.085221e+00	MARK4

@@ -1,0 +1,25 @@
+term,fdr,Odds Ratio,Combined Score,Genes,description
+Estrogen Response Late,0.06034757,4.736996,28.35418,SERPINA3;HOMER2;RBBP8;SNX10;ASS1;SERPINA5,Estrogen Response Late
+Myogenesis,0.344261,3.645258,12.94526,COL1A1;CDKN1A;DAPK2;KCNH1,Myogenesis
+Apical Junction,0.3909893,3.046279,9.195244,COL17A1;PCDH1;AMH;SKAP2,Apical Junction
+Angiogenesis,0.8331028,3.832165,5.492094,SERPINA5,Angiogenesis
+Wnt-beta Catenin Signaling,0.8331028,3.536664,4.832838,AXIN1,Wnt-beta Catenin Signaling
+Apoptosis,0.8331028,1.572005,1.561647,CDKN1A;PPP2R5B,Apoptosis
+UV Response Dn,0.8331028,1.545267,1.503008,COL1A1;PRKCE,UV Response Dn
+p53 Pathway,0.8331028,1.301218,1.008826,CDKN1A;MDM2,p53 Pathway
+KRAS Signaling Dn,0.8331028,1.580245,1.176508,ZNF112,KRAS Signaling Dn
+Inflammatory Response,0.8331028,1.188008,0.6601261,CDKN1A,Inflammatory Response
+mTORC1 Signaling,0.8331028,1.032726,0.5610325,CDKN1A;SKAP2,mTORC1 Signaling
+Androgen Response,0.8331028,1.12888,0.5918008,HOMER2,Androgen Response
+PI3K/AKT/mTOR  Signaling,0.8331028,1.12888,0.5918008,CDKN1A,PI3K/AKT/mTOR  Signaling
+Mitotic Spindle,0.8331028,0.945547,0.4403011,DOCK4;SHROOM1,Mitotic Spindle
+KRAS Signaling Up,0.8331028,0.9927875,0.4454866,SERPINA3,KRAS Signaling Up
+TNF-alpha Signaling via NF-kB,0.8331028,0.7719785,0.2446298,CDKN1A,TNF-alpha Signaling via NF-kB
+Interferon Gamma Response,0.8331028,0.7589564,0.2343591,CDKN1A,Interferon Gamma Response
+Complement,0.8331028,0.7402173,0.219912,DOCK4,Complement
+Estrogen Response Early,0.8331028,0.6998562,0.1901596,RBBP8,Estrogen Response Early
+Hypoxia,0.8331028,0.6636196,0.1650848,CDKN1A,Hypoxia
+DNA Repair,0.8331028,0.6587431,0.1618318,POLL,DNA Repair
+heme Metabolism,0.8331028,0.6399237,0.1495531,PPP2R5B,heme Metabolism
+Epithelial Mesenchymal Transition,0.8331028,0.6264905,0.1410592,COL1A1,Epithelial Mesenchymal Transition
+E2F Targets,0.8802126,0.4708431,0.0600757,CDKN1A,E2F Targets

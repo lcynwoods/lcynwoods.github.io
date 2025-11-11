@@ -1,0 +1,98 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:2000050","GO:2000050",15,"GO:2000050",0.84449301171409,26,"regulation of non-canonical Wnt signaling pathway","regulation of non-canonical Wnt signaling pathway",0.923319587628866,1,0
+"GO:0007220","GO:0007220",12,"GO:0007220",0.84449301171409,9,"Notch receptor processing","Notch receptor processing",0.910134020618557,1,0
+"GO:0097503","GO:0097503",9,"GO:0097503",0.84449301171409,8,"sialylation","sialylation",0.935587628865979,1,0
+"GO:1905165","GO:1905165",2,"GO:1905165",0.84449301171409,11,"regulation of lysosomal protein catabolic process","regulation of lysosomal protein catabolic process",0.866659793814433,1,0
+"GO:0051241","GO:0051241",1,"GO:0051241",0.84449301171409,1247,"negative regulation of multicellular organismal process","negative regulation of multicellular organismal process",0.861773195876289,1,0
+"GO:0030857","GO:0030857",4,"GO:0030857",0.84449301171409,56,"negative regulation of epithelial cell differentiation","negative regulation of epithelial cell differentiation",0.855938144329897,0.6225,0
+"GO:1902746","GO:1902746",4,"GO:0030857",0.84449301171409,9,"regulation of lens fiber cell differentiation","negative regulation of epithelial cell differentiation",0.857814432989691,0.6225,0.755
+"GO:0040014","GO:0040014",13,"GO:0040014",0.84449301171409,63,"regulation of multicellular organism growth","regulation of multicellular organism growth",0.885587628865979,0.596,0
+"GO:0033574","GO:0033574",3,"GO:0033574",0.84449301171409,45,"response to testosterone","response to testosterone",0.952958762886598,0.581,0
+"GO:0071635","GO:0071635",8,"GO:0071635",0.84449301171409,12,"negative regulation of transforming growth factor beta production","negative regulation of transforming growth factor beta production",0.828474226804124,0.5645,0
+"GO:0032908","GO:0032908",8,"GO:0071635",0.84449301171409,14,"regulation of transforming growth factor beta1 production","negative regulation of transforming growth factor beta production",0.839298969072165,0.5645,0.871
+"GO:0006054","GO:0006054",16,"GO:0006054",0.84449301171409,12,"N-acetylneuraminate metabolic process","N-acetylneuraminate metabolic process",0.870876288659794,0.5485,0
+"GO:0006040","GO:0006040",16,"GO:0006054",0.84449301171409,42,"amino sugar metabolic process","N-acetylneuraminate metabolic process",0.896731958762887,0.5485,0.903
+"GO:0001574","GO:0001574",7,"GO:0001574",0.84449301171409,17,"ganglioside biosynthetic process","ganglioside biosynthetic process",0.865134020618557,0.518142857142857,0
+"GO:0042987","GO:0042987",17,"GO:0042987",0.84449301171409,68,"amyloid precursor protein catabolic process","amyloid precursor protein catabolic process",0.874865979381443,0.5105,0
+"GO:0050435","GO:0050435",11,"GO:0050435",0.84449301171409,65,"amyloid-beta metabolic process","amyloid-beta metabolic process",0.899474226804124,0.506,0
+"GO:0034205","GO:0034205",11,"GO:0050435",0.84449301171409,56,"amyloid-beta formation","amyloid-beta metabolic process",0.867185567010309,0.506,0.988
+"GO:1905671","GO:1905671",6,"GO:1905671",0.84449301171409,12,"regulation of lysosome organization","regulation of lysosome organization",0.940886597938144,0.451333333333333,0
+"GO:0071391","GO:0071391",18,"GO:0071391",0.84449301171409,19,"cellular response to estrogen stimulus","cellular response to estrogen stimulus",0.93240206185567,0.4232,0
+"GO:0042339","GO:0042339",14,"GO:0042339",0.84449301171409,18,"keratan sulfate metabolic process","keratan sulfate metabolic process",0.866927835051546,0.391333333333333,0
+"GO:0009313","GO:0009313",10,"GO:0009313",0.84449301171409,18,"oligosaccharide catabolic process","oligosaccharide catabolic process",0.902752577319588,0.382857142857143,0
+"GO:0018146","GO:0018146",14,"GO:0042339",0.84449301171409,16,"keratan sulfate biosynthetic process","keratan sulfate metabolic process",0.857690721649485,0.373,0.99
+"GO:0010561","GO:0010561",7,"GO:0001574",0.84449301171409,25,"negative regulation of glycoprotein biosynthetic process","ganglioside biosynthetic process",0.808505154639175,0.347714285714286,0.533
+"GO:0042984","GO:0042984",7,"GO:0001574",0.84449301171409,27,"regulation of amyloid precursor protein biosynthetic process","ganglioside biosynthetic process",0.803443298969072,0.347285714285714,0.534
+"GO:0042985","GO:0042985",7,"GO:0001574",0.84449301171409,20,"negative regulation of amyloid precursor protein biosynthetic process","ganglioside biosynthetic process",0.79379381443299,0.344285714285714,0.524
+"GO:0010962","GO:0010962",10,"GO:0009313",0.84449301171409,31,"regulation of glucan biosynthetic process","oligosaccharide catabolic process",0.854360824742268,0.330428571428571,0.59
+"GO:0070873","GO:0070873",10,"GO:0009313",0.84449301171409,38,"regulation of glycogen metabolic process","oligosaccharide catabolic process",0.859329896907217,0.326142857142857,0.599
+"GO:0042104","GO:0042104",5,"GO:0042104",0.84449301171409,27,"positive regulation of activated T cell proliferation","positive regulation of activated T cell proliferation",0.867907216494845,0.272142857142857,0
+"GO:0050670","GO:0050670",5,"GO:0042104",0.84449301171409,238,"regulation of lymphocyte proliferation","positive regulation of activated T cell proliferation",0.85879381443299,0.252142857142857,0.829
+"GO:0031293","GO:0031293",19,"GO:0031293",0.82829372615516,12,"membrane protein intracellular domain proteolysis","membrane protein intracellular domain proteolysis",0.899030927835052,0.5525,0
+"GO:0042982","GO:0042982",17,"GO:0042987",0.82829372615516,96,"amyloid precursor protein metabolic process","amyloid precursor protein catabolic process",0.873092783505155,0.5105,0.979
+"GO:0006873","GO:0006873",20,"GO:0006873",0.827612226266779,535,"intracellular monoatomic ion homeostasis","intracellular monoatomic ion homeostasis",0.989969072164948,0.5135,0
+"GO:0097212","GO:0097212",6,"GO:1905671",0.827612226266779,14,"lysosomal membrane organization","regulation of lysosome organization",0.970969072164948,0.512666666666667,0.747
+"GO:0030520","GO:0030520",18,"GO:0071391",0.827612226266779,54,"intracellular estrogen receptor signaling pathway","cellular response to estrogen stimulus",0.898453608247423,0.4132,0.605
+"GO:0007219","GO:0007219",30,"GO:0007219",0.805260105571454,181,"Notch signaling pathway","Notch signaling pathway",0.917577319587629,1,0
+"GO:0019752","GO:0019752",29,"GO:0019752",0.805260105571454,949,"carboxylic acid metabolic process","carboxylic acid metabolic process",0.916938144329897,1,0
+"GO:0060173","GO:0060173",25,"GO:0060173",0.805260105571454,182,"limb development","limb development",0.925164948453608,1,0
+"GO:0032801","GO:0032801",21,"GO:0032801",0.805260105571454,28,"receptor catabolic process","receptor catabolic process",0.92219587628866,1,0
+"GO:0048640","GO:0048640",13,"GO:0040014",0.805260105571454,115,"negative regulation of developmental growth","regulation of multicellular organism growth",0.895010309278351,0.596,0.808
+"GO:0010719","GO:0010719",26,"GO:0010719",0.805260105571454,43,"negative regulation of epithelial to mesenchymal transition","negative regulation of epithelial to mesenchymal transition",0.848381443298969,0.5345,0
+"GO:0044088","GO:0044088",6,"GO:1905671",0.805260105571454,57,"regulation of vacuole organization","regulation of lysosome organization",0.936350515463918,0.462,0.899
+"GO:0060395","GO:0060395",27,"GO:0060395",0.805260105571454,84,"SMAD protein signal transduction","SMAD protein signal transduction",0.908670103092784,0.439,0
+"GO:0043627","GO:0043627",18,"GO:0071391",0.805260105571454,69,"response to estrogen","cellular response to estrogen stimulus",0.94020618556701,0.4192,0.918
+"GO:0048706","GO:0048706",23,"GO:0048706",0.805260105571454,128,"embryonic skeletal system development","embryonic skeletal system development",0.910175257731959,0.3965,0
+"GO:0009311","GO:0009311",10,"GO:0009313",0.805260105571454,70,"oligosaccharide metabolic process","oligosaccharide catabolic process",0.904948453608247,0.393714285714286,0.915
+"GO:0010952","GO:0010952",24,"GO:0010952",0.805260105571454,170,"positive regulation of peptidase activity","positive regulation of peptidase activity",0.831371134020619,0.38525,0
+"GO:0010950","GO:0010950",24,"GO:0010952",0.805260105571454,156,"positive regulation of endopeptidase activity","positive regulation of peptidase activity",0.832113402061856,0.3835,0.992
+"GO:0008406","GO:0008406",22,"GO:0008406",0.805260105571454,233,"gonad development","gonad development",0.89840206185567,0.366,0
+"GO:0046546","GO:0046546",22,"GO:0008406",0.805260105571454,151,"development of primary male sexual characteristics","gonad development",0.913185567010309,0.350666666666667,0.95
+"GO:0008584","GO:0008584",22,"GO:0008406",0.805260105571454,150,"male gonad development","gonad development",0.901536082474227,0.35,0.952
+"GO:0043010","GO:0043010",28,"GO:0043010",0.805260105571454,344,"camera-type eye development","camera-type eye development",0.887969072164948,0.346333333333333,0
+"GO:0150063","GO:0150063",28,"GO:0043010",0.805260105571454,395,"visual system development","camera-type eye development",0.900515463917526,0.341333333333333,0.98
+"GO:0005979","GO:0005979",10,"GO:0009313",0.805260105571454,31,"regulation of glycogen biosynthetic process","oligosaccharide catabolic process",0.854134020618557,0.327285714285714,0.59
+"GO:0043470","GO:0043470",10,"GO:0009313",0.805260105571454,63,"regulation of carbohydrate catabolic process","oligosaccharide catabolic process",0.859721649484536,0.313285714285714,0.782
+"GO:0048704","GO:0048704",23,"GO:0048706",0.805260105571454,94,"embryonic skeletal system morphogenesis","embryonic skeletal system development",0.90001030927835,0.301,0.978
+"GO:0046006","GO:0046006",5,"GO:0042104",0.805260105571454,44,"regulation of activated T cell proliferation","positive regulation of activated T cell proliferation",0.872092783505155,0.275142857142857,0.971
+"GO:0050863","GO:0050863",5,"GO:0042104",0.805260105571454,381,"regulation of T cell activation","positive regulation of activated T cell proliferation",0.855577319587629,0.271285714285714,0.772
+"GO:0009952","GO:0009952",31,"GO:0009952",0.802452605098058,219,"anterior/posterior pattern specification","anterior/posterior pattern specification",0.925072164948454,1,0
+"GO:1901655","GO:1901655",3,"GO:0033574",0.802452605098058,103,"cellular response to ketone","response to testosterone",0.942123711340206,0.581,0.838
+"GO:0032509","GO:0032509",32,"GO:0032509",0.802452605098058,41,"endosome transport via multivesicular body sorting pathway","endosome transport via multivesicular body sorting pathway",0.968505154639175,0.512,0
+"GO:0048562","GO:0048562",23,"GO:0048706",0.802452605098058,295,"embryonic organ morphogenesis","embryonic skeletal system development",0.898587628865979,0.4425,0.656
+"GO:0048705","GO:0048705",23,"GO:0048706",0.802452605098058,230,"skeletal system morphogenesis","embryonic skeletal system development",0.898680412371134,0.4045,0.78
+"GO:0042102","GO:0042102",5,"GO:0042104",0.802452605098058,105,"positive regulation of T cell proliferation","positive regulation of activated T cell proliferation",0.856731958762887,0.237,0.902
+"GO:0042129","GO:0042129",5,"GO:0042104",0.802452605098058,182,"regulation of T cell proliferation","positive regulation of activated T cell proliferation",0.859515463917526,0.231285714285714,0.856
+"GO:0071985","GO:0071985",32,"GO:0032509",0.797525305941583,47,"multivesicular body sorting pathway","endosome transport via multivesicular body sorting pathway",0.973742268041237,0.512,0.976
+"GO:0006622","GO:0006622",33,"GO:0006622",0.797525305941583,33,"protein targeting to lysosome","protein targeting to lysosome",0.964762886597938,0.350666666666667,0
+"GO:0033619","GO:0033619",19,"GO:0031293",0.786727482756352,59,"membrane protein proteolysis","membrane protein intracellular domain proteolysis",0.888463917525773,0.5525,0.895
+"GO:0016266","GO:0016266",7,"GO:0001574",0.751689734130049,43,"O-glycan processing","ganglioside biosynthetic process",0.850556701030928,0.410857142857143,0.552
+"GO:0016052","GO:0016052",10,"GO:0009313",0.751689734130049,163,"carbohydrate catabolic process","oligosaccharide catabolic process",0.891628865979381,0.350285714285714,0.844
+"GO:0007423","GO:0007423",34,"GO:0007423",0.749104242343024,588,"sensory organ development","sensory organ development",0.915587628865979,1,0
+"GO:0030518","GO:0030518",18,"GO:0071391",0.749104242343024,122,"intracellular steroid hormone receptor signaling pathway","cellular response to estrogen stimulus",0.892298969072165,0.3858,0.641
+"GO:0061462","GO:0061462",33,"GO:0006622",0.738810432023435,60,"protein localization to lysosome","protein targeting to lysosome",0.966278350515464,0.367333333333333,0.968
+"GO:0006623","GO:0006623",33,"GO:0006622",0.738810432023435,48,"protein targeting to vacuole","protein targeting to lysosome",0.964773195876289,0.363333333333333,0.98
+"GO:0001654","GO:0001654",28,"GO:0043010",0.738810432023435,391,"eye development","camera-type eye development",0.886731958762887,0.341,0.981
+"GO:0042789","GO:0042789",35,"GO:0042789",0.731288437593974,46,"mRNA transcription by RNA polymerase II","mRNA transcription by RNA polymerase II",0.909226804123711,0.5025,0
+"GO:0006024","GO:0006024",14,"GO:0042339",0.724117181334774,72,"glycosaminoglycan biosynthetic process","keratan sulfate metabolic process",0.851845360824742,0.424333333333333,0.836
+"GO:0008277","GO:0008277",36,"GO:0008277",0.72273629607101,139,"regulation of G protein-coupled receptor signaling pathway","regulation of G protein-coupled receptor signaling pathway",0.920237113402062,1,0
+"GO:0045582","GO:0045582",5,"GO:0042104",0.72273629607101,116,"positive regulation of T cell differentiation","positive regulation of activated T cell proliferation",0.831587628865979,0.316428571428571,0.765
+"GO:0009299","GO:0009299",35,"GO:0042789",0.704484578658081,50,"mRNA transcription","mRNA transcription by RNA polymerase II",0.908783505154639,0.5025,0.995
+"GO:0044272","GO:0044272",37,"GO:0044272",0.686938447022347,161,"sulfur compound biosynthetic process","sulfur compound biosynthetic process",0.911350515463918,1,0
+"GO:0032007","GO:0032007",38,"GO:0032007",0.686938447022347,74,"negative regulation of TOR signaling","negative regulation of TOR signaling",0.903412371134021,0.724,0
+"GO:0055080","GO:0055080",20,"GO:0006873",0.686938447022347,601,"monoatomic cation homeostasis","intracellular monoatomic ion homeostasis",0.989969072164948,0.5135,0.973
+"GO:0052548","GO:0052548",24,"GO:0010952",0.686938447022347,288,"regulation of endopeptidase activity","positive regulation of peptidase activity",0.83479381443299,0.3905,0.94
+"GO:0032870","GO:0032870",18,"GO:0071391",0.686938447022347,610,"cellular response to hormone stimulus","cellular response to estrogen stimulus",0.918113402061856,0.3818,0.72
+"GO:0009101","GO:0009101",7,"GO:0001574",0.686938447022347,299,"glycoprotein biosynthetic process","ganglioside biosynthetic process",0.829618556701031,0.335142857142857,0.647
+"GO:0051897","GO:0051897",38,"GO:0032007",0.6537630485359,171,"positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction","negative regulation of TOR signaling",0.906422680412371,0.724,0.552
+"GO:0031032","GO:0031032",40,"GO:0031032",0.650447020943317,208,"actomyosin structure organization","actomyosin structure organization",0.976257731958763,1,0
+"GO:0007032","GO:0007032",39,"GO:0007032",0.650447020943317,96,"endosome organization","endosome organization",0.977247422680412,1,0
+"GO:0007179","GO:0007179",27,"GO:0060395",0.650447020943317,229,"transforming growth factor beta receptor signaling pathway","SMAD protein signal transduction",0.887278350515464,0.37675,0.784
+"GO:0032088","GO:0032088",24,"GO:0010952",0.648314212699771,87,"negative regulation of NF-kappaB transcription factor activity","positive regulation of peptidase activity",0.870773195876289,0.60025,0.527
+"GO:0010717","GO:0010717",26,"GO:0010719",0.648314212699771,111,"regulation of epithelial to mesenchymal transition","negative regulation of epithelial to mesenchymal transition",0.881525773195876,0.5345,0.931
+"GO:0018107","GO:0018107",41,"GO:0018107",0.648314212699771,100,"peptidyl-threonine phosphorylation","peptidyl-threonine phosphorylation",0.883494845360825,0.503,0
+"GO:0090100","GO:0090100",27,"GO:0060395",0.648314212699771,104,"positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway","SMAD protein signal transduction",0.896938144329897,0.41675,0.729
+"GO:0006487","GO:0006487",7,"GO:0001574",0.648314212699771,70,"protein N-linked glycosylation","ganglioside biosynthetic process",0.84180412371134,0.381714285714286,0.583
+"GO:0030512","GO:0030512",27,"GO:0060395",0.62921609280293,111,"negative regulation of transforming growth factor beta receptor signaling pathway","SMAD protein signal transduction",0.872958762886598,0.3805,0.731
+"GO:0042981","GO:0042981",42,"GO:0042981",0.615829088827039,1523,"regulation of apoptotic process","regulation of apoptotic process",0.947422680412371,1,0
+"GO:0018210","GO:0018210",41,"GO:0018107",0.615829088827039,110,"peptidyl-threonine modification","peptidyl-threonine phosphorylation",0.888773195876289,0.503,0.994

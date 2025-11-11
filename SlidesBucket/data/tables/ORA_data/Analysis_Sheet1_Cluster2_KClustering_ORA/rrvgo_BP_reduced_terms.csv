@@ -1,0 +1,5 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:1905671","GO:1905671",1,"GO:1905671",0.625707994488067,12,"regulation of lysosome organization","regulation of lysosome organization",0.9445,1,0
+"GO:0005979","GO:0005979",2,"GO:0005979",0.625707994488067,31,"regulation of glycogen biosynthetic process","regulation of glycogen biosynthetic process",0.52375,0.391,0
+"GO:0070874","GO:0070874",2,"GO:0005979",0.625707994488067,10,"negative regulation of glycogen metabolic process","regulation of glycogen biosynthetic process",0.508,0.368,0.901
+"GO:0045719","GO:0045719",2,"GO:0005979",0.625707994488067,9,"negative regulation of glycogen biosynthetic process","regulation of glycogen biosynthetic process",0.50175,0.359666666666667,0.926

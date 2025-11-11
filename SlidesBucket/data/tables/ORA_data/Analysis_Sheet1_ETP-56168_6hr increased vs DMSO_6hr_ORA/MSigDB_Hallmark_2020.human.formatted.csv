@@ -1,0 +1,6 @@
+term,fdr,Odds Ratio,Combined Score,Genes,description
+Angiogenesis,0.2114138,25.47368,80.58283,FSTL1,Angiogenesis
+Epithelial Mesenchymal Transition,0.3203834,4.776671,7.730479,FSTL1,Epithelial Mesenchymal Transition
+Xenobiotic Metabolism,0.3203834,4.30552,6.576471,AKR1C3,Xenobiotic Metabolism
+Oxidative Phosphorylation,0.3203834,2.753927,3.169996,MTRF1,Oxidative Phosphorylation
+Mitotic Spindle,0.3203834,2.710526,3.085221,MARK4,Mitotic Spindle

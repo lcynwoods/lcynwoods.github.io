@@ -1,0 +1,22 @@
+term,fdr,Odds Ratio,Combined Score,Genes,description
+Hedgehog Signaling,0.1878231,10.93902,44.47022,NRCAM;UNC5C,Hedgehog Signaling
+Apoptosis,0.1878231,4.249565,17.09868,SATB1;PLPPR4;PDCD4;TXNIP,Apoptosis
+Hypoxia,0.7731207,2.675995,5.895832,TGFB3;SDC3;KIF5A,Hypoxia
+KRAS Signaling Up,0.8013824,2.626106,4.438275,SATB1;DOCK2,KRAS Signaling Up
+Notch Signaling,0.8013824,4.952309,8.203508,MAML2,Notch Signaling
+Apical Junction,0.8109433,1.905171,2.357678,NLGN2;SDC3,Apical Junction
+Spermatogenesis,0.8109433,1.973695,1.788803,CDKN3,Spermatogenesis
+Interferon Alpha Response,0.8109433,1.642738,1.268859,TXNIP,Interferon Alpha Response
+Coagulation,0.8109433,1.515446,1.084986,MSRB2,Coagulation
+UV Response Dn,0.8109433,0.9808233,0.4333161,CDON,UV Response Dn
+Interferon Gamma Response,0.8109433,0.9808233,0.4333161,TXNIP,Interferon Gamma Response
+Estrogen Response Late,0.8109433,0.9335437,0.3868075,PDCD4,Estrogen Response Late
+p53 Pathway,0.8109433,0.8269981,0.2899496,TXNIP,p53 Pathway
+heme Metabolism,0.8109433,0.8269981,0.2899496,ADIPOR1,heme Metabolism
+Epithelial Mesenchymal Transition,0.8109433,0.8096386,0.2752666,SLIT3,Epithelial Mesenchymal Transition
+Glycolysis,0.8109433,0.7468345,0.2248681,SDC3,Glycolysis
+Adipogenesis,0.8109433,0.7234122,0.2072005,PDCD4,Adipogenesis
+mTORC1 Signaling,0.8109433,0.6573034,0.1608046,DHFR,mTORC1 Signaling
+G2-M Checkpoint,0.8109433,0.6216996,0.1380273,CDKN3,G2-M Checkpoint
+E2F Targets,0.8109433,0.6084965,0.1299885,CDKN3,E2F Targets
+Mitotic Spindle,0.8109433,0.6020991,0.1261741,DOCK2,Mitotic Spindle

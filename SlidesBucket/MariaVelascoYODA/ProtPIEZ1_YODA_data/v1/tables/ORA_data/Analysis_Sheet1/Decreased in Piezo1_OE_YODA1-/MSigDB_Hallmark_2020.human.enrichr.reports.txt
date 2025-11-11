@@ -1,0 +1,11 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Apical Junction	3.699337e-02	3.269663e-01	0	0	7.144727e+00	2.355629e+01	COL17A1;PCDH1
+MSigDB_Hallmark_2020	Interferon Alpha Response	1.618216e-01	3.269663e-01	0	0	5.964372e+00	1.086268e+01	TXNIP
+MSigDB_Hallmark_2020	KRAS Signaling Up	2.015754e-01	3.269663e-01	0	0	4.658318e+00	7.460724e+00	SERPINA3
+MSigDB_Hallmark_2020	Apoptosis	2.505604e-01	3.269663e-01	0	0	3.622329e+00	5.013503e+00	TXNIP
+MSigDB_Hallmark_2020	Interferon Gamma Response	2.542068e-01	3.269663e-01	0	0	3.561232e+00	4.877489e+00	TXNIP
+MSigDB_Hallmark_2020	UV Response Dn	2.542068e-01	3.269663e-01	0	0	3.561232e+00	4.877489e+00	SNAI2
+MSigDB_Hallmark_2020	Estrogen Response Late	2.650441e-01	3.269663e-01	0	0	3.389579e+00	4.500884e+00	SERPINA3
+MSigDB_Hallmark_2020	p53 Pathway	2.932107e-01	3.269663e-01	0	0	3.002756e+00	3.683972e+00	TXNIP
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	2.983755e-01	3.269663e-01	0	0	2.939730e+00	3.555317e+00	SNAI2
+MSigDB_Hallmark_2020	Adipogenesis	3.269663e-01	3.269663e-01	0	0	2.626677e+00	2.936358e+00	FABP4

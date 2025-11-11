@@ -1,0 +1,8 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Mitotic Spindle	4.266743e-02	2.444974e-01	0	0	6.744732e+00	2.127504e+01	DOCK4;SHROOM1
+MSigDB_Hallmark_2020	Inflammatory Response	1.250503e-01	2.444974e-01	0	0	8.018669e+00	1.667113e+01	NDP
+MSigDB_Hallmark_2020	Complement	1.917365e-01	2.444974e-01	0	0	4.996443e+00	8.252293e+00	DOCK4
+MSigDB_Hallmark_2020	Hypoxia	2.110630e-01	2.444974e-01	0	0	4.479471e+00	6.968258e+00	ALDOB
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	2.219106e-01	2.444974e-01	0	0	4.228879e+00	6.366496e+00	SLIT3
+MSigDB_Hallmark_2020	Glycolysis	2.379191e-01	2.444974e-01	0	0	3.900876e+00	5.600973e+00	ALDOB
+MSigDB_Hallmark_2020	Adipogenesis	2.444974e-01	2.444974e-01	0	0	3.778549e+00	5.322278e+00	ANGPT1

@@ -1,0 +1,3 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Apical Junction	2.207883e-01	2.310227e-01	0	0	4.231481e+00	6.391869e+00	MAP4K2
+MSigDB_Hallmark_2020	DNA Repair	2.310227e-01	2.310227e-01	0	0	4.015588e+00	5.883797e+00	AGO4

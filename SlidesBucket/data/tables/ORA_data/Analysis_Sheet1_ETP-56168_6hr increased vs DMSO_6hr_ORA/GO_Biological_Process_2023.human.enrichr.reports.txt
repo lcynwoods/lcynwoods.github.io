@@ -1,0 +1,187 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Filopodium Assembly (GO:0046847)	1.985863e-04	3.484635e-02	0	0	1.256296e+02	1.070903e+03	DNM3;S1PR2
+GO_Biological_Process_2023	Regulation Of Cytoplasmic Translation (GO:2000765)	6.116478e-04	3.484635e-02	0	0	6.645752e+01	4.917427e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Cellular Response To Acid Chemical (GO:0071229)	6.788108e-04	3.484635e-02	0	0	6.275926e+01	4.578393e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Response To Amino Acid (GO:0043200)	7.493839e-04	3.484635e-02	0	0	5.945029e+01	4.278197e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Cellular Response To Amino Acid Stimulus (GO:0071230)	1.152971e-03	3.855615e-02	0	0	4.704167e+01	3.182563e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Keratinocyte Differentiation (GO:0030216)	1.243747e-03	3.855615e-02	0	0	4.515556e+01	3.020738e+02	AKR1C3;TGM3
+GO_Biological_Process_2023	Positive Regulation Of Cellular Metabolic Process (GO:0031325)	1.747259e-03	4.319392e-02	0	0	3.761111e+01	2.388195e+02	LIPT2;AKR1C3
+GO_Biological_Process_2023	Epidermal Cell Differentiation (GO:0009913)	1.857803e-03	4.319392e-02	0	0	3.639427e+01	2.288603e+02	AKR1C3;TGM3
+GO_Biological_Process_2023	Skin Development (GO:0043588)	2.588963e-03	5.350525e-02	0	0	3.047447e+01	1.815211e+02	AKR1C3;TGM3
+GO_Biological_Process_2023	Cellular Response To Decreased Oxygen Levels (GO:0036294)	3.741606e-03	6.420780e-02	0	0	2.503704e+01	1.399130e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Ionotropic Glutamate Receptor Signaling Pathway (GO:0035235)	3.915940e-03	6.420780e-02	0	0	5.360000e+02	2.970887e+03	CPEB4
+GO_Biological_Process_2023	Cellular Response To Organonitrogen Compound (GO:0071417)	5.648139e-03	6.420780e-02	0	0	2.009722e+01	1.040318e+02	CPEB1;CPEB4
+GO_Biological_Process_2023	Response To Corticosteroid (GO:0031960)	5.868455e-03	6.420780e-02	0	0	2.679737e+02	1.376893e+03	AKR1C3
+GO_Biological_Process_2023	Positive Regulation Of Endothelial Cell Development (GO:1901552)	5.868455e-03	6.420780e-02	0	0	2.679737e+02	1.376893e+03	S1PR2
+GO_Biological_Process_2023	Cellular Response To Prostaglandin Stimulus (GO:0071379)	5.868455e-03	6.420780e-02	0	0	2.679737e+02	1.376893e+03	AKR1C3
+GO_Biological_Process_2023	Positive Regulation Of Establishment Of Endothelial Barrier (GO:1903142)	5.868455e-03	6.420780e-02	0	0	2.679737e+02	1.376893e+03	S1PR2
+GO_Biological_Process_2023	Primary Alcohol Catabolic Process (GO:0034310)	5.868455e-03	6.420780e-02	0	0	2.679737e+02	1.376893e+03	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Oxygen-Containing Compound (GO:1901701)	6.429116e-03	6.609202e-02	0	0	9.040724e+00	4.562779e+01	CPEB1;AKR1C3;CPEB4
+GO_Biological_Process_2023	Positive Regulation Of Plasma Membrane Bounded Cell Projection Assembly (GO:0120034)	6.840228e-03	6.609202e-02	0	0	1.814158e+01	9.043457e+01	AKIRIN1;MARK4
+GO_Biological_Process_2023	Sphingosine-1-Phosphate Receptor Signaling Pathway (GO:0003376)	7.817336e-03	6.609202e-02	0	0	1.786316e+02	8.666153e+02	S1PR2
+GO_Biological_Process_2023	Cellular Response To Fatty Acid (GO:0071398)	7.817336e-03	6.609202e-02	0	0	1.786316e+02	8.666153e+02	AKR1C3
+GO_Biological_Process_2023	Regulation Of Nuclease Activity (GO:0032069)	7.817336e-03	6.609202e-02	0	0	1.786316e+02	8.666153e+02	NEIL1
+GO_Biological_Process_2023	Regulation Of Cellular Response To Growth Factor Stimulus (GO:0090287)	9.762589e-03	6.984006e-02	0	0	1.339605e+02	6.201298e+02	FSTL1
+GO_Biological_Process_2023	Endothelial Cell Differentiation (GO:0045446)	9.762589e-03	6.984006e-02	0	0	1.339605e+02	6.201298e+02	FSTL1
+GO_Biological_Process_2023	Negative Regulation Of Cytoplasmic Translation (GO:2000766)	9.762589e-03	6.984006e-02	0	0	1.339605e+02	6.201298e+02	CPEB4
+GO_Biological_Process_2023	Nucleotide Transport (GO:0006862)	9.762589e-03	6.984006e-02	0	0	1.339605e+02	6.201298e+02	EPG5
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization To Centrosome (GO:1904781)	1.170422e-02	7.091316e-02	0	0	1.071579e+02	4.766175e+02	MARK4
+GO_Biological_Process_2023	Regulation Of Receptor Signaling Pathway Via STAT (GO:1904892)	1.170422e-02	7.091316e-02	0	0	1.071579e+02	4.766175e+02	MGAT5
+GO_Biological_Process_2023	Regulation Of Translational Termination (GO:0006449)	1.170422e-02	7.091316e-02	0	0	1.071579e+02	4.766175e+02	MTRF1
+GO_Biological_Process_2023	Endothelium Development (GO:0003158)	1.170422e-02	7.091316e-02	0	0	1.071579e+02	4.766175e+02	FSTL1
+GO_Biological_Process_2023	Negative Regulation Of Translation (GO:0017148)	1.181886e-02	7.091316e-02	0	0	1.352343e+01	6.001776e+01	CPEB1;CPEB4
+GO_Biological_Process_2023	Plasma Membrane Bounded Cell Projection Organization (GO:0120036)	1.235605e-02	7.181952e-02	0	0	1.320261e+01	5.800714e+01	UNC5A;MARK4
+GO_Biological_Process_2023	Prostanoid Metabolic Process (GO:0006692)	1.364223e-02	7.463104e-02	0	0	8.928947e+01	3.834612e+02	AKR1C3
+GO_Biological_Process_2023	Depyrimidination (GO:0045008)	1.364223e-02	7.463104e-02	0	0	8.928947e+01	3.834612e+02	NEIL1
+GO_Biological_Process_2023	Positive Regulation Of mRNA 3'-End Processing (GO:0031442)	1.557664e-02	7.830418e-02	0	0	7.652632e+01	3.185012e+02	CPEB1
+GO_Biological_Process_2023	Translational Termination (GO:0006415)	1.557664e-02	7.830418e-02	0	0	7.652632e+01	3.185012e+02	MTRF1
+GO_Biological_Process_2023	Glutamate Receptor Signaling Pathway (GO:0007215)	1.557664e-02	7.830418e-02	0	0	7.652632e+01	3.185012e+02	CPEB4
+GO_Biological_Process_2023	Regulation Of Protein Localization To Centrosome (GO:1904779)	1.750744e-02	8.349702e-02	0	0	6.695395e+01	2.708374e+02	MARK4
+GO_Biological_Process_2023	Cellular Response To Oxygen Levels (GO:0071453)	1.750744e-02	8.349702e-02	0	0	6.695395e+01	2.708374e+02	CPEB4
+GO_Biological_Process_2023	Regulation Of Mononuclear Cell Migration (GO:0071675)	1.943464e-02	8.406613e-02	0	0	5.950877e+01	2.345061e+02	AKIRIN1
+GO_Biological_Process_2023	Retinal Metabolic Process (GO:0042574)	1.943464e-02	8.406613e-02	0	0	5.950877e+01	2.345061e+02	AKR1C3
+GO_Biological_Process_2023	Pyrimidine Deoxyribonucleotide Catabolic Process (GO:0009223)	1.943464e-02	8.406613e-02	0	0	5.950877e+01	2.345061e+02	NEIL1
+GO_Biological_Process_2023	Endolysosomal Toll-Like Receptor Signaling Pathway (GO:0140894)	1.943464e-02	8.406613e-02	0	0	5.950877e+01	2.345061e+02	EPG5
+GO_Biological_Process_2023	Regulation Of Establishment Of Endothelial Barrier (GO:1903140)	2.135825e-02	8.636164e-02	0	0	5.355263e+01	2.059804e+02	S1PR2
+GO_Biological_Process_2023	Base-Excision Repair, AP Site Formation (GO:0006285)	2.135825e-02	8.636164e-02	0	0	5.355263e+01	2.059804e+02	NEIL1
+GO_Biological_Process_2023	Positive Regulation Of NLRP3 Inflammasome Complex Assembly (GO:1900227)	2.135825e-02	8.636164e-02	0	0	5.355263e+01	2.059804e+02	MARK4
+GO_Biological_Process_2023	Base-Excision Repair, Gap-Filling (GO:0006287)	2.327828e-02	9.147706e-02	0	0	4.867943e+01	1.830461e+02	NEIL1
+GO_Biological_Process_2023	Positive Regulation Of Cellular Process (GO:0048522)	2.480588e-02	9.147706e-02	0	0	5.370915e+00	1.985453e+01	AKR1C3;S1PR2;MARK4
+GO_Biological_Process_2023	Peptide Cross-Linking (GO:0018149)	2.519473e-02	9.147706e-02	0	0	4.461842e+01	1.642458e+02	TGM3
+GO_Biological_Process_2023	Diterpenoid Metabolic Process (GO:0016101)	2.519473e-02	9.147706e-02	0	0	4.461842e+01	1.642458e+02	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Steroid Hormone Stimulus (GO:0071383)	2.710761e-02	9.147706e-02	0	0	4.118219e+01	1.485829e+02	AKR1C3
+GO_Biological_Process_2023	Prostaglandin Metabolic Process (GO:0006693)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	AKR1C3
+GO_Biological_Process_2023	Male Gonad Development (GO:0008584)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	AKR1C3
+GO_Biological_Process_2023	Regulation Of Protein-Containing Complex Disassembly (GO:0043244)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	MTRF1
+GO_Biological_Process_2023	Negative Regulation Of Lipid Biosynthetic Process (GO:0051055)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	AKR1C3
+GO_Biological_Process_2023	Development Of Primary Male Sexual Characteristics (GO:0046546)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Nitrogen Compound (GO:1901699)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	EPG5
+GO_Biological_Process_2023	Negative Regulation Of Phosphoprotein Phosphatase Activity (GO:0032515)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	MGAT5
+GO_Biological_Process_2023	Positive Regulation Of Peptidyl-Threonine Phosphorylation (GO:0010800)	2.901692e-02	9.147706e-02	0	0	3.823684e+01	1.353537e+02	S1PR2
+GO_Biological_Process_2023	Oxoacid Metabolic Process (GO:0043436)	3.092267e-02	9.276800e-02	0	0	3.568421e+01	1.240478e+02	LIPT2
+GO_Biological_Process_2023	Positive Regulation Of Receptor Signaling Pathway Via STAT (GO:1904894)	3.092267e-02	9.276800e-02	0	0	3.568421e+01	1.240478e+02	MGAT5
+GO_Biological_Process_2023	Regulation Of Transmembrane Receptor Protein Serine/Threonine Kinase Signaling Pathway (GO:0090092)	3.092267e-02	9.276800e-02	0	0	3.568421e+01	1.240478e+02	FSTL1
+GO_Biological_Process_2023	DNA Modification (GO:0006304)	3.282486e-02	9.550529e-02	0	0	3.345066e+01	1.142865e+02	NEIL1
+GO_Biological_Process_2023	Regulation Of NLRP3 Inflammasome Complex Assembly (GO:1900225)	3.472351e-02	9.550529e-02	0	0	3.147988e+01	1.057830e+02	MARK4
+GO_Biological_Process_2023	Positive Regulation Of Lamellipodium Assembly (GO:0010592)	3.472351e-02	9.550529e-02	0	0	3.147988e+01	1.057830e+02	AKIRIN1
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Chemotaxis (GO:0002690)	3.661862e-02	9.550529e-02	0	0	2.972807e+01	9.831662e+01	AKIRIN1
+GO_Biological_Process_2023	Gonad Development (GO:0008406)	3.661862e-02	9.550529e-02	0	0	2.972807e+01	9.831662e+01	AKR1C3
+GO_Biological_Process_2023	Postreplication Repair (GO:0006301)	3.661862e-02	9.550529e-02	0	0	2.972807e+01	9.831662e+01	FAAP20
+GO_Biological_Process_2023	Presynaptic Endocytosis (GO:0140238)	3.661862e-02	9.550529e-02	0	0	2.972807e+01	9.831662e+01	DNM3
+GO_Biological_Process_2023	Protein N-linked Glycosylation Via Asparagine (GO:0018279)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	MGAT5
+GO_Biological_Process_2023	Carboxylic Acid Metabolic Process (GO:0019752)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	LIPT2
+GO_Biological_Process_2023	Organophosphate Ester Transport (GO:0015748)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	EPG5
+GO_Biological_Process_2023	Alpha-Amino Acid Metabolic Process (GO:1901605)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	RIMKLB
+GO_Biological_Process_2023	Retinoid Metabolic Process (GO:0001523)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	AKR1C3
+GO_Biological_Process_2023	Positive Regulation Of Cilium Assembly (GO:0045724)	3.851020e-02	9.550529e-02	0	0	2.816066e+01	9.171456e+01	MARK4
+GO_Biological_Process_2023	Regulation Of Centrosome Cycle (GO:0046605)	4.039824e-02	9.843306e-02	0	0	2.675000e+01	8.583992e+01	MARK4
+GO_Biological_Process_2023	Positive Regulation Of Cell Death (GO:0010942)	4.228277e-02	9.843306e-02	0	0	2.547368e+01	8.058283e+01	MARK4
+GO_Biological_Process_2023	Arachidonic Acid Metabolic Process (GO:0019369)	4.228277e-02	9.843306e-02	0	0	2.547368e+01	8.058283e+01	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Ketone (GO:1901655)	4.228277e-02	9.843306e-02	0	0	2.547368e+01	8.058283e+01	AKR1C3
+GO_Biological_Process_2023	Glutamine Family Amino Acid Metabolic Process (GO:0009064)	4.416377e-02	9.843306e-02	0	0	2.431340e+01	7.585416e+01	RIMKLB
+GO_Biological_Process_2023	Regulation Of Lamellipodium Assembly (GO:0010591)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	AKIRIN1
+GO_Biological_Process_2023	Organic Hydroxy Compound Biosynthetic Process (GO:1901617)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	AKR1C3
+GO_Biological_Process_2023	Synapse Assembly (GO:0007416)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	DNM3
+GO_Biological_Process_2023	DNA Synthesis Involved In DNA Repair (GO:0000731)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	FAAP20
+GO_Biological_Process_2023	Positive Regulation Of Lamellipodium Organization (GO:1902745)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	AKIRIN1
+GO_Biological_Process_2023	Microtubule Bundle Formation (GO:0001578)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	MARK4
+GO_Biological_Process_2023	Regulation Of Peptidyl-Threonine Phosphorylation (GO:0010799)	4.604127e-02	9.843306e-02	0	0	2.325400e+01	7.158088e+01	S1PR2
+GO_Biological_Process_2023	Positive Regulation Of Myoblast Differentiation (GO:0045663)	4.791526e-02	1.001375e-01	0	0	2.228289e+01	6.770259e+01	AKIRIN1
+GO_Biological_Process_2023	Endothelial Cell Migration (GO:0043542)	4.791526e-02	1.001375e-01	0	0	2.228289e+01	6.770259e+01	FSTL1
+GO_Biological_Process_2023	Steroid Biosynthetic Process (GO:0006694)	4.978576e-02	1.017599e-01	0	0	2.138947e+01	6.416898e+01	AKR1C3
+GO_Biological_Process_2023	Synaptic Vesicle Endocytosis (GO:0048488)	4.978576e-02	1.017599e-01	0	0	2.138947e+01	6.416898e+01	DNM3
+GO_Biological_Process_2023	External Encapsulating Structure Organization (GO:0045229)	5.165276e-02	1.044284e-01	0	0	2.056478e+01	6.093779e+01	TGM3
+GO_Biological_Process_2023	Positive Regulation Of Reactive Oxygen Species Metabolic Process (GO:2000379)	5.351628e-02	1.047792e-01	0	0	1.980117e+01	5.797326e+01	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Alcohol (GO:0097306)	5.351628e-02	1.047792e-01	0	0	1.980117e+01	5.797326e+01	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Calcium Ion (GO:0071277)	5.351628e-02	1.047792e-01	0	0	1.980117e+01	5.797326e+01	AKR1C3
+GO_Biological_Process_2023	Steroid Metabolic Process (GO:0008202)	5.537632e-02	1.051020e-01	0	0	1.909211e+01	5.524498e+01	AKR1C3
+GO_Biological_Process_2023	Synaptic Vesicle Recycling (GO:0036465)	5.537632e-02	1.051020e-01	0	0	1.909211e+01	5.524498e+01	DNM3
+GO_Biological_Process_2023	Receptor Internalization (GO:0031623)	5.537632e-02	1.051020e-01	0	0	1.909211e+01	5.524498e+01	DNM3
+GO_Biological_Process_2023	Plasma Membrane Bounded Cell Projection Assembly (GO:0120031)	5.814077e-02	1.092342e-01	0	0	5.575656e+00	1.586212e+01	DNM3;S1PR2
+GO_Biological_Process_2023	Epithelial Cell Migration (GO:0010631)	5.908599e-02	1.098999e-01	0	0	1.781579e+01	5.039662e+01	FSTL1
+GO_Biological_Process_2023	Cellular Response To Glucose Starvation (GO:0042149)	6.093563e-02	1.122181e-01	0	0	1.723939e+01	4.823473e+01	CPEB4
+GO_Biological_Process_2023	Negative Regulation Of Hydrolase Activity (GO:0051346)	6.278182e-02	1.122829e-01	0	0	1.669901e+01	4.622437e+01	NEIL1
+GO_Biological_Process_2023	Regulation Of Microtubule-Based Process (GO:0032886)	6.278182e-02	1.122829e-01	0	0	1.669901e+01	4.622437e+01	MARK4
+GO_Biological_Process_2023	Regulation Of Myoblast Differentiation (GO:0045661)	6.278182e-02	1.122829e-01	0	0	1.669901e+01	4.622437e+01	AKIRIN1
+GO_Biological_Process_2023	Regulation Of BMP Signaling Pathway (GO:0030510)	6.462455e-02	1.144778e-01	0	0	1.619139e+01	4.435081e+01	FSTL1
+GO_Biological_Process_2023	Interstrand Cross-Link Repair (GO:0036297)	6.646385e-02	1.166161e-01	0	0	1.571362e+01	4.260116e+01	FAAP20
+GO_Biological_Process_2023	Nervous System Development (GO:0007399)	6.708562e-02	1.166161e-01	0	0	5.128086e+00	1.385499e+01	DNM3;MARK4
+GO_Biological_Process_2023	Base-Excision Repair (GO:0006284)	6.829971e-02	1.176273e-01	0	0	1.526316e+01	4.096402e+01	NEIL1
+GO_Biological_Process_2023	Regulation Of Reactive Oxygen Species Metabolic Process (GO:2000377)	7.013214e-02	1.185871e-01	0	0	1.483772e+01	3.942937e+01	AKR1C3
+GO_Biological_Process_2023	Negative Regulation Of Neuron Apoptotic Process (GO:0043524)	7.013214e-02	1.185871e-01	0	0	1.483772e+01	3.942937e+01	CPEB4
+GO_Biological_Process_2023	Actin Cytoskeleton Reorganization (GO:0031532)	7.196114e-02	1.205835e-01	0	0	1.443528e+01	3.798829e+01	S1PR2
+GO_Biological_Process_2023	Autophagosome Maturation (GO:0097352)	7.378673e-02	1.225387e-01	0	0	1.405402e+01	3.663287e+01	EPG5
+GO_Biological_Process_2023	Cellular Response To Hormone Stimulus (GO:0032870)	7.742767e-02	1.274473e-01	0	0	1.334868e+01	3.415142e+01	AKR1C3
+GO_Biological_Process_2023	Protein Modification Process (GO:0036211)	7.910786e-02	1.290707e-01	0	0	3.293323e+00	8.354972e+00	MAP3K9;MARK4;TGM3
+GO_Biological_Process_2023	Protein Monoubiquitination (GO:0006513)	8.105502e-02	1.306155e-01	0	0	1.271053e+01	3.193681e+01	FAAP20
+GO_Biological_Process_2023	Positive Regulation Of Cell Population Proliferation (GO:0008284)	8.275136e-02	1.306155e-01	0	0	4.526867e+00	1.128057e+01	AKR1C3;S1PR2
+GO_Biological_Process_2023	Cellular Response To Hypoxia (GO:0071456)	8.286360e-02	1.306155e-01	0	0	1.241371e+01	3.091708e+01	CPEB1
+GO_Biological_Process_2023	Negative Regulation Of Neuron Death (GO:1901215)	8.286360e-02	1.306155e-01	0	0	1.241371e+01	3.091708e+01	CPEB4
+GO_Biological_Process_2023	Positive Regulation Of Protein Kinase B Signaling (GO:0051897)	8.466881e-02	1.312367e-01	0	0	1.213038e+01	2.995001e+01	AKR1C3
+GO_Biological_Process_2023	Cell Junction Assembly (GO:0034329)	8.466881e-02	1.312367e-01	0	0	1.213038e+01	2.995001e+01	DNM3
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle (GO:0045787)	8.647064e-02	1.318323e-01	0	0	1.185965e+01	2.903183e+01	MARK4
+GO_Biological_Process_2023	Endosome To Lysosome Transport (GO:0008333)	8.647064e-02	1.318323e-01	0	0	1.185965e+01	2.903183e+01	EPG5
+GO_Biological_Process_2023	Protein N-linked Glycosylation (GO:0006487)	9.185593e-02	1.377839e-01	0	0	1.111513e+01	2.653775e+01	MGAT5
+GO_Biological_Process_2023	Response To Calcium Ion (GO:0051592)	9.185593e-02	1.377839e-01	0	0	1.111513e+01	2.653775e+01	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Salt (GO:1902075)	9.364432e-02	1.393427e-01	0	0	1.088722e+01	2.578367e+01	AKR1C3
+GO_Biological_Process_2023	Regulation Of Neuron Apoptotic Process (GO:0043523)	9.542936e-02	1.402892e-01	0	0	1.066842e+01	2.506406e+01	CPEB4
+GO_Biological_Process_2023	DNA Repair (GO:0006281)	9.578886e-02	1.402892e-01	0	0	4.143275e+00	9.718502e+00	NEIL1;FAAP20
+GO_Biological_Process_2023	Positive Regulation Of Organelle Assembly (GO:1902117)	1.025362e-01	1.489979e-01	0	0	9.874269e+00	2.248904e+01	MARK4
+GO_Biological_Process_2023	Protein-Containing Complex Disassembly (GO:0032984)	1.043046e-01	1.503926e-01	0	0	9.693780e+00	2.191221e+01	EPG5
+GO_Biological_Process_2023	Regulation Of Cilium Assembly (GO:1902017)	1.095899e-01	1.556010e-01	0	0	9.189655e+00	2.031842e+01	MARK4
+GO_Biological_Process_2023	Cellular Response To Peptide Hormone Stimulus (GO:0071375)	1.095899e-01	1.556010e-01	0	0	9.189655e+00	2.031842e+01	CPEB1
+GO_Biological_Process_2023	Synapse Organization (GO:0050808)	1.113451e-01	1.568954e-01	0	0	9.033006e+00	1.982854e+01	DNM3
+GO_Biological_Process_2023	Response To Insulin (GO:0032868)	1.130970e-01	1.581658e-01	0	0	8.881579e+00	1.935748e+01	CPEB1
+GO_Biological_Process_2023	Macromolecule Modification (GO:0043412)	1.165910e-01	1.618299e-01	0	0	8.593379e+00	1.846789e+01	TGM3
+GO_Biological_Process_2023	Negative Regulation Of Apoptotic Process (GO:0043066)	1.176681e-01	1.618299e-01	0	0	3.648579e+00	7.807547e+00	FSTL1;CPEB4
+GO_Biological_Process_2023	Positive Regulation Of Protein-Containing Complex Assembly (GO:0031334)	1.183331e-01	1.618299e-01	0	0	8.456140e+00	1.804753e+01	MARK4
+GO_Biological_Process_2023	Epithelial Cell Differentiation (GO:0030855)	1.200719e-01	1.618299e-01	0	0	8.323191e+00	1.764237e+01	FSTL1
+GO_Biological_Process_2023	Cellular Response To Metal Ion (GO:0071248)	1.200719e-01	1.618299e-01	0	0	8.323191e+00	1.764237e+01	AKR1C3
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization (GO:1903829)	1.218074e-01	1.618299e-01	0	0	8.194332e+00	1.725164e+01	MARK4
+GO_Biological_Process_2023	Axon Guidance (GO:0007411)	1.218074e-01	1.618299e-01	0	0	8.194332e+00	1.725164e+01	UNC5A
+GO_Biological_Process_2023	Phosphorylation (GO:0016310)	1.247982e-01	1.646274e-01	0	0	3.516026e+00	7.317051e+00	MAP3K9;MARK4
+GO_Biological_Process_2023	Protein Maturation (GO:0051604)	1.269946e-01	1.663451e-01	0	0	7.830495e+00	1.615909e+01	LIPT2
+GO_Biological_Process_2023	Regulation Of Protein Kinase B Signaling (GO:0051896)	1.304366e-01	1.696587e-01	0	0	7.605263e+00	1.549092e+01	AKR1C3
+GO_Biological_Process_2023	Vesicle-Mediated Transport (GO:0016192)	1.320364e-01	1.705470e-01	0	0	3.392501e+00	6.868720e+00	DNM3;EPG5
+GO_Biological_Process_2023	Peptidyl-Lysine Modification (GO:0018205)	1.355753e-01	1.727192e-01	0	0	7.290555e+00	1.456819e+01	LIPT2
+GO_Biological_Process_2023	Cellular Response To Organic Cyclic Compound (GO:0071407)	1.355753e-01	1.727192e-01	0	0	7.290555e+00	1.456819e+01	EPG5
+GO_Biological_Process_2023	Receptor-Mediated Endocytosis (GO:0006898)	1.406852e-01	1.780098e-01	0	0	7.000693e+00	1.372997e+01	DNM3
+GO_Biological_Process_2023	Cellular Response To Insulin Stimulus (GO:0032869)	1.440758e-01	1.810682e-01	0	0	6.819838e+00	1.321286e+01	CPEB1
+GO_Biological_Process_2023	Protein Phosphorylation (GO:0006468)	1.461292e-01	1.824163e-01	0	0	3.178618e+00	6.113322e+00	MAP3K9;MARK4
+GO_Biological_Process_2023	Lysosomal Transport (GO:0007041)	1.641542e-01	2.035512e-01	0	0	5.903509e+00	1.066734e+01	EPG5
+GO_Biological_Process_2023	Negative Regulation Of Cellular Biosynthetic Process (GO:0031327)	1.658070e-01	2.035749e-01	0	0	5.838057e+00	1.049058e+01	AKR1C3
+GO_Biological_Process_2023	Macroautophagy (GO:0016236)	1.674568e-01	2.035749e-01	0	0	5.774027e+00	1.031836e+01	EPG5
+GO_Biological_Process_2023	Neuron Development (GO:0048666)	1.674568e-01	2.035749e-01	0	0	5.774027e+00	1.031836e+01	UNC5A
+GO_Biological_Process_2023	Protein Glycosylation (GO:0006486)	1.707470e-01	2.062269e-01	0	0	5.650056e+00	9.986883e+00	MGAT5
+GO_Biological_Process_2023	Mitochondrial Translation (GO:0032543)	1.740248e-01	2.088298e-01	0	0	5.531250e+00	9.671708e+00	MTRF1
+GO_Biological_Process_2023	Cellular Response To Lipid (GO:0071396)	1.756591e-01	2.094397e-01	0	0	5.473684e+00	9.519886e+00	AKR1C3
+GO_Biological_Process_2023	Cellular Response To Starvation (GO:0009267)	1.805436e-01	2.138924e-01	0	0	5.307895e+00	9.085964e+00	CPEB4
+GO_Biological_Process_2023	Regulation Of Cellular Component Organization (GO:0051128)	1.950326e-01	2.285793e-01	0	0	4.865282e+00	7.952735e+00	MARK4
+GO_Biological_Process_2023	Protein Autophosphorylation (GO:0046777)	1.966274e-01	2.285793e-01	0	0	4.820574e+00	7.840398e+00	MAP3K9
+GO_Biological_Process_2023	Regulation Of Cell Cycle Process (GO:0010564)	1.966274e-01	2.285793e-01	0	0	4.820574e+00	7.840398e+00	MARK4
+GO_Biological_Process_2023	Regulation Of Cell Population Proliferation (GO:0042127)	2.009242e-01	2.312299e-01	0	0	2.570563e+00	4.125311e+00	AKR1C3;S1PR2
+GO_Biological_Process_2023	Regulation Of Signal Transduction (GO:0009966)	2.013937e-01	2.312299e-01	0	0	4.691197e+00	7.517612e+00	AKR1C3
+GO_Biological_Process_2023	Positive Regulation Of Cell Motility (GO:2000147)	2.108460e-01	2.405973e-01	0	0	4.452012e+00	6.930124e+00	MGAT5
+GO_Biological_Process_2023	Neuron Projection Development (GO:0031175)	2.155321e-01	2.444450e-01	0	0	4.341242e+00	6.662267e+00	UNC5A
+GO_Biological_Process_2023	Regulation Of Programmed Cell Death (GO:0043067)	2.278997e-01	2.569051e-01	0	0	4.070850e+00	6.020175e+00	MARK4
+GO_Biological_Process_2023	Endocytosis (GO:0006897)	2.355351e-01	2.639128e-01	0	0	3.918129e+00	5.665204e+00	DNM3
+GO_Biological_Process_2023	Positive Regulation Of Signal Transduction (GO:0009967)	2.490984e-01	2.774390e-01	0	0	3.669956e+00	5.100898e+00	MGAT5
+GO_Biological_Process_2023	Positive Regulation Of Cell Differentiation (GO:0045597)	2.565345e-01	2.840204e-01	0	0	3.545037e+00	4.822995e+00	AKIRIN1
+GO_Biological_Process_2023	Positive Regulation Of Cell Migration (GO:0030335)	2.697435e-01	2.968774e-01	0	0	3.340107e+00	4.376488e+00	MGAT5
+GO_Biological_Process_2023	Cilium Organization (GO:0044782)	2.726484e-01	2.983094e-01	0	0	3.297697e+00	4.285596e+00	MARK4
+GO_Biological_Process_2023	Positive Regulation Of Programmed Cell Death (GO:0043068)	2.798627e-01	3.044120e-01	0	0	3.196172e+00	4.070186e+00	MARK4
+GO_Biological_Process_2023	Regulation Of Translation (GO:0006417)	2.926774e-01	3.165000e-01	0	0	3.028131e+00	3.720616e+00	MTRF1
+GO_Biological_Process_2023	Positive Regulation Of Protein Phosphorylation (GO:0001934)	3.176599e-01	3.415303e-01	0	0	2.739309e+00	3.141369e+00	S1PR2
+GO_Biological_Process_2023	Regulation Of Cell Cycle (GO:0051726)	3.535675e-01	3.779515e-01	0	0	2.395097e+00	2.490137e+00	MARK4
+GO_Biological_Process_2023	Regulation Of Cell Migration (GO:0030334)	3.864430e-01	4.107337e-01	0	0	2.135338e+00	2.030217e+00	MGAT5
+GO_Biological_Process_2023	Negative Regulation Of Programmed Cell Death (GO:0043069)	4.010748e-01	4.238631e-01	0	0	2.033176e+00	1.857525e+00	FSTL1
+GO_Biological_Process_2023	DNA Metabolic Process (GO:0006259)	4.094562e-01	4.302760e-01	0	0	1.977871e+00	1.766091e+00	NEIL1
+GO_Biological_Process_2023	Positive Regulation Of Intracellular Signal Transduction (GO:1902533)	4.574520e-01	4.780116e-01	0	0	1.699174e+00	1.328896e+00	AKR1C3
+GO_Biological_Process_2023	Protein Ubiquitination (GO:0016567)	4.650818e-01	4.832694e-01	0	0	1.659997e+00	1.270797e+00	FAAP20
+GO_Biological_Process_2023	Organelle Organization (GO:0006996)	4.693959e-01	4.850424e-01	0	0	1.638386e+00	1.239126e+00	MARK4
+GO_Biological_Process_2023	DNA Damage Response (GO:0006974)	4.884033e-01	5.018951e-01	0	0	1.547526e+00	1.108978e+00	FAAP20
+GO_Biological_Process_2023	Regulation Of Apoptotic Process (GO:0042981)	6.100922e-01	6.235008e-01	0	0	1.092780e+00	5.399921e-01	FSTL1
+GO_Biological_Process_2023	Regulation Of Transcription By RNA Polymerase II (GO:0006357)	6.782462e-01	6.893650e-01	0	0	8.712384e-01	3.382539e-01	AKIRIN1;ZNF394
+GO_Biological_Process_2023	Positive Regulation Of Transcription By RNA Polymerase II (GO:0045944)	6.964501e-01	7.040202e-01	0	0	8.574748e-01	3.101993e-01	AKIRIN1
+GO_Biological_Process_2023	Positive Regulation Of DNA-templated Transcription (GO:0045893)	8.069784e-01	8.113404e-01	0	0	6.141005e-01	1.316990e-01	AKIRIN1
+GO_Biological_Process_2023	Regulation Of DNA-templated Transcription (GO:0006355)	9.082920e-01	9.082920e-01	0	0	4.147203e-01	3.989170e-02	ZNF394

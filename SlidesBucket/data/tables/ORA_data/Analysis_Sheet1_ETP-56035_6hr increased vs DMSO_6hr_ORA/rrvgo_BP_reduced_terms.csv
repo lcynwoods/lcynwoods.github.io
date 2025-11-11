@@ -1,0 +1,167 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0061036","GO:0061036",7,"GO:0061036",0.908781634704923,32,"positive regulation of cartilage development","positive regulation of cartilage development",0.902740963855422,0.6145,0
+"GO:0001501","GO:0001501",7,"GO:0061036",0.908781634704923,530,"skeletal system development","positive regulation of cartilage development",0.944120481927711,0.6145,0.771
+"GO:0006307","GO:0006307",17,"GO:0006307",0.908781634704923,9,"DNA dealkylation involved in DNA repair","DNA dealkylation involved in DNA repair",0.848807228915663,0.547,0
+"GO:0035510","GO:0035510",17,"GO:0006307",0.908781634704923,38,"DNA dealkylation","DNA dealkylation involved in DNA repair",0.914518072289157,0.547,0.906
+"GO:0099560","GO:0099560",8,"GO:0099560",0.908781634704923,27,"synaptic membrane adhesion","synaptic membrane adhesion",0.921518072289157,0.539,0
+"GO:2000766","GO:2000766",12,"GO:2000766",0.908781634704923,9,"negative regulation of cytoplasmic translation","negative regulation of cytoplasmic translation",0.854301204819277,0.5325,0
+"GO:0035235","GO:0035235",3,"GO:0035235",0.908781634704923,24,"ionotropic glutamate receptor signaling pathway","ionotropic glutamate receptor signaling pathway",0.885855421686747,0.5315,0
+"GO:0042359","GO:0042359",6,"GO:0042359",0.908781634704923,20,"vitamin D metabolic process","vitamin D metabolic process",0.926006024096386,0.5245,0
+"GO:0007492","GO:0007492",19,"GO:0007492",0.908781634704923,83,"endoderm development","endoderm development",0.95805421686747,0.513,0
+"GO:0097345","GO:0097345",18,"GO:0097345",0.908781634704923,37,"mitochondrial outer membrane permeabilization","mitochondrial outer membrane permeabilization",0.824198795180723,0.505,0
+"GO:1902110","GO:1902110",18,"GO:0097345",0.908781634704923,43,"positive regulation of mitochondrial membrane permeability involved in apoptotic process","mitochondrial outer membrane permeabilization",0.886626506024096,0.505,0.99
+"GO:0007202","GO:0007202",15,"GO:0007202",0.908781634704923,28,"activation of phospholipase C activity","activation of phospholipase C activity",0.953349397590361,0.489,0
+"GO:1904948","GO:1904948",9,"GO:1904948",0.908781634704923,17,"midbrain dopaminergic neuron differentiation","midbrain dopaminergic neuron differentiation",0.930367469879518,0.450875,0
+"GO:0071542","GO:0071542",9,"GO:1904948",0.908781634704923,42,"dopaminergic neuron differentiation","midbrain dopaminergic neuron differentiation",0.927963855421687,0.427625,0.944
+"GO:2000242","GO:2000242",1,"GO:2000242",0.908781634704923,76,"negative regulation of reproductive process","negative regulation of reproductive process",0.916451807228916,0.419,0
+"GO:0050805","GO:0050805",4,"GO:0050805",0.908781634704923,54,"negative regulation of synaptic transmission","negative regulation of synaptic transmission",0.871939759036145,0.413166666666667,0
+"GO:0060292","GO:0060292",4,"GO:0050805",0.908781634704923,32,"long-term synaptic depression","negative regulation of synaptic transmission",0.861963855421687,0.409333333333333,0.963
+"GO:0006449","GO:0006449",14,"GO:0006449",0.908781634704923,9,"regulation of translational termination","regulation of translational termination",0.834114457831325,0.402333333333333,0
+"GO:0051447","GO:0051447",1,"GO:2000242",0.908781634704923,17,"negative regulation of meiotic cell cycle","negative regulation of reproductive process",0.86444578313253,0.393333333333333,0.907
+"GO:1903504","GO:1903504",10,"GO:1903504",0.908781634704923,21,"regulation of mitotic spindle checkpoint","regulation of mitotic spindle checkpoint",0.79560843373494,0.3586,0
+"GO:1903753","GO:1903753",5,"GO:1903753",0.908781634704923,8,"negative regulation of p38MAPK cascade","negative regulation of p38MAPK cascade",0.830469879518072,0.347,0
+"GO:0033047","GO:0033047",10,"GO:1903504",0.908781634704923,54,"regulation of mitotic sister chromatid segregation","regulation of mitotic spindle checkpoint",0.833180722891566,0.3414,0.59
+"GO:0010818","GO:0010818",2,"GO:0010818",0.908781634704923,27,"T cell chemotaxis","T cell chemotaxis",0.869897590361446,0.338285714285714,0
+"GO:0072678","GO:0072678",2,"GO:0010818",0.908781634704923,73,"T cell migration","T cell chemotaxis",0.941114457831325,0.325285714285714,0.93
+"GO:0042759","GO:0042759",16,"GO:0042759",0.908781634704923,28,"long-chain fatty acid biosynthetic process","long-chain fatty acid biosynthetic process",0.912295180722892,0.321333333333333,0
+"GO:0048247","GO:0048247",2,"GO:0010818",0.908781634704923,64,"lymphocyte chemotaxis","T cell chemotaxis",0.861789156626506,0.317285714285714,0.937
+"GO:0099174","GO:0099174",13,"GO:0099174",0.908781634704923,33,"regulation of presynapse organization","regulation of presynapse organization",0.872192771084337,0.3128,0
+"GO:0090027","GO:0090027",2,"GO:0010818",0.908781634704923,7,"negative regulation of monocyte chemotaxis","T cell chemotaxis",0.821373493975904,0.311,0.659
+"GO:0070873","GO:0070873",11,"GO:0070873",0.908781634704923,38,"regulation of glycogen metabolic process","regulation of glycogen metabolic process",0.89260843373494,0.3075,0
+"GO:0010962","GO:0010962",11,"GO:0070873",0.908781634704923,31,"regulation of glucan biosynthetic process","regulation of glycogen metabolic process",0.889355421686747,0.307,0.962
+"GO:0071676","GO:0071676",2,"GO:0010818",0.908781634704923,25,"negative regulation of mononuclear cell migration","T cell chemotaxis",0.872843373493976,0.306714285714286,0.714
+"GO:1905606","GO:1905606",13,"GO:0099174",0.908781634704923,33,"regulation of presynapse assembly","regulation of presynapse organization",0.82560843373494,0.2922,0.998
+"GO:0009953","GO:0009953",22,"GO:0009953",0.908332690749007,97,"dorsal/ventral pattern formation","dorsal/ventral pattern formation",0.957048192771084,1,0
+"GO:0007215","GO:0007215",3,"GO:0035235",0.908332690749007,50,"glutamate receptor signaling pathway","ionotropic glutamate receptor signaling pathway",0.878246987951807,0.5315,0.937
+"GO:0036092","GO:0036092",20,"GO:0036092",0.908332690749007,22,"phosphatidylinositol-3-phosphate biosynthetic process","phosphatidylinositol-3-phosphate biosynthetic process",0.918506024096386,0.5105,0
+"GO:0071453","GO:0071453",21,"GO:0071453",0.908332690749007,174,"cellular response to oxygen levels","cellular response to oxygen levels",0.889933734939759,0.5035,0
+"GO:0010863","GO:0010863",15,"GO:0007202",0.908332690749007,37,"positive regulation of phospholipase C activity","activation of phospholipase C activity",0.952644578313253,0.4836,0.984
+"GO:0006415","GO:0006415",14,"GO:0006449",0.908332690749007,17,"translational termination","regulation of translational termination",0.874861445783133,0.422333333333333,0.953
+"GO:0060291","GO:0060291",4,"GO:0050805",0.908332690749007,106,"long-term synaptic potentiation","negative regulation of synaptic transmission",0.870536144578313,0.3935,0.7
+"GO:0010965","GO:0010965",10,"GO:1903504",0.908332690749007,59,"regulation of mitotic sister chromatid separation","regulation of mitotic spindle checkpoint",0.849,0.3424,0.592
+"GO:0002689","GO:0002689",2,"GO:0010818",0.908332690749007,23,"negative regulation of leukocyte chemotaxis","T cell chemotaxis",0.809186746987952,0.334857142857143,0.674
+"GO:0035108","GO:0035108",25,"GO:0035108",0.893774755040315,146,"limb morphogenesis","limb morphogenesis",0.949584337349398,0.509,0
+"GO:0110020","GO:0110020",24,"GO:0110020",0.893774755040315,105,"regulation of actomyosin structure organization","regulation of actomyosin structure organization",0.873433734939759,0.399666666666667,0
+"GO:1990868","GO:1990868",23,"GO:1990868",0.893774755040315,99,"response to chemokine","response to chemokine",0.911271084337349,0.3846,0
+"GO:0006775","GO:0006775",6,"GO:0042359",0.888205364742567,45,"fat-soluble vitamin metabolic process","vitamin D metabolic process",0.949680722891566,0.5245,0.951
+"GO:0051965","GO:0051965",27,"GO:0051965",0.888205364742567,63,"positive regulation of synapse assembly","positive regulation of synapse assembly",0.807126506024096,0.458666666666667,0
+"GO:0002861","GO:0002861",26,"GO:0002861",0.888205364742567,48,"regulation of inflammatory response to antigenic stimulus","regulation of inflammatory response to antigenic stimulus",0.861361445783133,0.416333333333333,0
+"GO:0006281","GO:0006281",28,"GO:0006281",0.888205364742567,601,"DNA repair","DNA repair",0.803813253012048,0.3975,0
+"GO:0002862","GO:0002862",26,"GO:0002861",0.888205364742567,33,"negative regulation of inflammatory response to antigenic stimulus","regulation of inflammatory response to antigenic stimulus",0.84055421686747,0.385666666666667,0.976
+"GO:1990869","GO:1990869",23,"GO:1990868",0.888205364742567,99,"cellular response to chemokine","response to chemokine",0.884524096385542,0.3846,0.999
+"GO:0090025","GO:0090025",2,"GO:0010818",0.888205364742567,29,"regulation of monocyte chemotaxis","T cell chemotaxis",0.831969879518072,0.320571428571429,0.718
+"GO:0006977","GO:0006977",29,"GO:0006977",0.888205364742567,18,"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.788403614457831,0.30475,0
+"GO:0043470","GO:0043470",11,"GO:0070873",0.870363914678626,63,"regulation of carbohydrate catabolic process","regulation of glycogen metabolic process",0.895680722891566,0.389,0.824
+"GO:0035269","GO:0035269",30,"GO:0035269",0.870363914678626,17,"protein O-linked mannosylation","protein O-linked mannosylation",0.917903614457831,0.379333333333333,0
+"GO:0035335","GO:0035335",34,"GO:0035335",0.862432592269345,31,"peptidyl-tyrosine dephosphorylation","peptidyl-tyrosine dephosphorylation",0.927156626506024,1,0
+"GO:0030199","GO:0030199",35,"GO:0030199",0.862432592269345,65,"collagen fibril organization","collagen fibril organization",0.936469879518072,0.5645,0
+"GO:0045879","GO:0045879",31,"GO:0045879",0.862432592269345,34,"negative regulation of smoothened signaling pathway","negative regulation of smoothened signaling pathway",0.84044578313253,0.529,0
+"GO:0060173","GO:0060173",25,"GO:0035108",0.862432592269345,182,"limb development","limb morphogenesis",0.950632530120482,0.509,0.982
+"GO:0070167","GO:0070167",32,"GO:0070167",0.862432592269345,102,"regulation of biomineral tissue development","regulation of biomineral tissue development",0.906144578313253,0.466,0
+"GO:0043244","GO:0043244",14,"GO:0006449",0.862432592269345,123,"regulation of protein-containing complex disassembly","regulation of translational termination",0.880542168674699,0.46,0.84
+"GO:0021953","GO:0021953",9,"GO:1904948",0.862432592269345,181,"central nervous system neuron differentiation","midbrain dopaminergic neuron differentiation",0.923981927710843,0.4315,0.575
+"GO:0046599","GO:0046599",10,"GO:1903504",0.862432592269345,23,"regulation of centriole replication","regulation of mitotic spindle checkpoint",0.841439759036145,0.423933333333333,0.558
+"GO:0051445","GO:0051445",1,"GO:2000242",0.862432592269345,66,"regulation of meiotic cell cycle","negative regulation of reproductive process",0.885668674698795,0.417,0.836
+"GO:0035268","GO:0035268",30,"GO:0035269",0.862432592269345,22,"protein mannosylation","protein O-linked mannosylation",0.917355421686747,0.407,0.986
+"GO:0032231","GO:0032231",24,"GO:0110020",0.862432592269345,107,"regulation of actin filament bundle assembly","regulation of actomyosin structure organization",0.866451807228916,0.401333333333333,0.808
+"GO:0043066","GO:0043066",33,"GO:0043066",0.862432592269345,918,"negative regulation of apoptotic process","negative regulation of apoptotic process",0.871885542168675,0.3576,0
+"GO:0005979","GO:0005979",11,"GO:0070873",0.862432592269345,31,"regulation of glycogen biosynthetic process","regulation of glycogen metabolic process",0.889222891566265,0.3015,0.984
+"GO:0050807","GO:0050807",13,"GO:0099174",0.862432592269345,244,"regulation of synapse organization","regulation of presynapse organization",0.854861445783133,0.288,0.854
+"GO:0090266","GO:0090266",10,"GO:1903504",0.862432592269345,21,"regulation of mitotic cell cycle spindle assembly checkpoint","regulation of mitotic spindle checkpoint",0.748132530120482,0.284266666666667,1
+"GO:1900744","GO:1900744",5,"GO:1903753",0.850547786137608,45,"regulation of p38MAPK cascade","negative regulation of p38MAPK cascade",0.836716867469879,0.397,0.91
+"GO:0006301","GO:0006301",36,"GO:0006301",0.839660245630592,34,"postreplication repair","postreplication repair",0.847518072289157,0.679,0
+"GO:2000765","GO:2000765",12,"GO:2000766",0.839660245630592,33,"regulation of cytoplasmic translation","negative regulation of cytoplasmic translation",0.876885542168675,0.5325,0.935
+"GO:0030278","GO:0030278",39,"GO:0030278",0.839375727054066,121,"regulation of ossification","regulation of ossification",0.924620481927711,1,0
+"GO:0009968","GO:0009968",38,"GO:0009968",0.839375727054066,1359,"negative regulation of signal transduction","negative regulation of signal transduction",0.793144578313253,0.6395,0
+"GO:0051962","GO:0051962",32,"GO:0070167",0.839375727054066,290,"positive regulation of nervous system development","regulation of biomineral tissue development",0.883668674698795,0.589333333333333,0.622
+"GO:0001706","GO:0001706",19,"GO:0007492",0.839375727054066,58,"endoderm formation","endoderm development",0.949343373493976,0.513,0.974
+"GO:0006974","GO:0006974",28,"GO:0006281",0.839375727054066,884,"DNA damage response","DNA repair",0.863650602409639,0.421,0.939
+"GO:0043200","GO:0043200",37,"GO:0043200",0.839375727054066,126,"response to amino acid","response to amino acid",0.90789156626506,0.353666666666667,0
+"GO:0071229","GO:0071229",37,"GO:0043200",0.839375727054066,94,"cellular response to acid chemical","response to amino acid",0.89033734939759,0.347,0.965
+"GO:0031571","GO:0031571",29,"GO:0006977",0.839375727054066,29,"mitotic G1 DNA damage checkpoint signaling","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.782909638554217,0.3235,0.973
+"GO:0030258","GO:0030258",20,"GO:0036092",0.833332820755252,192,"lipid modification","phosphatidylinositol-3-phosphate biosynthetic process",0.921,0.56875,0.53
+"GO:0019369","GO:0019369",16,"GO:0042759",0.833332820755252,58,"arachidonic acid metabolic process","long-chain fatty acid biosynthetic process",0.915524096385542,0.3135,0.837
+"GO:0051963","GO:0051963",13,"GO:0099174",0.819757391612704,114,"regulation of synapse assembly","regulation of presynapse organization",0.811506024096386,0.2968,0.809
+"GO:0000731","GO:0000731",28,"GO:0006281",0.806941942884677,40,"DNA synthesis involved in DNA repair","DNA repair",0.837331325301205,0.4955,0.74
+"GO:0007613","GO:0007613",41,"GO:0007613",0.797974559403016,123,"memory","memory",0.972,1,0
+"GO:0008202","GO:0008202",20,"GO:0036092",0.797974559403016,327,"steroid metabolic process","phosphatidylinositol-3-phosphate biosynthetic process",0.917295180722892,0.58125,0.505
+"GO:0030500","GO:0030500",32,"GO:0070167",0.797974559403016,81,"regulation of bone mineralization","regulation of biomineral tissue development",0.904409638554217,0.47,0.98
+"GO:0034341","GO:0034341",23,"GO:1990868",0.797974559403016,143,"response to type II interferon","response to chemokine",0.871240963855422,0.4488,0.641
+"GO:0014070","GO:0014070",43,"GO:0014070",0.797974559403016,913,"response to organic cyclic compound","response to organic cyclic compound",0.900433734939759,0.4292,0
+"GO:0043407","GO:0043407",15,"GO:0007202",0.797974559403016,51,"negative regulation of MAP kinase activity","activation of phospholipase C activity",0.757969879518072,0.4228,0.503
+"GO:0010824","GO:0010824",10,"GO:1903504",0.797974559403016,47,"regulation of centrosome duplication","regulation of mitotic spindle checkpoint",0.8425,0.4014,0.58
+"GO:0030183","GO:0030183",40,"GO:0030183",0.797974559403016,153,"B cell differentiation","B cell differentiation",0.909873493975904,0.397,0
+"GO:0050806","GO:0050806",4,"GO:0050805",0.797974559403016,174,"positive regulation of synaptic transmission","negative regulation of synaptic transmission",0.88039156626506,0.3945,0.731
+"GO:0071310","GO:0071310",43,"GO:0014070",0.797974559403016,2042,"cellular response to organic substance","response to organic cyclic compound",0.857602409638554,0.382,0.724
+"GO:0030330","GO:0030330",29,"GO:0006977",0.797974559403016,73,"DNA damage response, signal transduction by p53 class mediator","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.841198795180723,0.35625,0.906
+"GO:0006351","GO:0006351",42,"GO:0006351",0.797974559403016,3568,"DNA-templated transcription","DNA-templated transcription",0.88978313253012,0.3498,0
+"GO:0032873","GO:0032873",5,"GO:1903753",0.797974559403016,49,"negative regulation of stress-activated MAPK cascade","negative regulation of p38MAPK cascade",0.811644578313253,0.34525,0.896
+"GO:0071230","GO:0071230",37,"GO:0043200",0.797974559403016,85,"cellular response to amino acid stimulus","response to amino acid",0.883740963855422,0.344,0.974
+"GO:0007095","GO:0007095",10,"GO:1903504",0.797974559403016,37,"mitotic G2 DNA damage checkpoint signaling","regulation of mitotic spindle checkpoint",0.780253012048193,0.3412,0.775
+"GO:0051881","GO:0051881",44,"GO:0051881",0.796615683487933,73,"regulation of mitochondrial membrane potential","regulation of mitochondrial membrane potential",0.946222891566265,1,0
+"GO:0046854","GO:0046854",20,"GO:0036092",0.796615683487933,66,"phosphatidylinositol phosphate biosynthetic process","phosphatidylinositol-3-phosphate biosynthetic process",0.911704819277108,0.4865,0.923
+"GO:0045892","GO:0045892",42,"GO:0006351",0.796615683487933,1323,"negative regulation of DNA-templated transcription","DNA-templated transcription",0.807626506024096,0.3616,0.756
+"GO:0042149","GO:0042149",45,"GO:0042149",0.794230121941391,50,"cellular response to glucose starvation","cellular response to glucose starvation",0.886692771084337,1,0
+"GO:0001764","GO:0001764",9,"GO:1904948",0.794230121941391,177,"neuron migration","midbrain dopaminergic neuron differentiation",0.904512048192771,0.45525,0.5
+"GO:1901890","GO:1901890",27,"GO:0051965",0.794230121941391,106,"positive regulation of cell junction assembly","positive regulation of synapse assembly",0.862018072289157,0.450666666666667,0.966
+"GO:0030098","GO:0030098",40,"GO:0030183",0.794230121941391,429,"lymphocyte differentiation","B cell differentiation",0.901759036144578,0.441333333333333,0.883
+"GO:2001233","GO:2001233",33,"GO:0043066",0.794230121941391,398,"regulation of apoptotic signaling pathway","negative regulation of apoptotic process",0.827716867469879,0.3812,0.792
+"GO:0008589","GO:0008589",31,"GO:0045879",0.785359046640018,86,"regulation of smoothened signaling pathway","negative regulation of smoothened signaling pathway",0.856885542168675,0.529,0.942
+"GO:0048015","GO:0048015",46,"GO:0048015",0.772214556910093,26,"phosphatidylinositol-mediated signaling","phosphatidylinositol-mediated signaling",0.881451807228916,1,0
+"GO:0036297","GO:0036297",28,"GO:0006281",0.772214556910093,40,"interstrand cross-link repair","DNA repair",0.847518072289157,0.5,0.731
+"GO:0060070","GO:0060070",4,"GO:0050805",0.772214556910093,316,"canonical Wnt signaling pathway","negative regulation of synaptic transmission",0.854506024096386,0.465666666666667,0.551
+"GO:0042113","GO:0042113",40,"GO:0030183",0.772214556910093,278,"B cell activation","B cell differentiation",0.924331325301205,0.427,0.926
+"GO:0007088","GO:0007088",10,"GO:1903504",0.772214556910093,118,"regulation of mitotic nuclear division","regulation of mitotic spindle checkpoint",0.826686746987952,0.331333333333333,0.679
+"GO:0006633","GO:0006633",16,"GO:0042759",0.772214556910093,168,"fatty acid biosynthetic process","long-chain fatty acid biosynthetic process",0.901951807228916,0.305833333333333,0.863
+"GO:0045444","GO:0045444",47,"GO:0045444",0.768265173352028,248,"fat cell differentiation","fat cell differentiation",0.946018072289157,1,0
+"GO:0043524","GO:0043524",33,"GO:0043066",0.768265173352028,163,"negative regulation of neuron apoptotic process","negative regulation of apoptotic process",0.888030120481928,0.3654,0.816
+"GO:0050777","GO:0050777",38,"GO:0009968",0.74026257444176,205,"negative regulation of immune response","negative regulation of signal transduction",0.837620481927711,0.6395,0.721
+"GO:0044843","GO:0044843",10,"GO:1903504",0.74026257444176,279,"cell cycle G1/S phase transition","regulation of mitotic spindle checkpoint",0.912722891566265,0.3794,0.689
+"GO:0044818","GO:0044818",10,"GO:1903504",0.74026257444176,53,"mitotic G2/M transition checkpoint","regulation of mitotic spindle checkpoint",0.793831325301205,0.316466666666667,0.804
+"GO:0001676","GO:0001676",16,"GO:0042759",0.74026257444176,110,"long-chain fatty acid metabolic process","long-chain fatty acid biosynthetic process",0.910487951807229,0.278166666666667,0.884
+"GO:0006513","GO:0006513",48,"GO:0006513",0.727689515724388,43,"protein monoubiquitination","protein monoubiquitination",0.938536144578313,1,0
+"GO:0000122","GO:0000122",42,"GO:0006351",0.727689515724388,980,"negative regulation of transcription by RNA polymerase II","DNA-templated transcription",0.815006024096386,0.3634,0.708
+"GO:0007162","GO:0007162",8,"GO:0099560",0.725178741552968,312,"negative regulation of cell adhesion","synaptic membrane adhesion",0.89366265060241,0.6,0.547
+"GO:0061564","GO:0061564",9,"GO:1904948",0.713761630479724,513,"axon development","midbrain dopaminergic neuron differentiation",0.867060240963855,0.371625,0.569
+"GO:0030071","GO:0030071",10,"GO:1903504",0.713761630479724,90,"regulation of mitotic metaphase/anaphase transition","regulation of mitotic spindle checkpoint",0.824439759036145,0.294133333333333,0.68
+"GO:0036294","GO:0036294",21,"GO:0071453",0.711678994300157,158,"cellular response to decreased oxygen levels","cellular response to oxygen levels",0.890548192771084,0.5035,0.993
+"GO:0016055","GO:0016055",4,"GO:0050805",0.711678994300157,459,"Wnt signaling pathway","negative regulation of synaptic transmission",0.847789156626506,0.448166666666667,0.576
+"GO:0048667","GO:0048667",9,"GO:1904948",0.707789797880924,575,"cell morphogenesis involved in neuron differentiation","midbrain dopaminergic neuron differentiation",0.911602409638554,0.366375,0.574
+"GO:0045786","GO:0045786",10,"GO:1903504",0.707789797880924,407,"negative regulation of cell cycle","regulation of mitotic spindle checkpoint",0.836307228915663,0.360066666666667,0.774
+"GO:0000082","GO:0000082",10,"GO:1903504",0.707789797880924,252,"G1/S transition of mitotic cell cycle","regulation of mitotic spindle checkpoint",0.908867469879518,0.336333333333333,0.684
+"GO:0044773","GO:0044773",29,"GO:0006977",0.707789797880924,83,"mitotic DNA damage checkpoint signaling","DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",0.769277108433735,0.326,0.902
+"GO:0043523","GO:0043523",33,"GO:0043066",0.694691417117352,232,"regulation of neuron apoptotic process","negative regulation of apoptotic process",0.922084337349398,0.3898,0.741
+"GO:0030198","GO:0030198",35,"GO:0030199",0.688992495305094,321,"extracellular matrix organization","collagen fibril organization",0.933873493975904,0.5645,0.871
+"GO:0098742","GO:0098742",8,"GO:0099560",0.688992495305094,279,"cell-cell adhesion via plasma-membrane adhesion molecules","synaptic membrane adhesion",0.97860843373494,0.503666666666667,0.836
+"GO:0050728","GO:0050728",26,"GO:0002861",0.688992495305094,202,"negative regulation of inflammatory response","regulation of inflammatory response to antigenic stimulus",0.835614457831325,0.452666666666667,0.775
+"GO:0034612","GO:0034612",23,"GO:1990868",0.688992495305094,259,"response to tumor necrosis factor","response to chemokine",0.90778313253012,0.4292,0.669
+"GO:0043405","GO:0043405",15,"GO:0007202",0.688992495305094,142,"regulation of MAP kinase activity","activation of phospholipase C activity",0.861638554216867,0.4244,0.541
+"GO:0071901","GO:0071901",15,"GO:0007202",0.688992495305094,100,"negative regulation of protein serine/threonine kinase activity","activation of phospholipase C activity",0.829909638554217,0.4242,0.527
+"GO:0009896","GO:0009896",49,"GO:0009896",0.688992495305094,601,"positive regulation of catabolic process","positive regulation of catabolic process",0.89055421686747,0.410666666666667,0
+"GO:1902850","GO:1902850",10,"GO:1903504",0.688992495305094,163,"microtubule cytoskeleton organization involved in mitosis","regulation of mitotic spindle checkpoint",0.873409638554217,0.369133333333333,0.613
+"GO:0045927","GO:0045927",50,"GO:0045927",0.673525678565304,256,"positive regulation of growth","positive regulation of growth",0.942602409638554,0.519,0
+"GO:0071417","GO:0071417",43,"GO:0014070",0.673525678565304,654,"cellular response to organonitrogen compound","response to organic cyclic compound",0.869469879518072,0.39,0.621
+"GO:0071375","GO:0071375",43,"GO:0014070",0.669608347820969,310,"cellular response to peptide hormone stimulus","response to organic cyclic compound",0.877524096385542,0.4232,0.574
+"GO:0051492","GO:0051492",24,"GO:0110020",0.668739569402917,94,"regulation of stress fiber assembly","regulation of actomyosin structure organization",0.866728915662651,0.339666666666667,0.993
+"GO:0050808","GO:0050808",13,"GO:0099174",0.668739569402917,483,"synapse organization","regulation of presynapse organization",0.913240963855422,0.3358,0.775
+"GO:0006259","GO:0006259",36,"GO:0006301",0.667123628504882,1037,"DNA metabolic process","postreplication repair",0.901457831325301,0.679,0.642
+"GO:0045732","GO:0045732",49,"GO:0009896",0.667123628504882,210,"positive regulation of protein catabolic process","positive regulation of catabolic process",0.872006024096386,0.437333333333333,0.892
+"GO:0043409","GO:0043409",5,"GO:1903753",0.667123628504882,176,"negative regulation of MAPK cascade","negative regulation of p38MAPK cascade",0.811481927710843,0.39975,0.806
+"GO:0032787","GO:0032787",16,"GO:0042759",0.667123628504882,632,"monocarboxylic acid metabolic process","long-chain fatty acid biosynthetic process",0.91616265060241,0.312833333333333,0.722
+"GO:0006493","GO:0006493",30,"GO:0035269",0.660054519263382,97,"protein O-linked glycosylation","protein O-linked mannosylation",0.909180722891566,0.443666666666667,0.876
+"GO:2001234","GO:2001234",33,"GO:0043066",0.660054519263382,243,"negative regulation of apoptotic signaling pathway","negative regulation of apoptotic process",0.807204819277108,0.3592,0.863
+"GO:1902115","GO:1902115",27,"GO:0051965",0.659445639915563,218,"regulation of organelle assembly","positive regulation of synapse assembly",0.865951807228916,0.553333333333333,0.658
+"GO:0016485","GO:0016485",51,"GO:0016485",0.659445639915563,245,"protein processing","protein processing",0.917867469879518,0.54,0
+"GO:0030307","GO:0030307",50,"GO:0045927",0.644186176182206,163,"positive regulation of cell growth","positive regulation of growth",0.872807228915663,0.519,0.962
+"GO:0051604","GO:0051604",51,"GO:0016485",0.643863383141035,549,"protein maturation","protein processing",0.912343373493976,0.54,0.92
+"GO:0006355","GO:0006355",42,"GO:0006351",0.643863383141035,3456,"regulation of DNA-templated transcription","DNA-templated transcription",0.832325301204819,0.338,0.93
+"GO:0007264","GO:0007264",52,"GO:0007264",0.643563001296435,491,"small GTPase mediated signal transduction","small GTPase mediated signal transduction",0.85139156626506,1,0
+"GO:0006357","GO:0006357",42,"GO:0006351",0.643563001296435,2581,"regulation of transcription by RNA polymerase II","DNA-templated transcription",0.839650602409639,0.3452,0.857
+"GO:0030182","GO:0030182",9,"GO:1904948",0.629585364109992,1405,"neuron differentiation","midbrain dopaminergic neuron differentiation",0.907295180722892,0.319125,0.622
+"GO:0071407","GO:0071407",43,"GO:0014070",0.629524290572177,551,"cellular response to organic cyclic compound","response to organic cyclic compound",0.874349397590361,0.3876,0.935
+"GO:0006898","GO:0006898",53,"GO:0006898",0.621693873900116,258,"receptor-mediated endocytosis","receptor-mediated endocytosis",0.983843373493976,1,0
+"GO:0034097","GO:0034097",23,"GO:1990868",0.621693873900116,949,"response to cytokine","response to chemokine",0.894379518072289,0.3688,0.768
+"GO:0006631","GO:0006631",16,"GO:0042759",0.621693873900116,401,"fatty acid metabolic process","long-chain fatty acid biosynthetic process",0.903120481927711,0.282333333333333,0.766
+"GO:0007052","GO:0007052",10,"GO:1903504",0.611819196916514,130,"mitotic spindle organization","regulation of mitotic spindle checkpoint",0.875620481927711,0.3794,0.603
+"GO:0048699","GO:0048699",9,"GO:1904948",0.611819196916514,1485,"generation of neurons","midbrain dopaminergic neuron differentiation",0.907060240963855,0.326875,0.609
+"GO:0010508","GO:0010508",49,"GO:0009896",0.609503999393923,150,"positive regulation of autophagy","positive regulation of catabolic process",0.884433734939759,0.442666666666667,0.876

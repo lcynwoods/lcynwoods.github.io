@@ -1,0 +1,124 @@
+"","go","cluster","parent","score","size","term","parentTerm","termUniqueness","termUniquenessWithinCluster","termDispensability"
+"GO:0001935","GO:0001935",14,"GO:0001935",0.972122219960181,202,"endothelial cell proliferation","endothelial cell proliferation",0.979983739837398,1,0
+"GO:1902882","GO:1902882",9,"GO:1902882",0.972122219960181,35,"regulation of response to oxidative stress","regulation of response to oxidative stress",0.942048780487805,1,0
+"GO:0061548","GO:0061548",3,"GO:0061548",0.972122219960181,17,"ganglion development","ganglion development",0.919260162601626,1,0
+"GO:0061036","GO:0061036",8,"GO:0061036",0.972122219960181,32,"positive regulation of cartilage development","positive regulation of cartilage development",0.86979674796748,0.6145,0
+"GO:0060993","GO:0060993",4,"GO:0060993",0.972122219960181,98,"kidney morphogenesis","kidney morphogenesis",0.915894308943089,0.555,0
+"GO:0048485","GO:0048485",2,"GO:0048485",0.972122219960181,22,"sympathetic nervous system development","sympathetic nervous system development",0.928813008130081,0.5275,0
+"GO:0061549","GO:0061549",2,"GO:0048485",0.972122219960181,9,"sympathetic ganglion development","sympathetic nervous system development",0.918991869918699,0.5275,0.945
+"GO:0051881","GO:0051881",1,"GO:0051881",0.972122219960181,73,"regulation of mitochondrial membrane potential","regulation of mitochondrial membrane potential",0.946585365853658,0.501,0
+"GO:0030856","GO:0030856",10,"GO:0030856",0.972122219960181,171,"regulation of epithelial cell differentiation","regulation of epithelial cell differentiation",0.859447154471545,0.5,0
+"GO:1900117","GO:1900117",7,"GO:1900117",0.972122219960181,30,"regulation of execution phase of apoptosis","regulation of execution phase of apoptosis",0.940886178861789,0.490666666666667,0
+"GO:1903522","GO:1903522",13,"GO:1903522",0.972122219960181,258,"regulation of blood circulation","regulation of blood circulation",0.912447154471545,0.465666666666667,0
+"GO:0045837","GO:0045837",1,"GO:0051881",0.972122219960181,12,"negative regulation of membrane potential","regulation of mitochondrial membrane potential",0.950333333333333,0.464333333333333,0.611
+"GO:1900118","GO:1900118",7,"GO:1900117",0.972122219960181,22,"negative regulation of execution phase of apoptosis","regulation of execution phase of apoptosis",0.928747967479675,0.439666666666667,0.984
+"GO:0035563","GO:0035563",12,"GO:0035563",0.972122219960181,9,"positive regulation of chromatin binding","positive regulation of chromatin binding",0.936520325203252,0.391666666666667,0
+"GO:0043652","GO:0043652",5,"GO:0043652",0.972122219960181,15,"engulfment of apoptotic cell","engulfment of apoptotic cell",0.923569105691057,0.382333333333333,0
+"GO:0030182","GO:0030182",6,"GO:0030182",0.972122219960181,1405,"neuron differentiation","neuron differentiation",0.882674796747967,0.3795,0
+"GO:0048699","GO:0048699",6,"GO:0030182",0.972122219960181,1485,"generation of neurons","neuron differentiation",0.881520325203252,0.373666666666667,0.966
+"GO:0010917","GO:0010917",1,"GO:0051881",0.972122219960181,12,"negative regulation of mitochondrial membrane potential","regulation of mitochondrial membrane potential",0.948243902439024,0.372666666666667,0.886
+"GO:0097345","GO:0097345",11,"GO:0097345",0.972122219960181,37,"mitochondrial outer membrane permeabilization","mitochondrial outer membrane permeabilization",0.835455284552846,0.2994,0
+"GO:1902110","GO:1902110",11,"GO:0097345",0.972122219960181,43,"positive regulation of mitochondrial membrane permeability involved in apoptotic process","mitochondrial outer membrane permeabilization",0.857626016260163,0.2944,0.99
+"GO:0035794","GO:0035794",11,"GO:0097345",0.972122219960181,47,"positive regulation of mitochondrial membrane permeability","mitochondrial outer membrane permeabilization",0.867032520325203,0.2938,0.985
+"GO:0071774","GO:0071774",17,"GO:0071774",0.964727596976386,123,"response to fibroblast growth factor","response to fibroblast growth factor",0.983560975609756,1,0
+"GO:0009953","GO:0009953",15,"GO:0009953",0.964727596976386,97,"dorsal/ventral pattern formation","dorsal/ventral pattern formation",0.937560975609756,1,0
+"GO:0048311","GO:0048311",11,"GO:0097345",0.964727596976386,17,"mitochondrion distribution","mitochondrial outer membrane permeabilization",0.918447154471545,0.5352,0.572
+"GO:0043277","GO:0043277",5,"GO:0043652",0.964727596976386,48,"apoptotic cell clearance","engulfment of apoptotic cell",0.946894308943089,0.431333333333333,0.924
+"GO:0035561","GO:0035561",12,"GO:0035563",0.964727596976386,11,"regulation of chromatin binding","positive regulation of chromatin binding",0.937886178861789,0.419666666666667,0.99
+"GO:1902692","GO:1902692",16,"GO:1902692",0.964727596976386,53,"regulation of neuroblast proliferation","regulation of neuroblast proliferation",0.871349593495935,0.368,0
+"GO:0002052","GO:0002052",16,"GO:1902692",0.964727596976386,37,"positive regulation of neuroblast proliferation","regulation of neuroblast proliferation",0.844430894308943,0.354,0.975
+"GO:0019896","GO:0019896",18,"GO:0019896",0.964727596976386,18,"axonal transport of mitochondrion","axonal transport of mitochondrion",0.925487804878049,0.3316,0
+"GO:1903894","GO:1903894",19,"GO:1903894",0.963159198283676,14,"regulation of IRE1-mediated unfolded protein response","regulation of IRE1-mediated unfolded protein response",0.924048780487805,0.55,0
+"GO:1900102","GO:1900102",19,"GO:1903894",0.963159198283676,15,"negative regulation of endoplasmic reticulum unfolded protein response","regulation of IRE1-mediated unfolded protein response",0.911764227642276,0.55,0.9
+"GO:0051338","GO:0051338",20,"GO:0051338",0.963159198283676,692,"regulation of transferase activity","regulation of transferase activity",0.919747967479675,0.5295,0
+"GO:0018105","GO:0018105",22,"GO:0018105",0.963159198283676,295,"peptidyl-serine phosphorylation","peptidyl-serine phosphorylation",0.850650406504065,0.4405,0
+"GO:2000179","GO:2000179",16,"GO:1902692",0.963159198283676,63,"positive regulation of neural precursor cell proliferation","regulation of neuroblast proliferation",0.923634146341463,0.372,0.921
+"GO:0010923","GO:0010923",21,"GO:0010923",0.963159198283676,24,"negative regulation of phosphatase activity","negative regulation of phosphatase activity",0.839658536585366,0.2595,0
+"GO:0018209","GO:0018209",22,"GO:0018105",0.953149117442354,308,"peptidyl-serine modification","peptidyl-serine phosphorylation",0.866113821138211,0.4395,0.993
+"GO:0006911","GO:0006911",5,"GO:0043652",0.953149117442354,49,"phagocytosis, engulfment","engulfment of apoptotic cell",0.919918699186992,0.429666666666667,0.929
+"GO:0046902","GO:0046902",11,"GO:0097345",0.953149117442354,61,"regulation of mitochondrial membrane permeability","mitochondrial outer membrane permeabilization",0.864178861788618,0.3024,0.956
+"GO:0032515","GO:0032515",21,"GO:0010923",0.953149117442354,20,"negative regulation of phosphoprotein phosphatase activity","negative regulation of phosphatase activity",0.793121951219512,0.249166666666667,0.986
+"GO:0060538","GO:0060538",23,"GO:0060538",0.946229159241724,178,"skeletal muscle organ development","skeletal muscle organ development",0.930934959349593,0.42675,0
+"GO:0035308","GO:0035308",21,"GO:0010923",0.946229159241724,28,"negative regulation of protein dephosphorylation","negative regulation of phosphatase activity",0.810390243902439,0.252666666666667,0.963
+"GO:0030199","GO:0030199",24,"GO:0030199",0.930308598302829,65,"collagen fibril organization","collagen fibril organization",0.950609756097561,0.5645,0
+"GO:0072344","GO:0072344",25,"GO:0072344",0.920640006180384,29,"rescue of stalled ribosome","rescue of stalled ribosome",0.877349593495935,0.5285,0
+"GO:0060562","GO:0060562",10,"GO:0030856",0.920640006180384,334,"epithelial tube morphogenesis","regulation of epithelial cell differentiation",0.908211382113821,0.3728,0.659
+"GO:0060071","GO:0060071",10,"GO:0030856",0.920640006180384,49,"Wnt signaling pathway, planar cell polarity pathway","regulation of epithelial cell differentiation",0.848382113821138,0.3724,0.573
+"GO:0047496","GO:0047496",18,"GO:0019896",0.920640006180384,46,"vesicle transport along microtubule","axonal transport of mitochondrion",0.922626016260163,0.284,0.848
+"GO:0051568","GO:0051568",22,"GO:0018105",0.917363607472516,20,"histone H3-K4 methylation","peptidyl-serine phosphorylation",0.880154471544715,0.45325,0.61
+"GO:2001032","GO:2001032",27,"GO:2001032",0.917363607472516,27,"regulation of double-strand break repair via nonhomologous end joining","regulation of double-strand break repair via nonhomologous end joining",0.835463414634146,0.416222222222222,0
+"GO:0007517","GO:0007517",23,"GO:0060538",0.917363607472516,354,"muscle organ development","skeletal muscle organ development",0.92749593495935,0.40975,0.941
+"GO:0019985","GO:0019985",27,"GO:2001032",0.917363607472516,25,"translesion synthesis","regulation of double-strand break repair via nonhomologous end joining",0.858390243902439,0.388333333333333,0.555
+"GO:0090175","GO:0090175",10,"GO:0030856",0.917363607472516,53,"regulation of establishment of planar polarity","regulation of epithelial cell differentiation",0.887268292682927,0.3706,0.575
+"GO:0019941","GO:0019941",26,"GO:0019941",0.917363607472516,650,"modification-dependent protein catabolic process","modification-dependent protein catabolic process",0.859983739837398,0.294666666666667,0
+"GO:0045930","GO:0045930",28,"GO:0045930",0.915145005186716,248,"negative regulation of mitotic cell cycle","negative regulation of mitotic cell cycle",0.918113821138211,0.4895,0
+"GO:0008016","GO:0008016",13,"GO:1903522",0.915145005186716,208,"regulation of heart contraction","regulation of blood circulation",0.913325203252032,0.468333333333333,0.984
+"GO:0035567","GO:0035567",29,"GO:0035567",0.915145005186716,68,"non-canonical Wnt signaling pathway","non-canonical Wnt signaling pathway",0.922308943089431,0.461,0
+"GO:0043542","GO:0043542",30,"GO:0043542",0.915145005186716,284,"endothelial cell migration","endothelial cell migration",0.943829268292683,0.435333333333333,0
+"GO:0045663","GO:0045663",23,"GO:0060538",0.915145005186716,43,"positive regulation of myoblast differentiation","skeletal muscle organ development",0.871211382113821,0.419,0.663
+"GO:0002009","GO:0002009",10,"GO:0030856",0.915145005186716,516,"morphogenesis of an epithelium","regulation of epithelial cell differentiation",0.918715447154472,0.3518,0.693
+"GO:2000278","GO:2000278",27,"GO:2001032",0.915145005186716,117,"regulation of DNA biosynthetic process","regulation of double-strand break repair via nonhomologous end joining",0.824747967479675,0.321333333333333,0.662
+"GO:0043666","GO:0043666",21,"GO:0010923",0.90548380210554,47,"regulation of phosphoprotein phosphatase activity","negative regulation of phosphatase activity",0.792813008130081,0.253666666666667,0.922
+"GO:0097435","GO:0097435",31,"GO:0097435",0.904059719252256,845,"supramolecular fiber organization","supramolecular fiber organization",0.945967479674797,0.6165,0
+"GO:0099518","GO:0099518",18,"GO:0019896",0.903088944686438,72,"vesicle cytoskeletal trafficking","axonal transport of mitochondrion",0.923170731707317,0.33,0.739
+"GO:0034968","GO:0034968",22,"GO:0018105",0.894348139122227,33,"histone lysine methylation","peptidyl-serine phosphorylation",0.875691056910569,0.44075,0.635
+"GO:0045109","GO:0045109",31,"GO:0097435",0.888116741162415,73,"intermediate filament organization","supramolecular fiber organization",0.945894308943089,0.6165,0.767
+"GO:0006414","GO:0006414",25,"GO:0072344",0.888116741162415,70,"translational elongation","rescue of stalled ribosome",0.869991869918699,0.5285,0.943
+"GO:0030099","GO:0030099",6,"GO:0030182",0.888116741162415,430,"myeloid cell differentiation","neuron differentiation",0.918569105691057,0.490166666666667,0.531
+"GO:0050769","GO:0050769",6,"GO:0030182",0.888116741162415,242,"positive regulation of neurogenesis","neuron differentiation",0.837146341463415,0.454666666666667,0.699
+"GO:0010631","GO:0010631",30,"GO:0043542",0.888116741162415,372,"epithelial cell migration","endothelial cell migration",0.942837398373984,0.429666666666667,0.976
+"GO:0060070","GO:0060070",29,"GO:0035567",0.888116741162415,316,"canonical Wnt signaling pathway","non-canonical Wnt signaling pathway",0.916593495934959,0.423333333333333,0.79
+"GO:0000122","GO:0000122",33,"GO:0000122",0.888116741162415,980,"negative regulation of transcription by RNA polymerase II","negative regulation of transcription by RNA polymerase II",0.823422764227642,0.417333333333333,0
+"GO:2000780","GO:2000780",27,"GO:2001032",0.888116741162415,36,"negative regulation of double-strand break repair","regulation of double-strand break repair via nonhomologous end joining",0.820325203252033,0.407777777777778,0.801
+"GO:0045661","GO:0045661",23,"GO:0060538",0.888116741162415,73,"regulation of myoblast differentiation","skeletal muscle organ development",0.881691056910569,0.4055,0.689
+"GO:0044839","GO:0044839",28,"GO:0045930",0.888116741162415,155,"cell cycle G2/M phase transition","negative regulation of mitotic cell cycle",0.97079674796748,0.39825,0.562
+"GO:0022008","GO:0022008",6,"GO:0030182",0.888116741162415,1715,"neurogenesis","neuron differentiation",0.880333333333333,0.371833333333333,0.937
+"GO:1904358","GO:1904358",32,"GO:1904358",0.888116741162415,37,"positive regulation of telomere maintenance via telomere lengthening","positive regulation of telomere maintenance via telomere lengthening",0.809073170731707,0.357,0
+"GO:0000086","GO:0000086",28,"GO:0045930",0.888116741162415,140,"G2/M transition of mitotic cell cycle","negative regulation of mitotic cell cycle",0.96949593495935,0.3555,0.7
+"GO:0051973","GO:0051973",27,"GO:2001032",0.888116741162415,34,"positive regulation of telomerase activity","regulation of double-strand break repair via nonhomologous end joining",0.798926829268293,0.352,0.603
+"GO:0032212","GO:0032212",32,"GO:1904358",0.888116741162415,34,"positive regulation of telomere maintenance via telomerase","positive regulation of telomere maintenance via telomere lengthening",0.798317073170732,0.351333333333333,0.992
+"GO:0008089","GO:0008089",18,"GO:0019896",0.888116741162415,51,"anterograde axonal transport","axonal transport of mitochondrion",0.927065040650407,0.335,0.87
+"GO:0072384","GO:0072384",18,"GO:0019896",0.888116741162415,89,"organelle transport along microtubule","axonal transport of mitochondrion",0.920837398373984,0.297,0.885
+"GO:0006936","GO:0006936",13,"GO:1903522",0.881840800774149,351,"muscle contraction","regulation of blood circulation",0.957739837398374,0.59,0.619
+"GO:0051972","GO:0051972",27,"GO:2001032",0.864960899048196,46,"regulation of telomerase activity","regulation of double-strand break repair via nonhomologous end joining",0.809764227642276,0.347777777777778,0.616
+"GO:0001822","GO:0001822",4,"GO:0060993",0.859466503400189,314,"kidney development","kidney morphogenesis",0.914414634146341,0.555,0.89
+"GO:0006357","GO:0006357",33,"GO:0000122",0.8591228692571,2581,"regulation of transcription by RNA polymerase II","negative regulation of transcription by RNA polymerase II",0.820317073170732,0.486666666666667,0.814
+"GO:0070534","GO:0070534",34,"GO:0070534",0.849104239948319,58,"protein K63-linked ubiquitination","protein K63-linked ubiquitination",0.873357723577236,0.423857142857143,0
+"GO:0008333","GO:0008333",35,"GO:0008333",0.816919293585467,73,"endosome to lysosome transport","endosome to lysosome transport",0.929471544715447,0.491666666666667,0
+"GO:0016055","GO:0016055",29,"GO:0035567",0.816919293585467,459,"Wnt signaling pathway","non-canonical Wnt signaling pathway",0.913,0.411,0.827
+"GO:0032210","GO:0032210",32,"GO:1904358",0.816919293585467,53,"regulation of telomere maintenance via telomerase","positive regulation of telomere maintenance via telomere lengthening",0.802349593495935,0.369666666666667,0.937
+"GO:0030198","GO:0030198",24,"GO:0030199",0.77670502838018,321,"extracellular matrix organization","collagen fibril organization",0.952325203252033,0.5645,0.871
+"GO:0030097","GO:0030097",6,"GO:0030182",0.77670502838018,947,"hemopoiesis","neuron differentiation",0.911951219512195,0.4515,0.59
+"GO:0051865","GO:0051865",34,"GO:0070534",0.76610271179414,68,"protein autoubiquitination","protein K63-linked ubiquitination",0.874821138211382,0.448428571428571,0.609
+"GO:2000573","GO:2000573",27,"GO:2001032",0.763292983710168,69,"positive regulation of DNA biosynthetic process","regulation of double-strand break repair via nonhomologous end joining",0.817422764227642,0.334555555555556,0.639
+"GO:0001501","GO:0001501",8,"GO:0061036",0.745715914949181,530,"skeletal system development","positive regulation of cartilage development",0.919520325203252,0.6145,0.771
+"GO:0043066","GO:0043066",7,"GO:1900117",0.745715914949181,918,"negative regulation of apoptotic process","regulation of execution phase of apoptosis",0.912658536585366,0.586333333333333,0.544
+"GO:0016485","GO:0016485",37,"GO:0016485",0.745715914949181,245,"protein processing","protein processing",0.860626016260163,0.54,0
+"GO:0006493","GO:0006493",36,"GO:0006493",0.745715914949181,97,"protein O-linked glycosylation","protein O-linked glycosylation",0.860674796747968,0.53,0
+"GO:2000145","GO:2000145",30,"GO:0043542",0.745715914949181,1099,"regulation of cell motility","endothelial cell migration",0.931934959349593,0.515666666666667,0.718
+"GO:0051099","GO:0051099",12,"GO:0035563",0.745715914949181,127,"positive regulation of binding","positive regulation of chromatin binding",0.928910569105691,0.471333333333333,0.835
+"GO:0070936","GO:0070936",34,"GO:0070534",0.745715914949181,65,"protein K48-linked ubiquitination","protein K63-linked ubiquitination",0.872691056910569,0.421571428571429,0.78
+"GO:1903322","GO:1903322",34,"GO:0070534",0.745715914949181,132,"positive regulation of protein modification by small protein conjugation or removal","protein K63-linked ubiquitination",0.806317073170732,0.365,0.594
+"GO:0031398","GO:0031398",34,"GO:0070534",0.745715914949181,110,"positive regulation of protein ubiquitination","protein K63-linked ubiquitination",0.806650406504065,0.338428571428571,0.633
+"GO:0006511","GO:0006511",26,"GO:0019941",0.745715914949181,640,"ubiquitin-dependent protein catabolic process","modification-dependent protein catabolic process",0.860105691056911,0.294333333333333,0.992
+"GO:1901800","GO:1901800",26,"GO:0019941",0.745715914949181,117,"positive regulation of proteasomal protein catabolic process","modification-dependent protein catabolic process",0.818585365853659,0.257833333333333,0.782
+"GO:2000060","GO:2000060",26,"GO:0019941",0.745715914949181,113,"positive regulation of ubiquitin-dependent protein catabolic process","modification-dependent protein catabolic process",0.818130081300813,0.243833333333333,0.818
+"GO:0032436","GO:0032436",26,"GO:0019941",0.745715914949181,93,"positive regulation of proteasomal ubiquitin-dependent protein catabolic process","modification-dependent protein catabolic process",0.820276422764228,0.243,0.804
+"GO:0051604","GO:0051604",37,"GO:0016485",0.737781070673862,549,"protein maturation","protein processing",0.863959349593496,0.54,0.92
+"GO:0045892","GO:0045892",33,"GO:0000122",0.736978768862756,1323,"negative regulation of DNA-templated transcription","negative regulation of transcription by RNA polymerase II",0.816943089430894,0.446666666666667,0.934
+"GO:0016567","GO:0016567",34,"GO:0070534",0.736978768862756,751,"protein ubiquitination","protein K63-linked ubiquitination",0.843918699186992,0.337285714285714,0.755
+"GO:0007010","GO:0007010",38,"GO:0007010",0.678134282143229,1510,"cytoskeleton organization","cytoskeleton organization",0.939219512195122,1,0
+"GO:0006468","GO:0006468",39,"GO:0006468",0.678134282143229,1319,"protein phosphorylation","protein phosphorylation",0.833333333333333,0.6195,0
+"GO:0030155","GO:0030155",40,"GO:0030155",0.673366380707526,802,"regulation of cell adhesion","regulation of cell adhesion",0.944682926829268,1,0
+"GO:0000725","GO:0000725",27,"GO:2001032",0.672495984398993,179,"recombinational repair","regulation of double-strand break repair via nonhomologous end joining",0.858414634146341,0.431,0.629
+"GO:0044772","GO:0044772",28,"GO:0045930",0.671651593482541,470,"mitotic cell cycle phase transition","negative regulation of mitotic cell cycle",0.968894308943089,0.36975,0.78
+"GO:0007041","GO:0007041",35,"GO:0008333",0.664882245942822,134,"lysosomal transport","endosome to lysosome transport",0.93069918699187,0.478333333333333,0.939
+"GO:0031396","GO:0031396",34,"GO:0070534",0.664882245942822,200,"regulation of protein ubiquitination","protein K63-linked ubiquitination",0.812081300813008,0.328,0.662
+"GO:0032434","GO:0032434",26,"GO:0019941",0.664882245942822,143,"regulation of proteasomal ubiquitin-dependent protein catabolic process","modification-dependent protein catabolic process",0.827804878048781,0.247,0.836
+"GO:0006470","GO:0006470",21,"GO:0010923",0.664185582595222,203,"protein dephosphorylation","negative regulation of phosphatase activity",0.845349593495935,0.288166666666667,0.775
+"GO:0006486","GO:0006486",36,"GO:0006493",0.655100232474665,193,"protein glycosylation","protein O-linked glycosylation",0.853081300813008,0.53,0.94
+"GO:0051347","GO:0051347",20,"GO:0051338",0.63811150474423,414,"positive regulation of transferase activity","regulation of transferase activity",0.920691056910569,0.5295,0.941
+"GO:0000724","GO:0000724",27,"GO:2001032",0.63811150474423,175,"double-strand break repair via homologous recombination","regulation of double-strand break repair via nonhomologous end joining",0.856723577235772,0.405,0.749
+"GO:0016311","GO:0016311",21,"GO:0010923",0.633941068692963,302,"dephosphorylation","negative regulation of phosphatase activity",0.896512195121951,0.3015,0.797
+"GO:0006605","GO:0006605",35,"GO:0008333",0.629905863334517,339,"protein targeting","endosome to lysosome transport",0.92939837398374,0.596,0.586
+"GO:0046777","GO:0046777",39,"GO:0006468",0.611715097313482,199,"protein autophosphorylation","protein phosphorylation",0.862463414634146,0.6195,0.761

@@ -1,0 +1,10 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	G2-M Checkpoint	1.562500e-02	1.406250e-01	0	0	6.273927e+00	2.609253e+01	POLQ;STIL;ODC1
+MSigDB_Hallmark_2020	Cholesterol Homeostasis	1.640210e-01	3.569852e-01	0	0	5.852431e+00	1.057980e+01	CXCL16
+MSigDB_Hallmark_2020	Myogenesis	2.242361e-01	3.569852e-01	0	0	4.105006e+00	6.137214e+00	ACTN2
+MSigDB_Hallmark_2020	IL-2/STAT5 Signaling	2.802579e-01	3.569852e-01	0	0	3.157250e+00	4.016164e+00	ODC1
+MSigDB_Hallmark_2020	Fatty Acid Metabolism	2.862362e-01	3.569852e-01	0	0	3.078053e+00	3.850454e+00	ODC1
+MSigDB_Hallmark_2020	Complement	2.882183e-01	3.569852e-01	0	0	3.052520e+00	3.797448e+00	ACTN2
+MSigDB_Hallmark_2020	Apical Junction	3.077494e-01	3.569852e-01	0	0	2.818462e+00	3.321472e+00	ACTN2
+MSigDB_Hallmark_2020	Estrogen Response Late	3.173202e-01	3.569852e-01	0	0	2.714247e+00	3.115532e+00	STIL
+MSigDB_Hallmark_2020	Myc Targets V1	4.258932e-01	4.258932e-01	0	0	1.857063e+00	1.585127e+00	ODC1

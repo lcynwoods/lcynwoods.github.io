@@ -1,0 +1,12 @@
+Gene_set	Term	P-value	Adjusted P-value	Old P-value	Old adjusted P-value	Odds Ratio	Combined Score	Genes
+MSigDB_Hallmark_2020	Interferon Alpha Response	1.364983e-01	2.582405e-01	0	0	7.224286e+00	1.438675e+01	CMPK2
+MSigDB_Hallmark_2020	Coagulation	1.382877e-01	2.582405e-01	0	0	7.121831e+00	1.408997e+01	BMP1
+MSigDB_Hallmark_2020	Myogenesis	1.733422e-01	2.582405e-01	0	0	5.545604e+00	9.718603e+00	DES
+MSigDB_Hallmark_2020	Apoptosis	2.037264e-01	2.582405e-01	0	0	4.621560e+00	7.352797e+00	PPP2R5B
+MSigDB_Hallmark_2020	Epithelial Mesenchymal Transition	2.070360e-01	2.582405e-01	0	0	4.537387e+00	7.145762e+00	BMP1
+MSigDB_Hallmark_2020	TNF-alpha Signaling via NF-kB	2.119758e-01	2.582405e-01	0	0	4.416667e+00	6.851500e+00	IER2
+MSigDB_Hallmark_2020	Interferon Gamma Response	2.201438e-01	2.582405e-01	0	0	4.228992e+00	6.400470e+00	CMPK2
+MSigDB_Hallmark_2020	Apical Junction	2.410049e-01	2.582405e-01	0	0	3.807576e+00	5.417944e+00	BMP1
+MSigDB_Hallmark_2020	p53 Pathway	2.520166e-01	2.582405e-01	0	0	3.613309e+00	4.980081e+00	RCHY1
+MSigDB_Hallmark_2020	DNA Repair	2.520166e-01	2.582405e-01	0	0	3.613309e+00	4.980081e+00	CMPK2
+MSigDB_Hallmark_2020	heme Metabolism	2.582405e-01	2.582405e-01	0	0	3.510839e+00	4.753199e+00	PPP2R5B
